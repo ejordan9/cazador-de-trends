@@ -1,0 +1,576 @@
+{
+  "generado": "2026-06-24T08:52:01-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "San Bernardo",
+          "link": "https://x.com/search?q=San%20Bernardo&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Grau",
+          "link": "https://x.com/search?q=Grau&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#RUN_IT",
+          "link": "https://x.com/search?q=%23RUN_IT&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "El TC",
+          "link": "https://x.com/search?q=El%20TC&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#fiebredebailechv",
+          "link": "https://x.com/search?q=%23fiebredebailechv&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Thayer",
+          "link": "https://x.com/search?q=Thayer&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "san juan",
+          "link": "https://x.com/search?q=san%20juan&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#JIMINxDIOR",
+          "link": "https://x.com/search?q=%23JIMINxDIOR&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Schalper",
+          "link": "https://x.com/search?q=Schalper&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Ghana",
+          "link": "https://x.com/search?q=Ghana&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Instituto Nacional",
+          "link": "https://x.com/search?q=Instituto%20Nacional&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#VolveriasConTuEx2",
+          "link": "https://x.com/search?q=%23VolveriasConTuEx2&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "uzbekistan",
+          "link": "https://x.com/search?q=uzbekistan&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#ElJuicioDeLosEx",
+          "link": "https://x.com/search?q=%23ElJuicioDeLosEx&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": true,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Migraciones",
+          "link": "https://x.com/search?q=Migraciones&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Ballero",
+          "link": "https://x.com/search?q=Ballero&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Senado",
+          "link": "https://x.com/search?q=Senado&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "DIOR GLOBAL AMBASSADOR JIMIN",
+          "link": "https://x.com/search?q=DIOR%20GLOBAL%20AMBASSADOR%20JIMIN&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Correa",
+          "link": "https://x.com/search?q=Correa&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Messi",
+          "link": "https://x.com/search?q=Messi&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "tomás barrios",
+          "link": "https://www.google.com/search?q=tom%C3%A1s%20barrios",
+          "volumen": "500+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "wimbledon",
+          "link": "https://www.google.com/search?q=wimbledon",
+          "volumen": "100+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "gripe",
+          "link": "https://www.google.com/search?q=gripe",
+          "volumen": "200+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "rockstar",
+          "link": "https://www.google.com/search?q=rockstar",
+          "volumen": "200+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "temblor hoy",
+          "link": "https://www.google.com/search?q=temblor%20hoy",
+          "volumen": "500+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "sismologia chile",
+          "link": "https://www.google.com/search?q=sismologia%20chile",
+          "volumen": "1000+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "temperatura calama",
+          "link": "https://www.google.com/search?q=temperatura%20calama",
+          "volumen": "100+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "nestor lorenzo",
+          "link": "https://www.google.com/search?q=nestor%20lorenzo",
+          "volumen": "100+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "posiciones de selección de fútbol de colombia contra selección de fútbol de la república democrática del congo",
+          "link": "https://www.google.com/search?q=posiciones%20de%20selecci%C3%B3n%20de%20f%C3%BAtbol%20de%20colombia%20contra%20selecci%C3%B3n%20de%20f%C3%BAtbol%20de%20la%20rep%C3%BAblica%20democr%C3%A1tica%20del%20congo",
+          "volumen": "10000+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "cumpleaños de messi",
+          "link": "https://www.google.com/search?q=cumplea%C3%B1os%20de%20messi",
+          "volumen": "500+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Ximena Rivera: la jueza que prohibió al paí­s saber quién era el conductor de los 264 km/h",
+          "link": "https://www.reddit.com/r/chile/comments/1ue3wdw/ximena_rivera_la_jueza_que_prohibió_al_país_saber/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Papeado 🤫🚬",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ue1d4z/papeado/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Se acabó: Contraloría determina que Migraciones actuó ilegalmente en ingreso de niños haitianos",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uecjkq/se_acabó_contraloría_determina_que_migraciones/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Casi todo latam últimamente:",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1udybxd/casi_todo_latam_últimamente/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "SPAM. El verdadero Príncipe de Nigeria está tratando de estafarme por Whataspp.",
+          "link": "https://www.reddit.com/r/chile/comments/1udx1n9/spam_el_verdadero_príncipe_de_nigeria_está/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Heinz blacks out its logo in World Cup stunt | Creative Bloq",
+          "link": "https://www.reddit.com/r/marketing/comments/1ueax1m/heinz_blacks_out_its_logo_in_world_cup_stunt/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Thoughts on “Le Alfre” brand based in NYC ?",
+          "link": "https://www.reddit.com/r/marketing/comments/1uec9ge/thoughts_on_le_alfre_brand_based_in_nyc/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "SEO Conferences",
+          "link": "https://www.reddit.com/r/marketing/comments/1ue2qis/seo_conferences/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s going on with the cat subreddits?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ue3rra/whats_going_on_with_the_cat_subreddits/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is up with old people on FB and Sandra Bullock?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1udp7dq/what_is_up_with_old_people_on_fb_and_sandra/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with Tobuscus making an anti-immigrant song on YouTube?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ucfy0e/whats_the_deal_with_tobuscus_making_an/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "Whats going on with the US men's hockey team requesting trades?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uch46x/whats_going_on_with_the_us_mens_hockey_team/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with all these NYC youth meetup events being advertised on Instagram?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ucsc5l/whats_up_with_all_these_nyc_youth_meetup_events/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "I'll never forgive the richest people 🖕",
+          "link": "https://www.reddit.com/r/memes/comments/1ue73cp/ill_never_forgive_the_richest_people/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Gen Z girl with no personality",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1udt6jo/gen_z_girl_with_no_personality/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Europeans being ask about what the biggest surprise about American since visiting",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1udwgtq/europeans_being_ask_about_what_the_biggest/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "that's soo annoying",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uecj1v/thats_soo_annoying/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "The education system at it's finest",
+          "link": "https://www.reddit.com/r/memes/comments/1ue00pz/the_education_system_at_its_finest/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "The Perfect Slice",
+          "link": "https://www.reddit.com/r/Millennials/comments/1ue4i2r/the_perfect_slice/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Mia Goth casually saying she never liked Twilight or Harry Potter next to Robert Pattinson",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1ue8tba/mia_goth_casually_saying_she_never_liked_twilight/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "Trillionaires and billionaires showing you “the problem”",
+          "link": "https://www.reddit.com/r/GenZ/comments/1ue0ogf/trillionaires_and_billionaires_showing_you_the/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "Rate my Rizz 🗿",
+          "link": "https://www.reddit.com/r/GenZ/comments/1ue730c/rate_my_rizz/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Larry David to Variety when asked about \"Trump's UFC fight at the White House made him \"embarrassed to be an American.\"",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uecp9a/larry_david_to_variety_when_asked_about_trumps/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

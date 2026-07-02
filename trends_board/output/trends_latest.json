@@ -1,0 +1,1042 @@
+{
+  "fecha": "2026-07-02",
+  "generado": "2026-07-02T08:34:39-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "Senegal",
+          "link": "https://x.com/search?q=Senegal&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Bélgica",
+          "link": "https://x.com/search?q=B%C3%A9lgica&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Harry Kane",
+          "link": "https://x.com/search?q=Harry%20Kane&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "México",
+          "link": "https://x.com/search?q=M%C3%A9xico&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Grau",
+          "link": "https://x.com/search?q=Grau&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Sony",
+          "link": "https://x.com/search?q=Sony&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#VamosLaU",
+          "link": "https://x.com/search?q=%23VamosLaU&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Gago",
+          "link": "https://x.com/search?q=Gago&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Inglaterra",
+          "link": "https://x.com/search?q=Inglaterra&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Calera",
+          "link": "https://x.com/search?q=Calera&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "cisma",
+          "link": "https://www.google.com/search?q=cisma",
+          "volumen": "100+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "concejal",
+          "link": "https://www.google.com/search?q=concejal",
+          "volumen": "200+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "empleo",
+          "link": "https://www.google.com/search?q=empleo",
+          "volumen": "1000+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "servicio nacional de prevención y respuesta ante desastres",
+          "link": "https://www.google.com/search?q=servicio%20nacional%20de%20prevenci%C3%B3n%20y%20respuesta%20ante%20desastres",
+          "volumen": "1000+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "bombero",
+          "link": "https://www.google.com/search?q=bombero",
+          "volumen": "100+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "combustible",
+          "link": "https://www.google.com/search?q=combustible",
+          "volumen": "2000+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "niño murciélago",
+          "link": "https://www.google.com/search?q=ni%C3%B1o%20murci%C3%A9lago",
+          "volumen": "200+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "chontico noche",
+          "link": "https://www.google.com/search?q=chontico%20noche",
+          "volumen": "200+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "posiciones de u. de chile contra u. la calera",
+          "link": "https://www.google.com/search?q=posiciones%20de%20u.%20de%20chile%20contra%20u.%20la%20calera",
+          "volumen": "100000+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "españa vs austria",
+          "link": "https://www.google.com/search?q=espa%C3%B1a%20vs%20austria",
+          "volumen": "500+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Por qué no está la cagada con esto?!?",
+          "link": "https://www.reddit.com/r/chile/comments/1ul5gh7/por_qué_no_está_la_cagada_con_esto/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Mi foto en la cordillera de noche, nominada al \"Premio del Público\" en un concurso internacional, me ayudan?",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ul4ro8/mi_foto_en_la_cordillera_de_noche_nominada_al/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Argentina: Ley de Arriendo terminó aumentando los Precios",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ulgk57/argentina_ley_de_arriendo_terminó_aumentando_los/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Kast admite preocupación por caída del Imacec y alza en el desempleo: “Nos dimos cuenta tarde que tenemos una enfermedad económica” | Diario Financiero",
+          "link": "https://www.reddit.com/r/chile/comments/1ulf3jb/kast_admite_preocupación_por_caída_del_imacec_y/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": true,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Opinines sobre el mundial hasta ahora",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ul2vrz/opinines_sobre_el_mundial_hasta_ahora/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "[Urgent] Meta Business Suite - I Have Full Admin Access but Can't Post to Client's Instagram",
+          "link": "https://www.reddit.com/r/marketing/comments/1ulcd63/urgent_meta_business_suite_i_have_full_admin/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "10 years dealing with manufacturer co-op marketing funds: obsolete. 2 weeks running direct local search ads: actual booked jobs",
+          "link": "https://www.reddit.com/r/marketing/comments/1uktpe5/10_years_dealing_with_manufacturer_coop_marketing/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Where are data/reporting specialists usually located structurally within a company?",
+          "link": "https://www.reddit.com/r/marketing/comments/1ujugiq/where_are_datareporting_specialists_usually/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with the Catholic church? Something about a schism?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uletn3/whats_going_on_with_the_catholic_church_something/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with everyone posting images of game companies shooting themselves?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ul0e6a/whats_up_with_everyone_posting_images_of_game/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with Trump Accounts?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ul5lhi/whats_up_with_trump_accounts/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with the company Palantir and different countries such as Spain blacklisting them?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ulfqw0/whats_going_on_with_the_company_palantir_and/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is the deal with FreakBob and the weird SpongeBob edits showing up on TikTok and Shorts?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ul0awj/what_is_the_deal_with_freakbob_and_the_weird/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "It seems like people have forgotten what this line is used for these days.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uldp61/it_seems_like_people_have_forgotten_what_this/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Literally had to block them on my cashapp",
+          "link": "https://www.reddit.com/r/memes/comments/1ul5krx/literally_had_to_block_them_on_my_cashapp/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "On the new Sony drama",
+          "link": "https://www.reddit.com/r/memes/comments/1ulcdb5/on_the_new_sony_drama/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "What the Entertainment Software Association did",
+          "link": "https://www.reddit.com/r/memes/comments/1ul5c4j/what_the_entertainment_software_association_did/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "The current gaming situation right now",
+          "link": "https://www.reddit.com/r/memes/comments/1ul158q/the_current_gaming_situation_right_now/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Seth Rogen and Pharrell Williams have beef all because of Rogen’s ‘The Lion King’ singing",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1ul86m1/seth_rogen_and_pharrell_williams_have_beef_all/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "I thought this was from the 90s until I read the blurb lol",
+          "link": "https://www.reddit.com/r/Millennials/comments/1ul6vmq/i_thought_this_was_from_the_90s_until_i_read_the/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "Mississippi BTW",
+          "link": "https://www.reddit.com/r/GenZ/comments/1ul6hij/mississippi_btw/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Oscar winning deaf actor Troy Kotsur participated in a quiet Jennifer Hudson spirit tunnel.",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1ul4peq/oscar_winning_deaf_actor_troy_kotsur_participated/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Matt Smith reacts to Keanu Reeves being spotted watching ‘Morbius’ on a flight: “Jesus Christ he must have really went through the airplane library to get to ‘Morbius’”",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1ul2jfq/matt_smith_reacts_to_keanu_reeves_being_spotted/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        }
+      ]
+    }
+  ],
+  "noticias": {
+    "fuente": "Noticias",
+    "ok": true,
+    "detalle": "",
+    "items": [
+      {
+        "fuente": "Think with Google",
+        "tema": "How visionary agencies and brands use AI to bring impossible ideas to life",
+        "link": "https://www.thinkwithgoogle.com/marketing-strategies/automation/ai-in-marketing-impossible-ideas/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "volumen": null,
+        "orden": 1,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://storage.googleapis.com/twg-content/images/TwG-US-2828---Lighthouse-Program-AI-x-Creativi.width-600.jpg"
+      },
+      {
+        "fuente": "Think with Google",
+        "tema": "How Airalo transformed its iOS growth strategy with privacy-centric measurement",
+        "link": "https://www.thinkwithgoogle.com/marketing-strategies/data-and-measurement/airalo-privacy-first-measurement/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "volumen": null,
+        "orden": 2,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://storage.googleapis.com/twg-content/images/1600_x_900_-_Airalo_1.width-600.png"
+      },
+      {
+        "fuente": "Think with Google",
+        "tema": "Google DeepMind CEO on AI and the future of creativity",
+        "link": "https://www.thinkwithgoogle.com/marketing-strategies/automation/future-of-ai-creativity-demis-hassabis/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "volumen": null,
+        "orden": 3,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://storage.googleapis.com/twg-content/images/TwG-US-2835---Demis-Palais-Keynote---Thumbnail.width-600.png"
+      },
+      {
+        "fuente": "Think with Google",
+        "tema": "Frontier CMO: The creativity edition",
+        "link": "https://www.thinkwithgoogle.com/marketing-strategies/automation/ai-creativity-guide-marketing-leaders/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "volumen": null,
+        "orden": 4,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://storage.googleapis.com/twg-content/images/TwG-US-2821---TwG-Cannes-PDF---Thumb_01_1.width-600.png"
+      },
+      {
+        "fuente": "La Criatura Creativa",
+        "tema": "KitKat convierte sus barritas en un guión que nos invita a tomarnos un descanso en nuestro día a día",
+        "link": "https://lacriaturacreativa.com/2026/03/17/kitkat-convierte-sus-barritas-en-un-guion-que-nos-invita-a-tomarnos-un-descanso-en-nuestro-dia-a-dia/",
+        "volumen": null,
+        "orden": 1,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://lacriaturacreativa.com/wp-content/uploads/2026/03/kit-kat-03-1024x576.jpg"
+      },
+      {
+        "fuente": "La Criatura Creativa",
+        "tema": "Cartas de restaurante: un elemento clave de marketing en hostelería",
+        "link": "https://lacriaturacreativa.com/2026/03/16/cartas-de-restaurante-un-elemento-clave-de-marketing-en-hosteleria/",
+        "volumen": null,
+        "orden": 2,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://lacriaturacreativa.com/wp-content/uploads/2026/03/image.jpeg"
+      },
+      {
+        "fuente": "La Criatura Creativa",
+        "tema": "Herramientas digitales que están transformando el proceso creativo",
+        "link": "https://lacriaturacreativa.com/2025/11/20/herramientas-digitales-que-estan-transformando-el-proceso-creativo/",
+        "volumen": null,
+        "orden": 3,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": null
+      },
+      {
+        "fuente": "La Criatura Creativa",
+        "tema": "Software ERP para pymes y autónomos en la era digital",
+        "link": "https://lacriaturacreativa.com/2025/11/20/software-erp-para-pymes-y-autonomos-en-la-era-digital/",
+        "volumen": null,
+        "orden": 4,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": null
+      },
+      {
+        "fuente": "JF Digital",
+        "tema": "¿Cómo aparecer en ChatGPT y lograr que la IA recomiende tu marca?",
+        "link": "https://jfdigital.es/como-aparecer-en-chatgpt/",
+        "volumen": null,
+        "orden": 1,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://jfdigital.es/wp-content/uploads/2026/06/aparecer-chatgpt.png"
+      },
+      {
+        "fuente": "JF Digital",
+        "tema": "¿Cuáles son las mejores herramientas de IA de Marketing digital?",
+        "link": "https://jfdigital.es/mejores-herramientas-ia/",
+        "volumen": null,
+        "orden": 2,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://jfdigital.es/wp-content/uploads/2026/06/herramientas-ia-marketing-difgital.png"
+      },
+      {
+        "fuente": "JF Digital",
+        "tema": "¿Realmente existen diferencias entre GEO y SEO? ¿Qué dice Google sobre el nuevo SEO?",
+        "link": "https://jfdigital.es/geo-seo-diferencias/",
+        "volumen": null,
+        "orden": 3,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://jfdigital.es/wp-content/uploads/2026/05/geo-seo.png"
+      },
+      {
+        "fuente": "JF Digital",
+        "tema": "¿Qué diferencias hay entre ASO y SEO? ¿Son compatibles dentro de una estrategia digital?",
+        "link": "https://jfdigital.es/aso-y-seo/",
+        "volumen": null,
+        "orden": 4,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://jfdigital.es/wp-content/uploads/2026/05/aso-seo-diferencias.png"
+      },
+      {
+        "fuente": "Puro Merca",
+        "tema": "Coca-Cola® quiere que vivas el Mundial y tiene un rally preparado para ti…",
+        "link": "https://puromerca.com/rally-mundialista-coca-cola-2026-guadalajara-monterrey/",
+        "volumen": null,
+        "orden": 1,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/YDRAY-RALLY_COCACOLA_ESTATICOS_BACK_DE_TV_-1920x1080-1-1024x576.png"
+      },
+      {
+        "fuente": "Puro Merca",
+        "tema": "¡Qué chorpresa! Así es cómo Vualá convirtió la nostalgia del Chavo del 8 en un premio nacional",
+        "link": "https://puromerca.com/vuala-chorpresa-chavo-del-8-iab-mixx-2026/",
+        "volumen": null,
+        "orden": 2,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3ad.png"
+      },
+      {
+        "fuente": "Puro Merca",
+        "tema": "Doritos® está llegando al Mundial 2026 sin hablar directamente del futbol.",
+        "link": "https://puromerca.com/doritos-mundial-2026-after-musica/",
+        "volumen": null,
+        "orden": 3,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_Escuby-1-240x300.png"
+      },
+      {
+        "fuente": "Puro Merca",
+        "tema": "mixi, la marca que sabe de gatos y acaba de convertirse en el alimento oficial de la Selección Nacional",
+        "link": "https://puromerca.com/mixi-alimento-oficial-seleccion-nacional/",
+        "volumen": null,
+        "orden": 4,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": null
+      },
+      {
+        "fuente": "Mercado Negro PE",
+        "tema": "El comercial de Hyundai que convirtió la fiebre del Mundial 2014 en una sala de maternidad llena de bebés",
+        "link": "https://www.mercadonegro.pe/publicidad/campanas/hyundai-mundial-2014/",
+        "volumen": null,
+        "orden": 1,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/Portada-2026-07-01T171828.477.png"
+      },
+      {
+        "fuente": "Mercado Negro PE",
+        "tema": "Lentes de Meta llegan al Perú: estos son los modelos que ya están disponibles",
+        "link": "https://www.mercadonegro.pe/actualidad/lentes-de-meta-ray-ban-oakley/",
+        "volumen": null,
+        "orden": 2,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/Ray-Ban-Meta-Scriber-Optics-GEN-2-A.avif"
+      },
+      {
+        "fuente": "Mercado Negro PE",
+        "tema": "M&M’s retirará temporalmente dos colores de sus golosinas por presión regulatoria en Estados Unidos",
+        "link": "https://www.mercadonegro.pe/actualidad/mms-retirara-dos-colores/",
+        "volumen": null,
+        "orden": 3,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": null
+      },
+      {
+        "fuente": "Mercado Negro PE",
+        "tema": "Aerolínea sorprende a sus pasajeros de primera clase con un conjunto exclusivo de adidas por el Mundial 2026",
+        "link": "https://www.mercadonegro.pe/actualidad/aerolinea-adidas-mundial/",
+        "volumen": null,
+        "orden": 4,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/Portada-2026-07-01T162247.505.png"
+      },
+      {
+        "fuente": "RoastBrief",
+        "tema": "La reputación como diferenciador competitivo: Entrevista exclusiva con Jennifer Seifert",
+        "link": "https://roastbrief.com.mx/2026/07/la-reputacion-como-diferenciador-competitivo-entrevista-exclusiva-con-jennifer-seifert/",
+        "volumen": null,
+        "orden": 1,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://www.youtube.com/embed/vlGWFaWbBKw"
+      },
+      {
+        "fuente": "RoastBrief",
+        "tema": "Doritos, Cheetos y Sabritas dominan el consumo de la batalla por las botanas favoritas de México, en el Mundial 2026",
+        "link": "https://roastbrief.com.mx/2026/07/doritos-cheetos-y-sabritas-dominan-el-consumo-de-la-batalla-por-las-botanas-favoritas-de-mexico-en-el-mundial-2026/",
+        "volumen": null,
+        "orden": 2,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": null
+      },
+      {
+        "fuente": "RoastBrief",
+        "tema": "REENCUÉNTRATE: ATMK y Grupo Brisas presentan su nueva estrategia de comunicación para 2026",
+        "link": "https://roastbrief.com.mx/2026/07/reencuentrate-atmk-y-grupo-brisas-presentan-su-nueva-estrategia-de-comunicacion-para-2026/",
+        "volumen": null,
+        "orden": 3,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://www.youtube.com/embed/7kR4Y1YDqUg"
+      },
+      {
+        "fuente": "RoastBrief",
+        "tema": "OpenAI Signals: el español lidera el uso no inglés de ChatGPT y América Latina se consolida como región de más rápido crecimiento",
+        "link": "https://roastbrief.com.mx/2026/07/openai-signals-el-espanol-lidera-el-uso-no-ingles-de-chatgpt-y-america-latina-se-consolida-como-region-de-mas-rapido-crecimiento/",
+        "volumen": null,
+        "orden": 4,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://roastbrief.com.mx/wp-content/uploads/2026/07/unnamed.jpg"
+      }
+    ]
+  },
+  "efemerides": {
+    "fuente": "Efemérides",
+    "ok": true,
+    "detalle": "",
+    "items": [
+      {
+        "fuente": "1992",
+        "tema": "Fallece Camarón de la Isla, cantaor español, renovador del cante flamenco.",
+        "link": "https://es.wikipedia.org/wiki/Camar%C3%B3n_de_la_Isla",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "Hoy · 02/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Camar%C3%B3n_De_La_Isla_%281969%29_%28cropped%29.jpg"
+      },
+      {
+        "fuente": "1964",
+        "tema": "El presidente estadounidense Lyndon B. Johnson signa la Ley de Derechos Civiles, proscribiendo así la segregación racial en escuelas, lugares de trabajo y en cualquier otra instalación pública.",
+        "link": "https://es.wikipedia.org/wiki/Lyndon_B._Johnson",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "Hoy · 02/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LBJ_photo_portrait_leaning_on_chair_color_%28cropped%29.jpg/330px-LBJ_photo_portrait_leaning_on_chair_color_%28cropped%29.jpg"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Internacional del OVNI",
+        "link": "https://es.wikipedia.org/wiki/Ovni",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "Hoy · 02/07",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Internacional del Periodista Deportivo",
+        "link": "https://es.wikipedia.org/wiki/Periodismo_deportivo",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "Hoy · 02/07",
+        "imagen": null
+      },
+      {
+        "fuente": "2013",
+        "tema": "En Egipto, tiene lugar un golpe de Estado que derroca a su primer presidente democráticamente electo, Mohamed Morsi.",
+        "link": "https://es.wikipedia.org/wiki/Egipto",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "viernes 03/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/langes-330px-Flag_of_Egypt.svg.png"
+      },
+      {
+        "fuente": "1971",
+        "tema": "Muere Jim Morrison, cantante y poeta estadounidense, vocalista de The Doors.",
+        "link": "https://es.wikipedia.org/wiki/Jim_Morrison",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "viernes 03/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jim_Morrison_-_Young_Lion_%281967%29_%282%29_%28cropped%29.jpg/330px-Jim_Morrison_-_Young_Lion_%281967%29_%282%29_%28cropped%29.jpg"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Internacional Libre de Bolsas de plástico",
+        "link": "https://es.wikipedia.org/wiki/Bolsa_de_pl%C3%A1stico",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "viernes 03/07",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Internacional del Síndrome de Rubinstein-Taybi",
+        "link": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Rubinstein-Taybi",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "viernes 03/07",
+        "imagen": null
+      },
+      {
+        "fuente": "1948",
+        "tema": "Fallece Monteiro Lobato, escritor y crítico de arte brasileño.",
+        "link": "https://es.wikipedia.org/wiki/Monteiro_Lobato",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "sábado 04/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Monteiro_Lobato.jpg/330px-Monteiro_Lobato.jpg"
+      },
+      {
+        "fuente": "1934",
+        "tema": "Fallece Maria Skłodowska-Curie,  «Marie Curie», química franco-polaca.",
+        "link": "https://es.wikipedia.org/wiki/Marie_Curie",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "sábado 04/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Marie_Curie_%281900%29.jpg/330px-Marie_Curie_%281900%29.jpg"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial de los Delfines en Cautiverio",
+        "link": "https://es.wikipedia.org/wiki/Delphinidae",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "sábado 04/07",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial del e-book ó Libro Electrónico",
+        "link": "https://es.wikipedia.org/wiki/Libro_electr%C3%B3nico",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "sábado 04/07",
+        "imagen": null
+      },
+      {
+        "fuente": "2018",
+        "tema": "Wikimedia Commons por medio de un permiso del gobierno de la Federación de Rusia logra tener acceso y albergar la famosa fotografía Alzando una bandera sobre el Reichstag de la Segunda Guerra Mundial en su galería de imágenes.",
+        "link": "https://es.wikipedia.org/wiki/Wikimedia_Commons",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "domingo 05/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Commons-logo-en.svg/langes-330px-Commons-logo-en.svg.png"
+      },
+      {
+        "fuente": "1965",
+        "tema": "Fallece Porfirio Rubirosa, diplomático, piloto automovolístico y jugador de polo dominicano.",
+        "link": "https://es.wikipedia.org/wiki/Porfirio_Rubirosa",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "domingo 05/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Porfirio_Rubirosa.png/330px-Porfirio_Rubirosa.png"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial del Bikini",
+        "link": "https://es.wikipedia.org/wiki/Bikini",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "domingo 05/07",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día de la Independencia",
+        "link": "https://es.wikipedia.org/wiki/Francia",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "domingo 05/07",
+        "imagen": null
+      },
+      {
+        "fuente": "2018",
+        "tema": "Wikimedia Commons por medio de un permiso del gobierno federal de Estados Unidos logra tener acceso y albergar la famosa fotografía Alzando la bandera en Iwo Jima de la Segunda Guerra Mundial en su galería de imágenes.",
+        "link": "https://es.wikipedia.org/wiki/Wikimedia_Commons",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "lunes 06/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Commons-logo-en.svg/langes-330px-Commons-logo-en.svg.png"
+      },
+      {
+        "fuente": "1935",
+        "tema": "Nace el XIV dalái lama (en la imagen) del Tíbet.",
+        "link": "https://es.wikipedia.org/wiki/Tenzin_Gyatso",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "lunes 06/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tenzin_Gyatso_-_14th_Dalai_Lama_%282012%29.jpg/330px-Tenzin_Gyatso_-_14th_Dalai_Lama_%282012%29.jpg"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial de las Zoonosis",
+        "link": "https://es.wikipedia.org/wiki/Zoonosis",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "lunes 06/07",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Internacional del Beso Robado",
+        "link": "https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_del_Beso",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "lunes 06/07",
+        "imagen": null
+      },
+      {
+        "fuente": "Efemérides",
+        "tema": "⚠️ La fuente falló: martes 07/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/07",
+        "link": "",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": true,
+        "grupo": "martes 07/07",
+        "imagen": null
+      },
+      {
+        "fuente": "Efemérides",
+        "tema": "⚠️ La fuente falló: miércoles 08/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/08",
+        "link": "",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": true,
+        "grupo": "miércoles 08/07",
+        "imagen": null
+      }
+    ]
+  }
+}

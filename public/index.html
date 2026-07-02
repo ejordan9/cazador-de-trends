@@ -1,0 +1,561 @@
+<!doctype html>
+<html lang="es" data-theme="dark"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-store, max-age=0">
+<title>Tablero de Tendencias — 2026-07-02</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Roboto+Flex:opsz,wght@8..144,400;8..144,500;8..144,700&display=swap"><style>
+*,*::before,*::after{box-sizing:border-box;}
+/* Paleta Material Design 3 oficial (baseline violeta) */
+:root,[data-theme="dark"]{
+  --bg:#0F0F11; --surface:#1C1B1F; --surface-container:#211F26;
+  --surface-container-high:#2B2930;
+  --primary:#D0BCFF; --on-primary:#381E72;
+  --primary-tint:rgba(208,188,255,.16);
+  --sensible:#FFB951; --sensible-bg:#3B2A00;
+  --sensible-border:rgba(255,185,81,.34);
+  --error:#F2B8B8; --error-bg:rgba(242,184,184,.10);
+  --error-border:rgba(242,184,184,.32);
+  --on-surface:#E6E1E5; --on-surface-variant:#CAC4D0;
+  --outline:rgba(147,143,153,.30); --state:rgba(230,225,229,.08);
+}
+[data-theme="light"]{
+  --bg:#FEF7FF; --surface:#FFFBFE; --surface-container:#ECE6F0;
+  --surface-container-high:#E6E0E9;
+  --primary:#6750A4; --on-primary:#FFFFFF;
+  --primary-tint:rgba(103,80,164,.12);
+  --sensible:#7A5900; --sensible-bg:#FFDEA8;
+  --sensible-border:rgba(122,89,0,.30);
+  --error:#B3261E; --error-bg:rgba(179,38,30,.09);
+  --error-border:rgba(179,38,30,.26);
+  --on-surface:#1C1B1F; --on-surface-variant:#49454F;
+  --outline:rgba(121,116,126,.28); --state:rgba(28,27,31,.06);
+}
+html{color-scheme:dark light;}
+body{
+  margin:0; background:var(--bg); color:var(--on-surface);
+  font-family:"Roboto","Roboto Flex",system-ui,sans-serif;
+  font-size:14px; line-height:1.45; -webkit-font-smoothing:antialiased;
+}
+/* Header fijo (M3 top app bar) */
+.appbar{
+  position:sticky; top:0; z-index:10;
+  display:flex; align-items:center; gap:16px; flex-wrap:wrap;
+  padding:14px 20px; background:var(--surface);
+  border-bottom:1px solid var(--outline);
+}
+.appbar h1{
+  margin:0; font-family:"Roboto Flex",sans-serif; font-weight:400;
+  font-size:26px; letter-spacing:0;  /* M3 Display Small (compacto) */
+}
+.appbar .meta{
+  margin:2px 0 0; color:var(--on-surface-variant);
+  font-size:12px; letter-spacing:.3px;  /* M3 Label */
+}
+.appbar-main{margin-right:auto;}
+.badges{display:flex; gap:8px; flex-wrap:wrap;}
+.badge{
+  display:inline-flex; align-items:center; gap:6px;
+  padding:5px 12px; border-radius:8px;
+  background:var(--surface-container-high); color:var(--on-surface-variant);
+  font-size:12px; font-weight:500; letter-spacing:.3px;
+}
+.badge b{color:var(--on-surface); font-family:"Roboto Flex",sans-serif;}
+.badge.down{
+  background:var(--error-bg); color:var(--error);
+  border:1px solid var(--error-border);
+}
+/* Toggle de tema (M3 icon button) */
+.toggle{
+  width:40px; height:40px; border:none; border-radius:50%;
+  background:transparent; color:var(--on-surface-variant);
+  font-size:18px; cursor:pointer; line-height:1;
+  display:inline-flex; align-items:center; justify-content:center;
+  transition:background .15s;
+}
+.toggle:hover{background:var(--state);}
+/* Grid 3 columnas desktop / stack mobile (mobile-first) */
+.grid{
+  display:grid; grid-template-columns:1fr; gap:16px;
+  padding:16px 16px 0; max-width:1500px; margin:0 auto;
+}
+@media(min-width:768px){
+  .grid{grid-template-columns:repeat(3,1fr); padding:20px 20px 0;}
+}
+.col{
+  background:var(--surface-container); border-radius:16px;
+  border:1px solid var(--outline); overflow:hidden;
+}
+.col-head{
+  display:flex; align-items:center; gap:10px;
+  padding:14px 16px; border-bottom:1px solid var(--outline);
+  position:sticky; top:0; background:var(--surface-container);
+}
+.col-head h2{
+  margin:0; font-family:"Roboto Flex",sans-serif; font-weight:500;
+  font-size:15px; letter-spacing:.1px; margin-right:auto;  /* M3 Title */
+}
+.status{
+  width:26px; height:26px; border-radius:50%; flex:0 0 auto;
+  display:inline-flex; align-items:center; justify-content:center;
+  font-size:13px; font-weight:700;
+}
+.status svg{width:15px; height:15px;}
+.status.ok{background:var(--primary-tint); color:var(--primary);}
+.status.down{background:var(--error-bg); color:var(--error);}
+.count{
+  font-family:"Roboto Flex",sans-serif; font-weight:500; font-size:13px;
+  color:var(--on-surface-variant);
+  background:var(--surface-container-high); border-radius:8px;
+  padding:2px 9px; min-width:26px; text-align:center;
+}
+/* Items */
+.items{list-style:none; margin:0; padding:6px;}
+.item{
+  position:relative; display:flex; align-items:baseline; gap:12px;
+  padding:9px 10px; border-radius:12px; transition:background .12s;
+}
+.item + .item{margin-top:1px;}
+.item:hover{background:var(--state);}  /* state layer M3 ~8% */
+.pos{
+  flex:0 0 auto; width:22px; text-align:right;
+  font-family:"Roboto Flex",sans-serif; font-variant-numeric:tabular-nums;
+  font-size:12px; color:var(--on-surface-variant); padding-top:1px;
+}
+.body{flex:1 1 auto; min-width:0;}
+.name{
+  color:var(--on-surface); text-decoration:none;
+  word-break:break-word; line-height:1.35;
+}
+a.name:hover{text-decoration:underline; text-underline-offset:2px;}
+.warn{margin-left:6px; font-size:12px; filter:grayscale(.1);}
+.vol{
+  flex:0 0 auto; align-self:center;
+  font-family:"Roboto Flex",sans-serif; font-weight:500; font-size:11px;
+  letter-spacing:.4px; color:var(--primary);
+  background:var(--primary-tint); border-radius:8px; padding:3px 9px;
+  white-space:nowrap;
+}
+/* Sensible: fondo ámbar suave + borde, NO se oculta */
+.item.sensible{
+  background:var(--sensible-bg);
+  box-shadow:inset 0 0 0 1px var(--sensible-border);
+}
+.item.sensible:hover{background:var(--sensible-bg); filter:brightness(1.08);}
+.item.sensible .name{color:var(--on-surface);}
+.item.sensible .pos{color:var(--sensible);}
+/* Error: fondo rojo suave + mensaje */
+.item.error{
+  background:var(--error-bg); color:var(--error);
+  box-shadow:inset 0 0 0 1px var(--error-border);
+  align-items:flex-start;
+}
+.item.error .msg{font-size:13px; line-height:1.4;}
+.item.error:hover{background:var(--error-bg);}
+/* Agrupación por comunidad (Reddit) */
+.items.grouped{padding:6px 6px 10px;}
+.group-head{
+  list-style:none; margin:14px 8px 4px;
+  font-family:"Roboto Flex",sans-serif; font-weight:700; font-size:11px;
+  letter-spacing:1.2px; text-transform:uppercase; color:var(--primary);
+}
+.items.grouped > .group-head:first-child{margin-top:4px;}
+.subgroup{list-style:none; margin:0 0 6px;}
+.sub-head{
+  display:flex; align-items:center; gap:6px;
+  margin:6px 10px 2px; padding-bottom:3px;
+  font-family:"Roboto Flex",sans-serif; font-weight:500; font-size:12px;
+  color:var(--on-surface-variant); letter-spacing:.2px;
+  border-bottom:1px solid var(--outline);
+}
+.sub-head::before{
+  content:""; width:6px; height:6px; border-radius:50%;
+  background:var(--on-surface-variant); flex:0 0 auto; opacity:.6;
+}
+.sub-list{list-style:none; margin:0; padding:0;}
+/* Cuentas a revisar: tarjeta apilada bajo X, agrupada por RED */
+.status.star{background:rgba(255,183,77,.16); color:var(--sensible);}
+.acc-grid{
+  display:grid; gap:16px;
+  grid-template-columns:repeat(auto-fill, minmax(240px, 1fr));
+}
+.acc-net{
+  background:var(--surface-container); border:1px solid var(--outline);
+  border-radius:16px; padding:6px;
+}
+.acc-net-head{
+  display:flex; align-items:center; gap:8px; padding:10px 12px 8px;
+}
+.acc-net-head h3{
+  margin:0; font-family:"Roboto Flex",sans-serif; font-weight:700;
+  font-size:12px; letter-spacing:1px; text-transform:uppercase;
+  color:var(--primary); margin-right:auto;
+}
+.acc-net-head .n{
+  font-family:"Roboto Flex",sans-serif; font-size:12px; font-weight:500;
+  color:var(--on-surface-variant); background:var(--surface-container-high);
+  border-radius:7px; padding:1px 8px;
+}
+.acc-cat{
+  font-family:"Roboto Flex",sans-serif; font-weight:500; font-size:10.5px;
+  letter-spacing:.6px; text-transform:uppercase; color:var(--on-surface-variant);
+  margin:8px 10px 3px;
+}
+.acc-list{display:flex; flex-direction:column; gap:4px;}
+.acc, .acc-row{
+  display:flex; align-items:center; gap:11px;
+  padding:8px 10px; border-radius:12px; text-decoration:none;
+  color:var(--on-surface); transition:background .12s;
+}
+.acc:hover, .acc-row:hover{background:var(--state);}
+.acc-avatar{
+  flex:0 0 auto; width:34px; height:34px; border-radius:50%;
+  display:inline-flex; align-items:center; justify-content:center;
+  background:var(--surface-container-high); color:var(--primary);
+  font-family:"Roboto Flex",sans-serif; font-weight:700; font-size:14px;
+}
+.acc-main{display:flex; flex-direction:column; min-width:0; flex:1 1 auto;}
+.acc-name{
+  font-family:"Roboto Flex",sans-serif; font-weight:500; font-size:13.5px;
+  line-height:1.25; color:var(--on-surface);
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+.acc-sub{
+  font-size:11px; color:var(--on-surface-variant); letter-spacing:.2px;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+/* Banner de data desactualizada */
+.stale{
+  max-width:1500px; margin:10px auto 0; padding:10px 16px;
+  background:var(--error-bg); border:1px solid var(--error-border);
+  color:var(--error); border-radius:12px; font-size:13px; letter-spacing:.2px;
+}
+.stale b{color:var(--error);}
+/* Botón "+" para agregar cuenta */
+.acc-add{
+  flex:0 0 auto; padding:6px 14px; border-radius:20px;
+  border:1px solid var(--outline); background:var(--surface-container-high);
+  color:var(--on-surface); font-size:13px; font-weight:500; line-height:1;
+  font-family:"Roboto Flex",sans-serif; cursor:pointer;
+  transition:background .12s, border-color .12s;
+}
+.acc-add:hover{background:var(--state); border-color:var(--primary);}
+/* Formulario de agregar */
+.acc-form{
+  display:flex; flex-wrap:wrap; gap:8px; align-items:center;
+  max-width:680px; margin-bottom:14px; padding:12px 14px;
+  border:1px solid var(--outline); border-radius:12px;
+  background:var(--surface-container);
+}
+.acc-form .acc-in{flex:1 1 180px;}
+.acc-in{
+  width:100%; padding:8px 10px; border-radius:9px;
+  border:1px solid var(--outline); background:var(--surface-container);
+  color:var(--on-surface); font-family:inherit; font-size:13px;
+}
+.acc-in:focus{outline:none; border-color:var(--primary);}
+.acc-form-actions{display:flex; gap:8px; margin-top:2px;}
+.acc-btn{
+  flex:1 1 auto; padding:8px 10px; border-radius:9px; border:none;
+  background:var(--primary); color:var(--on-primary);
+  font-family:"Roboto Flex",sans-serif; font-weight:500; font-size:13px;
+  cursor:pointer; transition:filter .12s;
+}
+.acc-btn:hover{filter:brightness(1.08);}
+.acc-btn.ghost{
+  background:transparent; color:var(--on-surface-variant);
+  border:1px solid var(--outline);
+}
+/* Fila de cuenta agregada por el usuario (con botón borrar) */
+.acc-row{justify-content:space-between;}
+.acc-link{display:flex; align-items:center; gap:11px; flex:1 1 auto;
+  min-width:0; text-decoration:none; color:inherit;}
+.acc-del{
+  flex:0 0 auto; width:24px; height:24px; border-radius:50%; border:none;
+  background:transparent; color:var(--on-surface-variant); cursor:pointer;
+  font-size:13px; opacity:0; transition:opacity .12s, background .12s;
+}
+.acc-row:hover .acc-del{opacity:1;}
+.acc-del:hover{background:var(--error-bg); color:var(--error);}
+footer.note{
+  max-width:1400px; margin:0 auto; padding:4px 20px 28px;
+  color:var(--on-surface-variant); font-size:12px; letter-spacing:.2px;
+}
+/* Columna apilada: trend + tarjeta secundaria debajo (cuentas / Instagram) */
+.col-stack{display:flex; flex-direction:column; gap:16px; min-width:0;}
+.accounts-ig .acc-body{padding:6px;}
+.accounts-ig .acc-list{display:flex; flex-direction:column; gap:4px;}
+/* Tarjeta de cuentas apilada bajo X (columna angosta) */
+.col.accounts .acc-grid{display:block; padding:6px;}
+.col.accounts .acc-net{background:transparent; border:none; padding:0; margin-bottom:8px;}
+.col.accounts .acc-net-head{padding:8px 10px 4px;}
+.col.accounts .acc-form{margin:8px; max-width:none;}
+/* Secciones a todo el ancho (efemérides y noticias) */
+.feed-wide{max-width:1500px; margin:18px auto 0; padding:0 20px;}
+.feed-wide > .col-head{
+  background:transparent; border:none; padding:4px 0 12px; position:static;
+}
+/* Efemérides de la semana */
+.efem-grid{
+  display:grid; gap:14px;
+  grid-template-columns:repeat(auto-fill, minmax(240px, 1fr));
+}
+.efem-card{
+  background:var(--surface-container); border:1px solid var(--outline);
+  border-radius:16px; padding:12px 14px;
+}
+.efem-dia{
+  font-family:"Roboto Flex",sans-serif; font-weight:700; font-size:12px;
+  letter-spacing:.8px; text-transform:uppercase; color:var(--primary);
+  margin-bottom:8px;
+}
+.efem-list{list-style:none; margin:0; padding:0; display:flex;
+  flex-direction:column; gap:7px;}
+.efem-dia-li{font-size:12.5px; line-height:1.35; color:var(--on-surface-variant);}
+.efem-dia-li a{color:var(--on-surface); text-decoration:none;}
+.efem-dia-li a:hover{text-decoration:underline;}
+.efem-anio{
+  font-family:"Roboto Flex",sans-serif; font-weight:700; color:var(--primary);
+  font-variant-numeric:tabular-nums; margin-right:2px;
+}
+.efem-dia-li.conmem{color:var(--sensible);}
+/* TOP: hero de noticias + tendencias de X al lado */
+.top{
+  display:grid; grid-template-columns:1fr; gap:16px;
+  max-width:1500px; margin:0 auto; padding:16px 16px 0;
+}
+@media(min-width:900px){.top{grid-template-columns:1.9fr 1fr; padding:20px 20px 0;}}
+/* Hero carrusel (estilo Mercado Negro) */
+.hero{display:flex; flex-direction:column; gap:10px; min-width:0;}
+.hero-stage{
+  position:relative; border-radius:18px; overflow:hidden;
+  aspect-ratio:16/10; background:var(--surface-container-high);
+}
+.hero-slide{
+  position:absolute; inset:0; display:none; text-decoration:none;
+  background-size:cover; background-position:center;
+}
+.hero-slide.active{display:block;}
+.hero-overlay{
+  position:absolute; inset:0; display:flex; flex-direction:column;
+  justify-content:flex-end; gap:12px; padding:28px;
+  background:linear-gradient(to top, rgba(0,0,0,.88) 0%, rgba(0,0,0,.35) 45%, rgba(0,0,0,0) 75%);
+}
+.hero-tag{
+  align-self:flex-start; background:rgba(0,0,0,.55); color:#fff;
+  font-family:"Roboto Flex",sans-serif; font-weight:600; font-size:11px;
+  letter-spacing:1px; text-transform:uppercase; padding:4px 10px; border-radius:4px;
+}
+.hero-title{
+  margin:0; color:#fff; font-family:"Roboto Flex",sans-serif; font-weight:700;
+  font-size:27px; line-height:1.15; max-width:82%; text-shadow:0 1px 14px rgba(0,0,0,.55);
+  display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden;
+}
+.hero-cta{
+  align-self:flex-start; color:#fff; font-weight:600; font-size:13px;
+  background:#E5392B; padding:8px 16px; border-radius:8px;
+}
+.hero-arrow{
+  position:absolute; right:14px; width:40px; height:40px; border-radius:50%;
+  border:none; background:rgba(255,255,255,.92); color:#111; font-size:22px;
+  line-height:1; cursor:pointer; display:flex; align-items:center; justify-content:center;
+}
+.hero-arrow.next{top:calc(50% - 46px);}
+.hero-arrow.prev{top:calc(50% + 6px);}
+.hero-arrow:hover{background:#fff;}
+.hero-thumbs{display:flex; gap:8px; overflow-x:auto; scrollbar-width:none; padding-bottom:2px;}
+.hero-thumbs::-webkit-scrollbar{display:none;}
+.hero-thumb{
+  flex:0 0 92px; height:58px; border-radius:8px; border:2px solid transparent;
+  background-size:cover; background-position:center; cursor:pointer; padding:0;
+  background-color:var(--surface-container-high); opacity:.55;
+  transition:opacity .12s, border-color .12s;
+}
+.hero-thumb.active{opacity:1; border-color:var(--primary);}
+.hero-thumb:hover{opacity:1;}
+</style></head>
+<body>
+<header class="appbar">
+  <div class="appbar-main">
+    <h1>¿De qué se está hablando hoy?</h1>
+    <p class="meta">2026-07-02 · generado 08:34 · 1 sensible(s) ⚠️</p>
+  </div>
+  <div class="badges"><span class="badge ok">X Chile <b>10</b></span><span class="badge ok">Google Trends Chile <b>10</b></span><span class="badge ok">Reddit <b>25</b></span></div>
+  <button id="theme-toggle" class="toggle" type="button" aria-label="Cambiar tema claro/oscuro"><span class="icon">☀️</span></button>
+</header>
+<div id="stale-banner" class="stale" hidden>⚠️ <b>Data desactualizada</b> — estás viendo lo recolectado el <span id="stale-date"></span>. Corre el tablero para actualizar.</div>
+<div class="top"><section class="hero"><div class="hero-stage" id="hero-stage"><a class="hero-slide active" data-i="0" href="https://www.thinkwithgoogle.com/marketing-strategies/automation/ai-in-marketing-impossible-ideas/?utm_source=twg-rss-reader&amp;utm_medium=rss&amp;utm_campaign=rss-feed" target="_blank" rel="noopener" style="background-image:url('https://storage.googleapis.com/twg-content/images/TwG-US-2828---Lighthouse-Program-AI-x-Creativi.width-600.jpg')"><div class="hero-overlay"><span class="hero-tag">Think with Google</span><h2 class="hero-title">How visionary agencies and brands use AI to bring impossible ideas to life</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="1" href="https://www.thinkwithgoogle.com/marketing-strategies/data-and-measurement/airalo-privacy-first-measurement/?utm_source=twg-rss-reader&amp;utm_medium=rss&amp;utm_campaign=rss-feed" target="_blank" rel="noopener" style="background-image:url('https://storage.googleapis.com/twg-content/images/1600_x_900_-_Airalo_1.width-600.png')"><div class="hero-overlay"><span class="hero-tag">Think with Google</span><h2 class="hero-title">How Airalo transformed its iOS growth strategy with privacy-centric measurement</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="2" href="https://www.thinkwithgoogle.com/marketing-strategies/automation/future-of-ai-creativity-demis-hassabis/?utm_source=twg-rss-reader&amp;utm_medium=rss&amp;utm_campaign=rss-feed" target="_blank" rel="noopener" style="background-image:url('https://storage.googleapis.com/twg-content/images/TwG-US-2835---Demis-Palais-Keynote---Thumbnail.width-600.png')"><div class="hero-overlay"><span class="hero-tag">Think with Google</span><h2 class="hero-title">Google DeepMind CEO on AI and the future of creativity</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="3" href="https://www.thinkwithgoogle.com/marketing-strategies/automation/ai-creativity-guide-marketing-leaders/?utm_source=twg-rss-reader&amp;utm_medium=rss&amp;utm_campaign=rss-feed" target="_blank" rel="noopener" style="background-image:url('https://storage.googleapis.com/twg-content/images/TwG-US-2821---TwG-Cannes-PDF---Thumb_01_1.width-600.png')"><div class="hero-overlay"><span class="hero-tag">Think with Google</span><h2 class="hero-title">Frontier CMO: The creativity edition</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="4" href="https://lacriaturacreativa.com/2026/03/17/kitkat-convierte-sus-barritas-en-un-guion-que-nos-invita-a-tomarnos-un-descanso-en-nuestro-dia-a-dia/" target="_blank" rel="noopener" style="background-image:url('https://lacriaturacreativa.com/wp-content/uploads/2026/03/kit-kat-03-1024x576.jpg')"><div class="hero-overlay"><span class="hero-tag">La Criatura Creativa</span><h2 class="hero-title">KitKat convierte sus barritas en un guión que nos invita a tomarnos un descanso en nuestro día a día</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="5" href="https://lacriaturacreativa.com/2026/03/16/cartas-de-restaurante-un-elemento-clave-de-marketing-en-hosteleria/" target="_blank" rel="noopener" style="background-image:url('https://lacriaturacreativa.com/wp-content/uploads/2026/03/image.jpeg')"><div class="hero-overlay"><span class="hero-tag">La Criatura Creativa</span><h2 class="hero-title">Cartas de restaurante: un elemento clave de marketing en hostelería</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="6" href="https://jfdigital.es/como-aparecer-en-chatgpt/" target="_blank" rel="noopener" style="background-image:url('https://jfdigital.es/wp-content/uploads/2026/06/aparecer-chatgpt.png')"><div class="hero-overlay"><span class="hero-tag">JF Digital</span><h2 class="hero-title">¿Cómo aparecer en ChatGPT y lograr que la IA recomiende tu marca?</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="7" href="https://jfdigital.es/mejores-herramientas-ia/" target="_blank" rel="noopener" style="background-image:url('https://jfdigital.es/wp-content/uploads/2026/06/herramientas-ia-marketing-difgital.png')"><div class="hero-overlay"><span class="hero-tag">JF Digital</span><h2 class="hero-title">¿Cuáles son las mejores herramientas de IA de Marketing digital?</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="8" href="https://jfdigital.es/geo-seo-diferencias/" target="_blank" rel="noopener" style="background-image:url('https://jfdigital.es/wp-content/uploads/2026/05/geo-seo.png')"><div class="hero-overlay"><span class="hero-tag">JF Digital</span><h2 class="hero-title">¿Realmente existen diferencias entre GEO y SEO? ¿Qué dice Google sobre el nuevo SEO?</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="9" href="https://jfdigital.es/aso-y-seo/" target="_blank" rel="noopener" style="background-image:url('https://jfdigital.es/wp-content/uploads/2026/05/aso-seo-diferencias.png')"><div class="hero-overlay"><span class="hero-tag">JF Digital</span><h2 class="hero-title">¿Qué diferencias hay entre ASO y SEO? ¿Son compatibles dentro de una estrategia digital?</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="10" href="https://puromerca.com/rally-mundialista-coca-cola-2026-guadalajara-monterrey/" target="_blank" rel="noopener" style="background-image:url('https://puromerca.com/wp-content/uploads/2026/05/YDRAY-RALLY_COCACOLA_ESTATICOS_BACK_DE_TV_-1920x1080-1-1024x576.png')"><div class="hero-overlay"><span class="hero-tag">Puro Merca</span><h2 class="hero-title">Coca-Cola® quiere que vivas el Mundial y tiene un rally preparado para ti…</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="11" href="https://puromerca.com/vuala-chorpresa-chavo-del-8-iab-mixx-2026/" target="_blank" rel="noopener" style="background-image:url('https://s.w.org/images/core/emoji/17.0.2/72x72/1f3ad.png')"><div class="hero-overlay"><span class="hero-tag">Puro Merca</span><h2 class="hero-title">¡Qué chorpresa! Así es cómo Vualá convirtió la nostalgia del Chavo del 8 en un premio nacional</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="12" href="https://puromerca.com/doritos-mundial-2026-after-musica/" target="_blank" rel="noopener" style="background-image:url('https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_Escuby-1-240x300.png')"><div class="hero-overlay"><span class="hero-tag">Puro Merca</span><h2 class="hero-title">Doritos® está llegando al Mundial 2026 sin hablar directamente del futbol.</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="13" href="https://www.mercadonegro.pe/publicidad/campanas/hyundai-mundial-2014/" target="_blank" rel="noopener" style="background-image:url('https://www.mercadonegro.pe/wp-content/uploads/2026/07/Portada-2026-07-01T171828.477.png')"><div class="hero-overlay"><span class="hero-tag">Mercado Negro PE</span><h2 class="hero-title">El comercial de Hyundai que convirtió la fiebre del Mundial 2014 en una sala de maternidad llena de bebés</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="14" href="https://www.mercadonegro.pe/actualidad/lentes-de-meta-ray-ban-oakley/" target="_blank" rel="noopener" style="background-image:url('https://www.mercadonegro.pe/wp-content/uploads/2026/07/Ray-Ban-Meta-Scriber-Optics-GEN-2-A.avif')"><div class="hero-overlay"><span class="hero-tag">Mercado Negro PE</span><h2 class="hero-title">Lentes de Meta llegan al Perú: estos son los modelos que ya están disponibles</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="15" href="https://www.mercadonegro.pe/actualidad/aerolinea-adidas-mundial/" target="_blank" rel="noopener" style="background-image:url('https://www.mercadonegro.pe/wp-content/uploads/2026/07/Portada-2026-07-01T162247.505.png')"><div class="hero-overlay"><span class="hero-tag">Mercado Negro PE</span><h2 class="hero-title">Aerolínea sorprende a sus pasajeros de primera clase con un conjunto exclusivo de adidas por el Mundial 2026</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="16" href="https://roastbrief.com.mx/2026/07/la-reputacion-como-diferenciador-competitivo-entrevista-exclusiva-con-jennifer-seifert/" target="_blank" rel="noopener" style="background-image:url('https://www.youtube.com/embed/vlGWFaWbBKw')"><div class="hero-overlay"><span class="hero-tag">RoastBrief</span><h2 class="hero-title">La reputación como diferenciador competitivo: Entrevista exclusiva con Jennifer Seifert</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="17" href="https://roastbrief.com.mx/2026/07/reencuentrate-atmk-y-grupo-brisas-presentan-su-nueva-estrategia-de-comunicacion-para-2026/" target="_blank" rel="noopener" style="background-image:url('https://www.youtube.com/embed/7kR4Y1YDqUg')"><div class="hero-overlay"><span class="hero-tag">RoastBrief</span><h2 class="hero-title">REENCUÉNTRATE: ATMK y Grupo Brisas presentan su nueva estrategia de comunicación para 2026</h2><span class="hero-cta">Leer más ›</span></div></a><a class="hero-slide" data-i="18" href="https://roastbrief.com.mx/2026/07/openai-signals-el-espanol-lidera-el-uso-no-ingles-de-chatgpt-y-america-latina-se-consolida-como-region-de-mas-rapido-crecimiento/" target="_blank" rel="noopener" style="background-image:url('https://roastbrief.com.mx/wp-content/uploads/2026/07/unnamed.jpg')"><div class="hero-overlay"><span class="hero-tag">RoastBrief</span><h2 class="hero-title">OpenAI Signals: el español lidera el uso no inglés de ChatGPT y América Latina se consolida como región de más rápido crecimiento</h2><span class="hero-cta">Leer más ›</span></div></a><button class="hero-arrow next" id="hero-next" type="button" aria-label="Siguiente">›</button><button class="hero-arrow prev" id="hero-prev" type="button" aria-label="Anterior">‹</button></div><div class="hero-thumbs" id="hero-thumbs"><button class="hero-thumb active" type="button" data-i="0" style="background-image:url('https://storage.googleapis.com/twg-content/images/TwG-US-2828---Lighthouse-Program-AI-x-Creativi.width-600.jpg')" aria-label="How visionary agencies and brands use AI to bring "></button><button class="hero-thumb" type="button" data-i="1" style="background-image:url('https://storage.googleapis.com/twg-content/images/1600_x_900_-_Airalo_1.width-600.png')" aria-label="How Airalo transformed its iOS growth strategy wit"></button><button class="hero-thumb" type="button" data-i="2" style="background-image:url('https://storage.googleapis.com/twg-content/images/TwG-US-2835---Demis-Palais-Keynote---Thumbnail.width-600.png')" aria-label="Google DeepMind CEO on AI and the future of creati"></button><button class="hero-thumb" type="button" data-i="3" style="background-image:url('https://storage.googleapis.com/twg-content/images/TwG-US-2821---TwG-Cannes-PDF---Thumb_01_1.width-600.png')" aria-label="Frontier CMO: The creativity edition"></button><button class="hero-thumb" type="button" data-i="4" style="background-image:url('https://lacriaturacreativa.com/wp-content/uploads/2026/03/kit-kat-03-1024x576.jpg')" aria-label="KitKat convierte sus barritas en un guión que nos "></button><button class="hero-thumb" type="button" data-i="5" style="background-image:url('https://lacriaturacreativa.com/wp-content/uploads/2026/03/image.jpeg')" aria-label="Cartas de restaurante: un elemento clave de market"></button><button class="hero-thumb" type="button" data-i="6" style="background-image:url('https://jfdigital.es/wp-content/uploads/2026/06/aparecer-chatgpt.png')" aria-label="¿Cómo aparecer en ChatGPT y lograr que la IA recom"></button><button class="hero-thumb" type="button" data-i="7" style="background-image:url('https://jfdigital.es/wp-content/uploads/2026/06/herramientas-ia-marketing-difgital.png')" aria-label="¿Cuáles son las mejores herramientas de IA de Mark"></button><button class="hero-thumb" type="button" data-i="8" style="background-image:url('https://jfdigital.es/wp-content/uploads/2026/05/geo-seo.png')" aria-label="¿Realmente existen diferencias entre GEO y SEO? ¿Q"></button><button class="hero-thumb" type="button" data-i="9" style="background-image:url('https://jfdigital.es/wp-content/uploads/2026/05/aso-seo-diferencias.png')" aria-label="¿Qué diferencias hay entre ASO y SEO? ¿Son compati"></button><button class="hero-thumb" type="button" data-i="10" style="background-image:url('https://puromerca.com/wp-content/uploads/2026/05/YDRAY-RALLY_COCACOLA_ESTATICOS_BACK_DE_TV_-1920x1080-1-1024x576.png')" aria-label="Coca-Cola® quiere que vivas el Mundial y tiene un "></button><button class="hero-thumb" type="button" data-i="11" style="background-image:url('https://s.w.org/images/core/emoji/17.0.2/72x72/1f3ad.png')" aria-label="¡Qué chorpresa! Así es cómo Vualá convirtió la nos"></button><button class="hero-thumb" type="button" data-i="12" style="background-image:url('https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_Escuby-1-240x300.png')" aria-label="Doritos® está llegando al Mundial 2026 sin hablar "></button><button class="hero-thumb" type="button" data-i="13" style="background-image:url('https://www.mercadonegro.pe/wp-content/uploads/2026/07/Portada-2026-07-01T171828.477.png')" aria-label="El comercial de Hyundai que convirtió la fiebre de"></button><button class="hero-thumb" type="button" data-i="14" style="background-image:url('https://www.mercadonegro.pe/wp-content/uploads/2026/07/Ray-Ban-Meta-Scriber-Optics-GEN-2-A.avif')" aria-label="Lentes de Meta llegan al Perú: estos son los model"></button><button class="hero-thumb" type="button" data-i="15" style="background-image:url('https://www.mercadonegro.pe/wp-content/uploads/2026/07/Portada-2026-07-01T162247.505.png')" aria-label="Aerolínea sorprende a sus pasajeros de primera cla"></button><button class="hero-thumb" type="button" data-i="16" style="background-image:url('https://www.youtube.com/embed/vlGWFaWbBKw')" aria-label="La reputación como diferenciador competitivo: Entr"></button><button class="hero-thumb" type="button" data-i="17" style="background-image:url('https://www.youtube.com/embed/7kR4Y1YDqUg')" aria-label="REENCUÉNTRATE: ATMK y Grupo Brisas presentan su nu"></button><button class="hero-thumb" type="button" data-i="18" style="background-image:url('https://roastbrief.com.mx/wp-content/uploads/2026/07/unnamed.jpg')" aria-label="OpenAI Signals: el español lidera el uso no inglés"></button></div></section><section class="col"><header class="col-head"><span class="status ok" title="ok"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.66l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></span><h2>X Chile</h2><span class="count">10</span></header><ol class="items"><li class="item"><span class="pos">1</span><span class="body"><a class="name" href="https://x.com/search?q=Senegal&amp;src=trend_click" target="_blank" rel="noopener">Senegal</a></span></li><li class="item"><span class="pos">2</span><span class="body"><a class="name" href="https://x.com/search?q=B%C3%A9lgica&amp;src=trend_click" target="_blank" rel="noopener">Bélgica</a></span></li><li class="item"><span class="pos">3</span><span class="body"><a class="name" href="https://x.com/search?q=Harry%20Kane&amp;src=trend_click" target="_blank" rel="noopener">Harry Kane</a></span></li><li class="item"><span class="pos">4</span><span class="body"><a class="name" href="https://x.com/search?q=M%C3%A9xico&amp;src=trend_click" target="_blank" rel="noopener">México</a></span></li><li class="item"><span class="pos">5</span><span class="body"><a class="name" href="https://x.com/search?q=Grau&amp;src=trend_click" target="_blank" rel="noopener">Grau</a></span></li><li class="item"><span class="pos">6</span><span class="body"><a class="name" href="https://x.com/search?q=Sony&amp;src=trend_click" target="_blank" rel="noopener">Sony</a></span></li><li class="item"><span class="pos">7</span><span class="body"><a class="name" href="https://x.com/search?q=%23VamosLaU&amp;src=trend_click" target="_blank" rel="noopener">#VamosLaU</a></span></li><li class="item"><span class="pos">8</span><span class="body"><a class="name" href="https://x.com/search?q=Gago&amp;src=trend_click" target="_blank" rel="noopener">Gago</a></span></li><li class="item"><span class="pos">9</span><span class="body"><a class="name" href="https://x.com/search?q=Inglaterra&amp;src=trend_click" target="_blank" rel="noopener">Inglaterra</a></span></li><li class="item"><span class="pos">10</span><span class="body"><a class="name" href="https://x.com/search?q=Calera&amp;src=trend_click" target="_blank" rel="noopener">Calera</a></span></li></ol></section></div>
+<main class="grid"><div class="col-stack"><section class="col"><header class="col-head"><span class="status ok" title="ok"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"/></svg></span><h2>Google Trends Chile</h2><span class="count">10</span></header><ol class="items"><li class="item"><span class="pos">1</span><span class="body"><a class="name" href="https://www.google.com/search?q=cisma" target="_blank" rel="noopener">cisma</a></span><span class="vol">100+</span></li><li class="item"><span class="pos">2</span><span class="body"><a class="name" href="https://www.google.com/search?q=concejal" target="_blank" rel="noopener">concejal</a></span><span class="vol">200+</span></li><li class="item"><span class="pos">3</span><span class="body"><a class="name" href="https://www.google.com/search?q=empleo" target="_blank" rel="noopener">empleo</a></span><span class="vol">1000+</span></li><li class="item"><span class="pos">4</span><span class="body"><a class="name" href="https://www.google.com/search?q=servicio%20nacional%20de%20prevenci%C3%B3n%20y%20respuesta%20ante%20desastres" target="_blank" rel="noopener">servicio nacional de prevención y respuesta ante desastres</a></span><span class="vol">1000+</span></li><li class="item"><span class="pos">5</span><span class="body"><a class="name" href="https://www.google.com/search?q=bombero" target="_blank" rel="noopener">bombero</a></span><span class="vol">100+</span></li><li class="item"><span class="pos">6</span><span class="body"><a class="name" href="https://www.google.com/search?q=combustible" target="_blank" rel="noopener">combustible</a></span><span class="vol">2000+</span></li><li class="item"><span class="pos">7</span><span class="body"><a class="name" href="https://www.google.com/search?q=ni%C3%B1o%20murci%C3%A9lago" target="_blank" rel="noopener">niño murciélago</a></span><span class="vol">200+</span></li><li class="item"><span class="pos">8</span><span class="body"><a class="name" href="https://www.google.com/search?q=chontico%20noche" target="_blank" rel="noopener">chontico noche</a></span><span class="vol">200+</span></li><li class="item"><span class="pos">9</span><span class="body"><a class="name" href="https://www.google.com/search?q=posiciones%20de%20u.%20de%20chile%20contra%20u.%20la%20calera" target="_blank" rel="noopener">posiciones de u. de chile contra u. la calera</a></span><span class="vol">100000+</span></li><li class="item"><span class="pos">10</span><span class="body"><a class="name" href="https://www.google.com/search?q=espa%C3%B1a%20vs%20austria" target="_blank" rel="noopener">españa vs austria</a></span><span class="vol">500+</span></li></ol></section><section class="col accounts-ig"><header class="col-head"><span class="status star" title="instagram">★</span><h2>Instagram</h2><span class="count" id="acc-ig-count"></span></header><div id="acc-ig" class="acc-body"></div></section></div><section class="col"><header class="col-head"><span class="status ok" title="ok"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M21 6h-2v9H6v2c0 .55.45 1 1 1h11l4 4V7c0-.55-.45-1-1-1zm-4 6V3c0-.55-.45-1-1-1H3c-.55 0-1 .45-1 1v14l4-4h10c.55 0 1-.45 1-1z"/></svg></span><h2>Reddit</h2><span class="count">25</span></header><ol class="items grouped"><li class="group-head">Chile</li><li class="subgroup"><div class="sub-head">r/chile</div><ol class="sub-list"><li class="item"><span class="pos">1</span><span class="body"><a class="name" href="https://www.reddit.com/r/chile/comments/1ul5gh7/por_qué_no_está_la_cagada_con_esto/" target="_blank" rel="noopener">Por qué no está la cagada con esto?!?</a></span></li><li class="item sensible"><span class="pos">2</span><span class="body"><a class="name" href="https://www.reddit.com/r/chile/comments/1ulf3jb/kast_admite_preocupación_por_caída_del_imacec_y/" target="_blank" rel="noopener">Kast admite preocupación por caída del Imacec y alza en el desempleo: “Nos dimos cuenta tarde que tenemos una enfermedad económica” | Diario Financiero</a><span class="warn" title="keyword sensible — revisar criterio" aria-label="sensible">⚠️</span></span></li></ol></li><li class="subgroup"><div class="sub-head">r/RepublicadeChile</div><ol class="sub-list"><li class="item"><span class="pos">1</span><span class="body"><a class="name" href="https://www.reddit.com/r/RepublicadeChile/comments/1ul4ro8/mi_foto_en_la_cordillera_de_noche_nominada_al/" target="_blank" rel="noopener">Mi foto en la cordillera de noche, nominada al &quot;Premio del Público&quot; en un concurso internacional, me ayudan?</a></span></li><li class="item"><span class="pos">2</span><span class="body"><a class="name" href="https://www.reddit.com/r/RepublicadeChile/comments/1ulgk57/argentina_ley_de_arriendo_terminó_aumentando_los/" target="_blank" rel="noopener">Argentina: Ley de Arriendo terminó aumentando los Precios</a></span></li><li class="item"><span class="pos">3</span><span class="body"><a class="name" href="https://www.reddit.com/r/RepublicadeChile/comments/1ul2vrz/opinines_sobre_el_mundial_hasta_ahora/" target="_blank" rel="noopener">Opinines sobre el mundial hasta ahora</a></span></li></ol></li><li class="group-head">Marketing</li><li class="subgroup"><div class="sub-head">r/marketing</div><ol class="sub-list"><li class="item"><span class="pos">1</span><span class="body"><a class="name" href="https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/" target="_blank" rel="noopener">New Job Listings</a></span></li><li class="item"><span class="pos">2</span><span class="body"><a class="name" href="https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/" target="_blank" rel="noopener">AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service</a></span></li><li class="item"><span class="pos">3</span><span class="body"><a class="name" href="https://www.reddit.com/r/marketing/comments/1ulcd63/urgent_meta_business_suite_i_have_full_admin/" target="_blank" rel="noopener">[Urgent] Meta Business Suite - I Have Full Admin Access but Can&#x27;t Post to Client&#x27;s Instagram</a></span></li><li class="item"><span class="pos">4</span><span class="body"><a class="name" href="https://www.reddit.com/r/marketing/comments/1uktpe5/10_years_dealing_with_manufacturer_coop_marketing/" target="_blank" rel="noopener">10 years dealing with manufacturer co-op marketing funds: obsolete. 2 weeks running direct local search ads: actual booked jobs</a></span></li><li class="item"><span class="pos">5</span><span class="body"><a class="name" href="https://www.reddit.com/r/marketing/comments/1ujugiq/where_are_datareporting_specialists_usually/" target="_blank" rel="noopener">Where are data/reporting specialists usually located structurally within a company?</a></span></li></ol></li><li class="group-head">Out of the Loop</li><li class="subgroup"><div class="sub-head">r/OutOfTheLoop</div><ol class="sub-list"><li class="item"><span class="pos">1</span><span class="body"><a class="name" href="https://www.reddit.com/r/OutOfTheLoop/comments/1uletn3/whats_going_on_with_the_catholic_church_something/" target="_blank" rel="noopener">What&#x27;s going on with the Catholic church? Something about a schism?</a></span></li><li class="item"><span class="pos">2</span><span class="body"><a class="name" href="https://www.reddit.com/r/OutOfTheLoop/comments/1ul0e6a/whats_up_with_everyone_posting_images_of_game/" target="_blank" rel="noopener">What&#x27;s up with everyone posting images of game companies shooting themselves?</a></span></li><li class="item"><span class="pos">3</span><span class="body"><a class="name" href="https://www.reddit.com/r/OutOfTheLoop/comments/1ul5lhi/whats_up_with_trump_accounts/" target="_blank" rel="noopener">What&#x27;s up with Trump Accounts?</a></span></li><li class="item"><span class="pos">4</span><span class="body"><a class="name" href="https://www.reddit.com/r/OutOfTheLoop/comments/1ulfqw0/whats_going_on_with_the_company_palantir_and/" target="_blank" rel="noopener">What&#x27;s going on with the company Palantir and different countries such as Spain blacklisting them?</a></span></li><li class="item"><span class="pos">5</span><span class="body"><a class="name" href="https://www.reddit.com/r/OutOfTheLoop/comments/1ul0awj/what_is_the_deal_with_freakbob_and_the_weird/" target="_blank" rel="noopener">What is the deal with FreakBob and the weird SpongeBob edits showing up on TikTok and Shorts?</a></span></li></ol></li><li class="group-head">Viral</li><li class="subgroup"><div class="sub-head">r/TikTokCringe</div><ol class="sub-list"><li class="item"><span class="pos">1</span><span class="body"><a class="name" href="https://www.reddit.com/r/TikTokCringe/comments/1uldp61/it_seems_like_people_have_forgotten_what_this/" target="_blank" rel="noopener">It seems like people have forgotten what this line is used for these days.</a></span></li></ol></li><li class="subgroup"><div class="sub-head">r/memes</div><ol class="sub-list"><li class="item"><span class="pos">1</span><span class="body"><a class="name" href="https://www.reddit.com/r/memes/comments/1ul5krx/literally_had_to_block_them_on_my_cashapp/" target="_blank" rel="noopener">Literally had to block them on my cashapp</a></span></li><li class="item"><span class="pos">2</span><span class="body"><a class="name" href="https://www.reddit.com/r/memes/comments/1ulcdb5/on_the_new_sony_drama/" target="_blank" rel="noopener">On the new Sony drama</a></span></li><li class="item"><span class="pos">3</span><span class="body"><a class="name" href="https://www.reddit.com/r/memes/comments/1ul5c4j/what_the_entertainment_software_association_did/" target="_blank" rel="noopener">What the Entertainment Software Association did</a></span></li><li class="item"><span class="pos">4</span><span class="body"><a class="name" href="https://www.reddit.com/r/memes/comments/1ul158q/the_current_gaming_situation_right_now/" target="_blank" rel="noopener">The current gaming situation right now</a></span></li></ol></li><li class="group-head">Cultura &amp; Generaciones</li><li class="subgroup"><div class="sub-head">r/popculturechat</div><ol class="sub-list"><li class="item"><span class="pos">1</span><span class="body"><a class="name" href="https://www.reddit.com/r/popculturechat/comments/1ul86m1/seth_rogen_and_pharrell_williams_have_beef_all/" target="_blank" rel="noopener">Seth Rogen and Pharrell Williams have beef all because of Rogen’s ‘The Lion King’ singing</a></span></li><li class="item"><span class="pos">2</span><span class="body"><a class="name" href="https://www.reddit.com/r/popculturechat/comments/1ul4peq/oscar_winning_deaf_actor_troy_kotsur_participated/" target="_blank" rel="noopener">Oscar winning deaf actor Troy Kotsur participated in a quiet Jennifer Hudson spirit tunnel.</a></span></li><li class="item"><span class="pos">3</span><span class="body"><a class="name" href="https://www.reddit.com/r/popculturechat/comments/1ul2jfq/matt_smith_reacts_to_keanu_reeves_being_spotted/" target="_blank" rel="noopener">Matt Smith reacts to Keanu Reeves being spotted watching ‘Morbius’ on a flight: “Jesus Christ he must have really went through the airplane library to get to ‘Morbius’”</a></span></li></ol></li><li class="subgroup"><div class="sub-head">r/Millennials</div><ol class="sub-list"><li class="item"><span class="pos">1</span><span class="body"><a class="name" href="https://www.reddit.com/r/Millennials/comments/1ul6vmq/i_thought_this_was_from_the_90s_until_i_read_the/" target="_blank" rel="noopener">I thought this was from the 90s until I read the blurb lol</a></span></li></ol></li><li class="subgroup"><div class="sub-head">r/GenZ</div><ol class="sub-list"><li class="item"><span class="pos">1</span><span class="body"><a class="name" href="https://www.reddit.com/r/GenZ/comments/1ul6hij/mississippi_btw/" target="_blank" rel="noopener">Mississippi BTW</a></span></li></ol></li></ol></section><section class="col accounts"><header class="col-head"><span class="status star" title="bookmarks">★</span><h2>Cuentas a revisar</h2><span class="count" id="acc-count">10</span><button id="acc-add-btn" class="acc-add" type="button" title="Agregar cuenta" aria-label="Agregar cuenta">+ Agregar</button></header><form id="acc-form" class="acc-form" hidden><input id="acc-url" class="acc-in" type="url" placeholder="Pega la URL…" required><input id="acc-name" class="acc-in" placeholder="Nombre (opcional)"><input id="acc-cat" class="acc-in" list="acc-cats" placeholder="Categoría" value="Instagram"><datalist id="acc-cats"><option value="España / Global"><option value="Marketing (general)"><option value="Trends videojuegos"><option value="Instagram"></datalist><div class="acc-form-actions"><button type="submit" class="acc-btn">Agregar</button><button type="button" id="acc-cancel" class="acc-btn ghost">Cancelar</button></div></form><div id="acc-grid" class="acc-grid"></div><script>var CUENTAS_FIJAS=[{"nombre": "Yainire", "url": "https://www.linkedin.com/in/yainire/", "cat": "España / Global"}, {"nombre": "Alex Aldás", "url": "https://www.linkedin.com/in/alex-aldas/", "cat": "Marketing (general)"}, {"nombre": "This Week in Marketing (newsletter)", "url": "https://www.linkedin.com/newsletters/this-week-in-marketing-7029849494275919873/", "cat": "Marketing (general)"}, {"nombre": "Emilio Hurtado Ruiz", "url": "https://www.linkedin.com/in/emiliohurtadoruiz/", "cat": "Trends videojuegos"}, {"nombre": "Meganoticias CL", "url": "https://www.instagram.com/meganoticiascl/", "cat": "Instagram"}, {"nombre": "Mercado Negro PE", "url": "https://www.instagram.com/mercadonegrope/", "cat": "Instagram"}, {"nombre": "RoastBrief", "url": "https://www.instagram.com/roastbrief/", "cat": "Instagram"}, {"nombre": "Sabri Kolod", "url": "https://www.instagram.com/sabrikolod/", "cat": "Instagram"}, {"nombre": "Goldfish Group", "url": "https://www.instagram.com/goldfish.group/", "cat": "Instagram"}, {"nombre": "Revista PyM", "url": "https://www.instagram.com/revistapym/", "cat": "Instagram"}];</script></section></main>
+<section class="feed-wide"><header class="col-head"><span class="status star" title="efemérides">🗓️</span><h2>Efemérides de la semana</h2></header><div class="efem-grid"><div class="efem-card"><div class="efem-dia">Hoy · 02/07</div><ul class="efem-list"><li class="efem-dia-li"><span class="efem-anio">1992</span> <a href="https://es.wikipedia.org/wiki/Camar%C3%B3n_de_la_Isla" target="_blank" rel="noopener">Fallece Camarón de la Isla, cantaor español, renovador del cante flamenco.</a></li><li class="efem-dia-li"><span class="efem-anio">1964</span> <a href="https://es.wikipedia.org/wiki/Lyndon_B._Johnson" target="_blank" rel="noopener">El presidente estadounidense Lyndon B. Johnson signa la Ley de Derechos Civiles, proscribiendo así la segregación racial en escuelas, lugares de trabajo y en cualquier otra instalación pública.</a></li><li class="efem-dia-li conmem">🎉 Día Internacional del OVNI</li><li class="efem-dia-li conmem">🎉 Día Internacional del Periodista Deportivo</li></ul></div><div class="efem-card"><div class="efem-dia">viernes 03/07</div><ul class="efem-list"><li class="efem-dia-li"><span class="efem-anio">2013</span> <a href="https://es.wikipedia.org/wiki/Egipto" target="_blank" rel="noopener">En Egipto, tiene lugar un golpe de Estado que derroca a su primer presidente democráticamente electo, Mohamed Morsi.</a></li><li class="efem-dia-li"><span class="efem-anio">1971</span> <a href="https://es.wikipedia.org/wiki/Jim_Morrison" target="_blank" rel="noopener">Muere Jim Morrison, cantante y poeta estadounidense, vocalista de The Doors.</a></li><li class="efem-dia-li conmem">🎉 Día Internacional Libre de Bolsas de plástico</li><li class="efem-dia-li conmem">🎉 Día Internacional del Síndrome de Rubinstein-Taybi</li></ul></div><div class="efem-card"><div class="efem-dia">sábado 04/07</div><ul class="efem-list"><li class="efem-dia-li"><span class="efem-anio">1948</span> <a href="https://es.wikipedia.org/wiki/Monteiro_Lobato" target="_blank" rel="noopener">Fallece Monteiro Lobato, escritor y crítico de arte brasileño.</a></li><li class="efem-dia-li"><span class="efem-anio">1934</span> <a href="https://es.wikipedia.org/wiki/Marie_Curie" target="_blank" rel="noopener">Fallece Maria Skłodowska-Curie,  «Marie Curie», química franco-polaca.</a></li><li class="efem-dia-li conmem">🎉 Día Mundial de los Delfines en Cautiverio</li><li class="efem-dia-li conmem">🎉 Día Mundial del e-book ó Libro Electrónico</li></ul></div><div class="efem-card"><div class="efem-dia">domingo 05/07</div><ul class="efem-list"><li class="efem-dia-li"><span class="efem-anio">2018</span> <a href="https://es.wikipedia.org/wiki/Wikimedia_Commons" target="_blank" rel="noopener">Wikimedia Commons por medio de un permiso del gobierno de la Federación de Rusia logra tener acceso y albergar la famosa fotografía Alzando una bandera sobre el Reichstag de la Segunda Guerra Mundial en su galería de imágenes.</a></li><li class="efem-dia-li"><span class="efem-anio">1965</span> <a href="https://es.wikipedia.org/wiki/Porfirio_Rubirosa" target="_blank" rel="noopener">Fallece Porfirio Rubirosa, diplomático, piloto automovolístico y jugador de polo dominicano.</a></li><li class="efem-dia-li conmem">🎉 Día Mundial del Bikini</li><li class="efem-dia-li conmem">🎉 Día de la Independencia</li></ul></div><div class="efem-card"><div class="efem-dia">lunes 06/07</div><ul class="efem-list"><li class="efem-dia-li"><span class="efem-anio">2018</span> <a href="https://es.wikipedia.org/wiki/Wikimedia_Commons" target="_blank" rel="noopener">Wikimedia Commons por medio de un permiso del gobierno federal de Estados Unidos logra tener acceso y albergar la famosa fotografía Alzando la bandera en Iwo Jima de la Segunda Guerra Mundial en su galería de imágenes.</a></li><li class="efem-dia-li"><span class="efem-anio">1935</span> <a href="https://es.wikipedia.org/wiki/Tenzin_Gyatso" target="_blank" rel="noopener">Nace el XIV dalái lama (en la imagen) del Tíbet.</a></li><li class="efem-dia-li conmem">🎉 Día Mundial de las Zoonosis</li><li class="efem-dia-li conmem">🎉 Día Internacional del Beso Robado</li></ul></div><div class="efem-card"><div class="efem-dia">martes 07/07</div><ul class="efem-list"></ul></div><div class="efem-card"><div class="efem-dia">miércoles 08/07</div><ul class="efem-list"></ul></div></div></section>
+<footer class="note">⚠️ = keyword sensible: resalta para revisar criterio, no descarta ni clasifica nada automáticamente. Herramienta interna de monitoreo.</footer>
+
+<script>
+(function(){
+  var KEY='trends-theme', root=document.documentElement,
+      btn=document.getElementById('theme-toggle');
+  function icon(t){return t==='light'?'\u263E':'\u2600\uFE0F';} // luna / sol
+  try{var s=localStorage.getItem(KEY); if(s) root.setAttribute('data-theme',s);}catch(e){}
+  btn.querySelector('.icon').textContent=icon(root.getAttribute('data-theme'));
+  btn.addEventListener('click',function(){
+    var next=root.getAttribute('data-theme')==='light'?'dark':'light';
+    root.setAttribute('data-theme',next);
+    try{localStorage.setItem(KEY,next);}catch(e){}
+    btn.querySelector('.icon').textContent=icon(next);
+  });
+})();
+</script>
+<script>var DATA_FECHA="2026-07-02";</script>
+<script>
+(function(){
+  if(typeof DATA_FECHA==='undefined') return;
+  var d=new Date();
+  var hoy=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'
+          +String(d.getDate()).padStart(2,'0');
+  if(DATA_FECHA!==hoy){
+    var b=document.getElementById('stale-banner');
+    var s=document.getElementById('stale-date');
+    if(s) s.textContent=DATA_FECHA;
+    if(b) b.hidden=false;
+  }
+})();
+</script>
+
+<script>
+(function(){
+  var KEY='trends-cuentas-extra';
+  var form=document.getElementById('acc-form'),
+      addBtn=document.getElementById('acc-add-btn'),
+      cancel=document.getElementById('acc-cancel'),
+      urlI=document.getElementById('acc-url'),
+      nameI=document.getElementById('acc-name'),
+      catI=document.getElementById('acc-cat'),
+      grid=document.getElementById('acc-grid'),
+      countEl=document.getElementById('acc-count');
+  if(!form||!grid) return;
+  var FIJAS=(typeof CUENTAS_FIJAS!=='undefined')?CUENTAS_FIJAS:[];
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function load(){try{return JSON.parse(localStorage.getItem(KEY)||'[]');}catch(e){return [];}}
+  function store(a){try{localStorage.setItem(KEY,JSON.stringify(a));}catch(e){}}
+  function tipo(u){
+    if(u.indexOf('/newsletters/')>-1) return 'newsletter';
+    if(u.indexOf('/company/')>-1) return 'empresa';
+    if(u.indexOf('linkedin.com/in/')>-1) return 'perfil';
+    if(u.indexOf('instagram.com')>-1) return 'instagram';
+    return 'link';
+  }
+  function red(u){
+    if(u.indexOf('instagram.com')>-1) return 'Instagram';
+    if(u.indexOf('linkedin.com')>-1) return 'LinkedIn';
+    if(u.indexOf('tiktok.com')>-1) return 'TikTok';
+    if(u.indexOf('youtube.com')>-1||u.indexOf('youtu.be')>-1) return 'YouTube';
+    if(u.indexOf('x.com')>-1||u.indexOf('twitter.com')>-1) return 'X';
+    try{return new URL(u).hostname.replace('www.','');}catch(e){return 'Otros';}
+  }
+  function host(u){try{return new URL(u).hostname.replace('www.','');}catch(e){return u;}}
+  function nombreDe(u){var p=u.replace(/\/+$/,'').split('/');return p[p.length-1]||u;}
+  function card(it,idx){
+    var nm=it.nombre||nombreDe(it.url);
+    var del=(idx!==null)?'<button class="acc-del" data-i="'+idx+'" title="Quitar">\u2715</button>':'';
+    return '<div class="acc-row">'
+      +'<a class="acc-link" href="'+esc(it.url)+'" target="_blank" rel="noopener">'
+      +'<span class="acc-avatar">'+esc((nm[0]||'+').toUpperCase())+'</span>'
+      +'<span class="acc-main"><span class="acc-name">'+esc(nm)+'</span>'
+      +'<span class="acc-sub">'+esc(host(it.url))+' \u00b7 '+tipo(it.url)+'</span></span></a>'
+      +del+'</div>';
+  }
+  function listaPorCat(cats, r){
+    var h='';
+    Object.keys(cats).forEach(function(c){
+      if(c && c.toLowerCase()!==r.toLowerCase())
+        h+='<div class="acc-cat">'+esc(c)+'</div>';
+      h+='<div class="acc-list">';
+      cats[c].forEach(function(o){h+=card(o.it,o.idx);});
+      h+='</div>';
+    });
+    return h;
+  }
+  function bind(root){
+    if(!root) return;
+    root.querySelectorAll('.acc-del').forEach(function(b){
+      b.addEventListener('click',function(){
+        var a=load(); a.splice(parseInt(this.getAttribute('data-i'),10),1); store(a); render();
+      });
+    });
+  }
+  function render(){
+    var extra=load();
+    var todas=FIJAS.map(function(it){return {it:it,idx:null};})
+      .concat(extra.map(function(it,i){return {it:it,idx:i};}));
+    if(countEl) countEl.textContent=todas.length;
+    // agrupa por RED -> dentro, por categoría (preservando orden de aparición)
+    var redes={}, ordenRed=[];
+    todas.forEach(function(o){
+      var r=red(o.it.url);
+      if(!redes[r]){redes[r]={}; ordenRed.push(r);}
+      var c=o.it.cat||'Otros';
+      (redes[r][c]=redes[r][c]||[]).push(o);
+    });
+    // Instagram va a su tarjeta bajo Google; el resto a la banda de cuentas
+    var igBox=document.getElementById('acc-ig'),
+        igCount=document.getElementById('acc-ig-count');
+    if(igBox){
+      var cats=redes['Instagram'], n=0;
+      if(cats){Object.keys(cats).forEach(function(c){n+=cats[c].length;});}
+      igBox.innerHTML=cats?listaPorCat(cats,'Instagram'):'';
+      if(igCount) igCount.textContent=n||'';
+      bind(igBox);
+    }
+    var h='';
+    ordenRed.forEach(function(r){
+      if(r==='Instagram' && igBox) return;  // ya renderizada bajo Google
+      var cats=redes[r], total=0;
+      Object.keys(cats).forEach(function(c){total+=cats[c].length;});
+      h+='<section class="acc-net"><div class="acc-net-head">'
+        +'<h3>'+esc(r)+'</h3><span class="n">'+total+'</span></div>';
+      h+=listaPorCat(cats,r);
+      h+='</section>';
+    });
+    if(grid){ grid.innerHTML=h; bind(grid); }
+  }
+  addBtn.addEventListener('click',function(){
+    form.hidden=!form.hidden; if(!form.hidden) urlI.focus();
+  });
+  cancel.addEventListener('click',function(){form.hidden=true; form.reset();});
+  form.addEventListener('submit',function(e){
+    e.preventDefault();
+    var url=urlI.value.trim(); if(!url) return;
+    var a=load();
+    a.push({url:url, nombre:nameI.value.trim(), cat:(catI.value.trim()||'')});
+    store(a); render(); form.reset(); form.hidden=true;
+  });
+  render();
+})();
+</script>
+
+<script>
+(function(){
+  var stage=document.getElementById('hero-stage'),
+      thumbs=document.getElementById('hero-thumbs'),
+      prev=document.getElementById('hero-prev'),
+      next=document.getElementById('hero-next');
+  if(!stage) return;
+  var slides=stage.querySelectorAll('.hero-slide'),
+      ths=thumbs?thumbs.querySelectorAll('.hero-thumb'):[];
+  if(!slides.length) return;
+  var cur=0, n=slides.length, timer=null;
+  function show(i){
+    cur=(i+n)%n;
+    slides.forEach(function(s,j){s.classList.toggle('active',j===cur);});
+    ths.forEach(function(t,j){t.classList.toggle('active',j===cur);});
+    var at=ths[cur]; if(at&&at.scrollIntoView) at.scrollIntoView({inline:'nearest',block:'nearest'});
+  }
+  function reset(){ if(timer) clearInterval(timer); timer=setInterval(function(){show(cur+1);},6000); }
+  if(prev) prev.addEventListener('click',function(e){e.preventDefault();show(cur-1);reset();});
+  if(next) next.addEventListener('click',function(e){e.preventDefault();show(cur+1);reset();});
+  ths.forEach(function(t){t.addEventListener('click',function(){
+    show(parseInt(this.getAttribute('data-i'),10)); reset();
+  });});
+  show(0); reset();
+})();
+</script>
+</body></html>

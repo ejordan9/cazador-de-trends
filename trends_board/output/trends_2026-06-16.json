@@ -1,0 +1,576 @@
+{
+  "generado": "2026-06-16T08:34:00-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "Cabo Verde",
+          "link": "https://x.com/search?q=Cabo%20Verde&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Uruguay",
+          "link": "https://x.com/search?q=Uruguay&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Briones",
+          "link": "https://x.com/search?q=Briones&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "España",
+          "link": "https://x.com/search?q=Espa%C3%B1a&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Bielsa",
+          "link": "https://x.com/search?q=Bielsa&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "tim payne",
+          "link": "https://x.com/search?q=tim%20payne&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#VolveriasConTuEx2",
+          "link": "https://x.com/search?q=%23VolveriasConTuEx2&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#FelizMartes",
+          "link": "https://x.com/search?q=%23FelizMartes&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#MundialDeFutbol2026",
+          "link": "https://x.com/search?q=%23MundialDeFutbol2026&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Nueva Zelanda",
+          "link": "https://x.com/search?q=Nueva%20Zelanda&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#contigochv",
+          "link": "https://x.com/search?q=%23contigochv&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "arabia saudita",
+          "link": "https://x.com/search?q=arabia%20saudita&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Gaspi",
+          "link": "https://x.com/search?q=Gaspi&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Luli",
+          "link": "https://x.com/search?q=Luli&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#UFCWhiteHouse",
+          "link": "https://x.com/search?q=%23UFCWhiteHouse&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Sala Cuna Universal",
+          "link": "https://x.com/search?q=Sala%20Cuna%20Universal&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Lukaku",
+          "link": "https://x.com/search?q=Lukaku&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Fran Maira",
+          "link": "https://x.com/search?q=Fran%20Maira&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "oliver tree",
+          "link": "https://x.com/search?q=oliver%20tree&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Muslera",
+          "link": "https://x.com/search?q=Muslera&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "netflix",
+          "link": "https://www.google.com/search?q=netflix",
+          "volumen": "500+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "partidos hoy mundial 2026",
+          "link": "https://www.google.com/search?q=partidos%20hoy%20mundial%202026",
+          "volumen": "2000+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "ignacio buse",
+          "link": "https://www.google.com/search?q=ignacio%20buse",
+          "volumen": "200+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "joão fonseca",
+          "link": "https://www.google.com/search?q=jo%C3%A3o%20fonseca",
+          "volumen": "200+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "gustavo gatica",
+          "link": "https://www.google.com/search?q=gustavo%20gatica",
+          "volumen": "100+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "leandro hernández",
+          "link": "https://www.google.com/search?q=leandro%20hern%C3%A1ndez",
+          "volumen": "100+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "cupón",
+          "link": "https://www.google.com/search?q=cup%C3%B3n",
+          "volumen": "200+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "el niño",
+          "link": "https://www.google.com/search?q=el%20ni%C3%B1o",
+          "volumen": "2000+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "minvu",
+          "link": "https://www.google.com/search?q=minvu",
+          "volumen": "200+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "senegal",
+          "link": "https://www.google.com/search?q=senegal",
+          "volumen": "200+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Jefa de gabinete del presidente Kast y sus hermanos obtuvieron subsidios habitacionales de clase media a pesar de cuantioso patrimonio inmobiliario",
+          "link": "https://www.reddit.com/r/chile/comments/1u707ic/jefa_de_gabinete_del_presidente_kast_y_sus/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": true,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Jefa de gabinete del Presidente Kast habría recibido subsidios habitacionales de clase media teniendo propiedades",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u7bk77/jefa_de_gabinete_del_presidente_kast_habría/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": true,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Oposición advierte que Registro de Vándalos incluiría a quienes organicen rifas o bingos",
+          "link": "https://www.reddit.com/r/chile/comments/1u7akkb/oposición_advierte_que_registro_de_vándalos/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "El ruv es el simil fruna (inconstitucional) del sistema de creditos social chino:",
+          "link": "https://www.reddit.com/r/chile/comments/1u74esr/el_ruv_es_el_simil_fruna_inconstitucional_del/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Ley de vandalos, tomar una cerveza en la calle y no poder renovar documentación????",
+          "link": "https://www.reddit.com/r/chile/comments/1u6x5pn/ley_de_vandalos_tomar_una_cerveza_en_la_calle_y/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "I think Im getting aged out of marketing at 41",
+          "link": "https://www.reddit.com/r/marketing/comments/1u71beg/i_think_im_getting_aged_out_of_marketing_at_41/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "5 years in SEO: outdated. 3 months in AEO: visionary.",
+          "link": "https://www.reddit.com/r/marketing/comments/1u6azdi/5_years_in_seo_outdated_3_months_in_aeo_visionary/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "How much to charge as a freelancer with one year of experience",
+          "link": "https://www.reddit.com/r/marketing/comments/1u5juwp/how_much_to_charge_as_a_freelancer_with_one_year/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s going on with heavy spaces between paragraphs on Reddit lately?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u70kkq/whats_going_on_with_heavy_spaces_between/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with the debate surrounding POTS?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u6d85c/what_is_going_on_with_the_debate_surrounding_pots/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with the slightly rotated screenshot?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u6av19/whats_up_with_the_slightly_rotated_screenshot/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with Andy Burnham and him possibly being the UK's next PM?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u65ba7/whats_up_with_andy_burnham_and_him_possibly_being/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with pairing Lex Luthor and Rouge the Bat?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u5ixms/what_is_going_on_with_pairing_lex_luthor_and/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Exam paper got leaked",
+          "link": "https://www.reddit.com/r/memes/comments/1u773h1/exam_paper_got_leaked/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "The father of the little girls did the right thing. All the other woman had to do was be patient.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u76eov/the_father_of_the_little_girls_did_the_right/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "It’s over, isn’t it?",
+          "link": "https://www.reddit.com/r/memes/comments/1u739j7/its_over_isnt_it/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Cookies vs. Conquest",
+          "link": "https://www.reddit.com/r/memes/comments/1u70g18/cookies_vs_conquest/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Idiocracy on display",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u6zq1c/idiocracy_on_display/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Tom Holland confirms marriage to Zendaya in Esquire cover interview",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u7ault/tom_holland_confirms_marriage_to_zendaya_in/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "If you're wondering how to get a \"first name.last name\" Gmail account, I made my account over 20 years ago.",
+          "link": "https://www.reddit.com/r/Millennials/comments/1u73x16/if_youre_wondering_how_to_get_a_first_namelast/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "okay 😭 fair enough",
+          "link": "https://www.reddit.com/r/GenZ/comments/1u73aag/okay_fair_enough/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "Why are we so much more sensitive when it comes to age gaps and sex in general?",
+          "link": "https://www.reddit.com/r/GenZ/comments/1u6tdxf/why_are_we_so_much_more_sensitive_when_it_comes/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "Millennial ghosts to the front",
+          "link": "https://www.reddit.com/r/Millennials/comments/1u6p7i9/millennial_ghosts_to_the_front/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

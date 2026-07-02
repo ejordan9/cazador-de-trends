@@ -1,0 +1,323 @@
+{
+  "generado": "2026-06-30T09:12:53-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": false,
+      "detalle": "HTTPSConnectionPool(host='getdaytrends.com', port=443): Max retries exceeded with url: /es/chile/ (Caused by NameResolutionError(\"HTTPSConnection(host='getdaytrends.com', port=443): Failed to resolve 'getdaytrends.com' ([Errno -3] Temporary failure in name resolution)\"))",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "⚠️ La fuente falló: HTTPSConnectionPool(host='getdaytrends.com', port=443): Max retries exceeded with url: /es/chile/ (Caused by NameResolutionError(\"HTTPSConnection(host='getdaytrends.com', port=443): Failed to resolve 'getdaytrends.com' ([Errno -3] Temporary failure in name resolution)\"))",
+          "link": "",
+          "volumen": null,
+          "orden": null,
+          "sensible": false,
+          "error": true,
+          "grupo": null,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": false,
+      "detalle": "HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trending/rss?geo=CL (Caused by NameResolutionError(\"HTTPSConnection(host='trends.google.com', port=443): Failed to resolve 'trends.google.com' ([Errno -3] Temporary failure in name resolution)\"))",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "⚠️ La fuente falló: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trending/rss?geo=CL (Caused by NameResolutionError(\"HTTPSConnection(host='trends.google.com', port=443): Failed to resolve 'trends.google.com' ([Errno -3] Temporary failure in name resolution)\"))",
+          "link": "",
+          "volumen": null,
+          "orden": null,
+          "sensible": false,
+          "error": true,
+          "grupo": null,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "El caso de Angélica Cid: Cuando la realidad supera a la ficción y la burocracia reemplaza a la justicia",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ujg426/el_caso_de_angélica_cid_cuando_la_realidad_supera/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "INDH interpuso querella por presunta tortura sexual de detenida por VIF por parte de un carabinero",
+          "link": "https://www.reddit.com/r/chile/comments/1ujplgh/indh_interpuso_querella_por_presunta_tortura/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "baños mujeres en malls",
+          "link": "https://www.reddit.com/r/chile/comments/1uj3osi/baños_mujeres_en_malls/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Se agudiza la emergencia laboral: Desempleo salta a 9,4% en marzo-mayo y marca máximo en casi cinco años",
+          "link": "https://www.reddit.com/r/chile/comments/1ujpzrr/se_agudiza_la_emergencia_laboral_desempleo_salta/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "GGCC extraordinario debería pagarlo arrendador",
+          "link": "https://www.reddit.com/r/chile/comments/1ujnob9/ggcc_extraordinario_debería_pagarlo_arrendador/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "How effective was the Levi's logo covered up marketing? Was this more effective advertising than the actual companies at the world cup paying to be sponsored?",
+          "link": "https://www.reddit.com/r/marketing/comments/1uiz570/how_effective_was_the_levis_logo_covered_up/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Just got Promoted as Marketing Head. What's the first 6 months focus ?",
+          "link": "https://www.reddit.com/r/marketing/comments/1uhcd0j/just_got_promoted_as_marketing_head_whats_the/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "paid social hasn't been the same since we replatformed the commerce backend",
+          "link": "https://www.reddit.com/r/marketing/comments/1uhh66k/paid_social_hasnt_been_the_same_since_we/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with Clarence Thomas and speaker Johnson?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ujfznx/whats_going_on_with_clarence_thomas_and_speaker/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with Pokemon cards? Why are they such a huge deal right now? What makes them a commodity",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ujlbgc/what_is_going_on_with_pokemon_cards_why_are_they/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s up with Gabbie Hanna trending again?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uj25h7/whats_up_with_gabbie_hanna_trending_again/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with YouTubers having a second channel that covers more or less the same topics as the first?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uivzsp/whats_up_with_youtubers_having_a_second_channel/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with South Korea's football team being investigated after the world cup loss?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uinwhf/whats_up_with_south_koreas_football_team_being/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Calm down, Pepto",
+          "link": "https://www.reddit.com/r/memes/comments/1ujk0qr/calm_down_pepto/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "There really are some weirdos out there. What. In. The. Actual. Hell. Is this behaviour?",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1ujk2uf/there_really_are_some_weirdos_out_there_what_in/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "can u fix the basketballhoop?",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uj9sgl/can_u_fix_the_basketballhoop/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "She is running a strict program",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1ujh98h/she_is_running_a_strict_program/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Woman gets locked inside doctor's office after being forgotten at appointment.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uj47bv/woman_gets_locked_inside_doctors_office_after/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "When the industry said change; Hannah Waddingham, Barbra Streisand, Jennifer Lawrence and Mel B said no.",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uj9x2o/when_the_industry_said_change_hannah_waddingham/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "Mystery Neighbor",
+          "link": "https://www.reddit.com/r/Millennials/comments/1uj6w01/mystery_neighbor/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "We are cooked, guys",
+          "link": "https://www.reddit.com/r/GenZ/comments/1uj6e4s/we_are_cooked_guys/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Tom Holland and Jacob Batalon’s accurate reaction of what it’s like to take pictures of Zendaya",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1ujdb7u/tom_holland_and_jacob_batalons_accurate_reaction/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "TIDAL will not pay royalties to AI-generated songs as they share new policy",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1ujooyd/tidal_will_not_pay_royalties_to_aigenerated_songs/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        }
+      ]
+    }
+  ]
+}

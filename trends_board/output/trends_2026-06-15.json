@@ -1,0 +1,576 @@
+{
+  "generado": "2026-06-15T13:12:01-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "Cabo Verde",
+          "link": "https://x.com/search?q=Cabo%20Verde&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Gaspi",
+          "link": "https://x.com/search?q=Gaspi&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Lamine",
+          "link": "https://x.com/search?q=Lamine&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Ecuador",
+          "link": "https://x.com/search?q=Ecuador&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Topuria",
+          "link": "https://x.com/search?q=Topuria&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#MundialDeFutbol2026",
+          "link": "https://x.com/search?q=%23MundialDeFutbol2026&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#UFCWhiteHouse",
+          "link": "https://x.com/search?q=%23UFCWhiteHouse&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "curazao",
+          "link": "https://x.com/search?q=curazao&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Costa de Marfil",
+          "link": "https://x.com/search?q=Costa%20de%20Marfil&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Ferran",
+          "link": "https://x.com/search?q=Ferran&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#VamosLaU",
+          "link": "https://x.com/search?q=%23VamosLaU&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "De La Fuente",
+          "link": "https://x.com/search?q=De%20La%20Fuente&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Pedri",
+          "link": "https://x.com/search?q=Pedri&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "GAVI",
+          "link": "https://x.com/search?q=GAVI&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Japón",
+          "link": "https://x.com/search?q=Jap%C3%B3n&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Calderón",
+          "link": "https://x.com/search?q=Calder%C3%B3n&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#contigochv",
+          "link": "https://x.com/search?q=%23contigochv&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Túnez",
+          "link": "https://x.com/search?q=T%C3%BAnez&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Gago",
+          "link": "https://x.com/search?q=Gago&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Altamirano",
+          "link": "https://x.com/search?q=Altamirano&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "nico williams",
+          "link": "https://www.google.com/search?q=nico%20williams",
+          "volumen": "100+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "combustible",
+          "link": "https://www.google.com/search?q=combustible",
+          "volumen": "500+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "marca",
+          "link": "https://www.google.com/search?q=marca",
+          "volumen": "100+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "mario marcel",
+          "link": "https://www.google.com/search?q=mario%20marcel",
+          "volumen": "200+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "irán",
+          "link": "https://www.google.com/search?q=ir%C3%A1n",
+          "volumen": "100+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "vozinha",
+          "link": "https://www.google.com/search?q=vozinha",
+          "volumen": "500+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "dorothy pérez",
+          "link": "https://www.google.com/search?q=dorothy%20p%C3%A9rez",
+          "volumen": "500+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "donde queda cabo verde",
+          "link": "https://www.google.com/search?q=donde%20queda%20cabo%20verde",
+          "volumen": "200+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "fabián ruiz peña",
+          "link": "https://www.google.com/search?q=fabi%C3%A1n%20ruiz%20pe%C3%B1a",
+          "volumen": "200+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "chilevision",
+          "link": "https://www.google.com/search?q=chilevision",
+          "volumen": "10000+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Flaites qls",
+          "link": "https://www.reddit.com/r/chile/comments/1u6hmzk/flaites_qls/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "En que momento dejamos de brillar en el football?",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u6i6ja/en_que_momento_dejamos_de_brillar_en_el_football/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Carreras sisoycomo las weas en matemáticas",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u6i3w7/carreras_sisoycomo_las_weas_en_matemáticas/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Kast advierte meses difíciles para el empleo en Chile: “Hay familias que no llegan a fin de mes”",
+          "link": "https://www.reddit.com/r/chile/comments/1u6lzne/kast_advierte_meses_difíciles_para_el_empleo_en/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": true,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "¿Estamos siendo manipulados?",
+          "link": "https://www.reddit.com/r/chile/comments/1u6j2qz/estamos_siendo_manipulados/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "5 years in SEO: outdated. 3 months in AEO: visionary.",
+          "link": "https://www.reddit.com/r/marketing/comments/1u6azdi/5_years_in_seo_outdated_3_months_in_aeo_visionary/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Having some fun with it 😂",
+          "link": "https://www.reddit.com/r/marketing/comments/1u6nq9z/having_some_fun_with_it/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "every ugc contract template floating around online is from 2023 and it's going to cost you a $250 ransom call",
+          "link": "https://www.reddit.com/r/marketing/comments/1u6iy8t/every_ugc_contract_template_floating_around/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with the debate surrounding POTS?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u6d85c/what_is_going_on_with_the_debate_surrounding_pots/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with the slightly rotated screenshot?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u6av19/whats_up_with_the_slightly_rotated_screenshot/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with Andy Burnham and him possibly being the UK's next PM?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u65ba7/whats_up_with_andy_burnham_and_him_possibly_being/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with pairing Lex Luthor and Rouge the Bat?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u5ixms/what_is_going_on_with_pairing_lex_luthor_and/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with the cast of The Pitt and a panel discussion?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u4zrhi/whats_going_on_with_the_cast_of_the_pitt_and_a/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "I knew they were up to something",
+          "link": "https://www.reddit.com/r/memes/comments/1u6crzj/i_knew_they_were_up_to_something/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Treadmill shrimp",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u6fkhs/treadmill_shrimp/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "She almost married a man that didn't wipe his ass",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u6khtq/she_almost_married_a_man_that_didnt_wipe_his_ass/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "The good couples",
+          "link": "https://www.reddit.com/r/memes/comments/1u6havd/the_good_couples/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "It grows on trees though!!!",
+          "link": "https://www.reddit.com/r/memes/comments/1u6ciri/it_grows_on_trees_though/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "The oldest members of our generation were born in 81. We bow to you our kings and queens!",
+          "link": "https://www.reddit.com/r/Millennials/comments/1u6jo0k/the_oldest_members_of_our_generation_were_born_in/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Norwegian crown princess's son found guilty of rape",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u6brhv/norwegian_crown_princesss_son_found_guilty_of_rape/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "24M who struggles with dating is it my looks?",
+          "link": "https://www.reddit.com/r/GenZ/comments/1u6iqfc/24m_who_struggles_with_dating_is_it_my_looks/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Akunyili Crosby with Michelle Obama and Barack Obama at the private unveiling of the portrait in the Hope and Change Lobby of the Obama Presidential Center on June 14, 2026.",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u6lzqk/akunyili_crosby_with_michelle_obama_and_barack/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Penélope Cruz and Javier Bardem: A Timeline of Their 30-Year Journey From 'Jamón, Jamón' to Marriage and Family",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u6n5gi/penélope_cruz_and_javier_bardem_a_timeline_of/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

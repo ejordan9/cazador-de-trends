@@ -1,0 +1,576 @@
+{
+  "generado": "2026-06-23T09:47:00-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "San Bernardo",
+          "link": "https://x.com/search?q=San%20Bernardo&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#MuchoGustoMega",
+          "link": "https://x.com/search?q=%23MuchoGustoMega&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#contigochv",
+          "link": "https://x.com/search?q=%23contigochv&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#fiebredebailechv",
+          "link": "https://x.com/search?q=%23fiebredebailechv&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Messi",
+          "link": "https://x.com/search?q=Messi&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Schalper",
+          "link": "https://x.com/search?q=Schalper&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Grau",
+          "link": "https://x.com/search?q=Grau&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "el estado",
+          "link": "https://x.com/search?q=el%20estado&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Noruega",
+          "link": "https://x.com/search?q=Noruega&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Austria",
+          "link": "https://x.com/search?q=Austria&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#tudia13",
+          "link": "https://x.com/search?q=%23tudia13&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Jordânia",
+          "link": "https://x.com/search?q=Jord%C3%A2nia&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Colombia",
+          "link": "https://x.com/search?q=Colombia&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Haaland",
+          "link": "https://x.com/search?q=Haaland&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Jungkook",
+          "link": "https://x.com/search?q=Jungkook&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Arrau",
+          "link": "https://x.com/search?q=Arrau&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Neme",
+          "link": "https://x.com/search?q=Neme&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Mbappe",
+          "link": "https://x.com/search?q=Mbappe&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Irak",
+          "link": "https://x.com/search?q=Irak&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#HouseOfTheDragon",
+          "link": "https://x.com/search?q=%23HouseOfTheDragon&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "san bernardo",
+          "link": "https://www.google.com/search?q=san%20bernardo",
+          "volumen": "100+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "sueldo minimo",
+          "link": "https://www.google.com/search?q=sueldo%20minimo",
+          "volumen": "100+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "cuando es san juan",
+          "link": "https://www.google.com/search?q=cuando%20es%20san%20juan",
+          "volumen": "100+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "rosemarie dietz",
+          "link": "https://www.google.com/search?q=rosemarie%20dietz",
+          "volumen": "100+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "fernanda salazar",
+          "link": "https://www.google.com/search?q=fernanda%20salazar",
+          "volumen": "100+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "jean paul pineda",
+          "link": "https://www.google.com/search?q=jean%20paul%20pineda",
+          "volumen": "100+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "temperatura",
+          "link": "https://www.google.com/search?q=temperatura",
+          "volumen": "200+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "sony interactive entertainment",
+          "link": "https://www.google.com/search?q=sony%20interactive%20entertainment",
+          "volumen": "100+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "alejandro tabilo",
+          "link": "https://www.google.com/search?q=alejandro%20tabilo",
+          "volumen": "2000+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "ley",
+          "link": "https://www.google.com/search?q=ley",
+          "volumen": "500+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Kast anuncia reforma al SAE que devuelve a colegios la facultad de seleccionar estudiantes",
+          "link": "https://www.reddit.com/r/chile/comments/1udh8tc/kast_anuncia_reforma_al_sae_que_devuelve_a/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": true,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "ta helao Juan",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1udcxw6/ta_helao_juan/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Niño queda atrapado con el cinturón y muere tras encerrona en San Bernardo",
+          "link": "https://www.reddit.com/r/chile/comments/1udgk95/niño_queda_atrapado_con_el_cinturón_y_muere_tras/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Clonazepam",
+          "link": "https://www.reddit.com/r/chile/comments/1ucvl7w/clonazepam/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "el cartel de zaliasnik: justicia vip a la medida de la derecha",
+          "link": "https://www.reddit.com/r/chile/comments/1ud86b7/el_cartel_de_zaliasnik_justicia_vip_a_la_medida/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Is TV a good fits for DTC brands?",
+          "link": "https://www.reddit.com/r/marketing/comments/1ucrco6/is_tv_a_good_fits_for_dtc_brands/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Should I expect to be dismissed after putting in my 2 weeks?",
+          "link": "https://www.reddit.com/r/marketing/comments/1ucrcft/should_i_expect_to_be_dismissed_after_putting_in/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Firing a client because they’re corporate management is insufferable to work with. Late payments, etc.",
+          "link": "https://www.reddit.com/r/marketing/comments/1ucu6jp/firing_a_client_because_theyre_corporate/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with Tobuscus making an anti-immigrant song on YouTube?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ucfy0e/whats_the_deal_with_tobuscus_making_an/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "Whats going on with the US men's hockey team requesting trades?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uch46x/whats_going_on_with_the_us_mens_hockey_team/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with all these NYC youth meetup events being advertised on Instagram?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ucsc5l/whats_up_with_all_these_nyc_youth_meetup_events/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with the band Doyle?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uctv6a/whats_going_on_with_the_band_doyle/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with the brits? Why's their PM planning to resign?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ubs13i/whats_going_on_with_the_brits_whys_their_pm/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "This is so frustrating.",
+          "link": "https://www.reddit.com/r/memes/comments/1udfin2/this_is_so_frustrating/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Checking everyone's tickets at the station to ensure only those with a ticket can take shelter from the rain.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uddj6j/checking_everyones_tickets_at_the_station_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "TikToker claims men who date women over 110 pounds are “chubby chasers,” then melts down and starts calling her audience “fatasses” and “fat fat fatty”",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1udgaof/tiktoker_claims_men_who_date_women_over_110/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Both would blow you away",
+          "link": "https://www.reddit.com/r/memes/comments/1ude4y0/both_would_blow_you_away/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Nobody likes being wrong, but wow.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1udexcz/nobody_likes_being_wrong_but_wow/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Christina Ricci shames Jimmy Fellon for hosting Mcgregor",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1udha5n/christina_ricci_shames_jimmy_fellon_for_hosting/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "The Nintendo 64 turns thirty. Who among you owned one?",
+          "link": "https://www.reddit.com/r/Millennials/comments/1udhow2/the_nintendo_64_turns_thirty_who_among_you_owned/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "Boomer math vs. Gen Z reality.",
+          "link": "https://www.reddit.com/r/GenZ/comments/1ud6c6g/boomer_math_vs_gen_z_reality/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "2004 daily struggle",
+          "link": "https://www.reddit.com/r/Millennials/comments/1uczg8u/2004_daily_struggle/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "David Corenswet steps in to shield Milly Alcock after a photographer puts their hands on her on the ‘Supergirl’ carpet premiere in New York (June 22, 2026)",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1udeio7/david_corenswet_steps_in_to_shield_milly_alcock/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

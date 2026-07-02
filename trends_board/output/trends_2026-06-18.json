@@ -1,0 +1,576 @@
+{
+  "generado": "2026-06-18T08:34:07-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "Messi",
+          "link": "https://x.com/search?q=Messi&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#100xChile",
+          "link": "https://x.com/search?q=%23100xChile&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Histórica",
+          "link": "https://x.com/search?q=Hist%C3%B3rica&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Haitianos",
+          "link": "https://x.com/search?q=Haitianos&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#DMDLINEUP2026",
+          "link": "https://x.com/search?q=%23DMDLINEUP2026&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Portugal",
+          "link": "https://x.com/search?q=Portugal&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Inglaterra",
+          "link": "https://x.com/search?q=Inglaterra&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Colombia",
+          "link": "https://x.com/search?q=Colombia&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Evelyn",
+          "link": "https://x.com/search?q=Evelyn&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "TITI AL 9009",
+          "link": "https://x.com/search?q=TITI%20AL%209009&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "uzbekistan",
+          "link": "https://x.com/search?q=uzbekistan&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#TrabajandoParaUsted",
+          "link": "https://x.com/search?q=%23TrabajandoParaUsted&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Ghana",
+          "link": "https://x.com/search?q=Ghana&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Argelia",
+          "link": "https://x.com/search?q=Argelia&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Harry Kane",
+          "link": "https://x.com/search?q=Harry%20Kane&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Cristiano",
+          "link": "https://x.com/search?q=Cristiano&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Thayer",
+          "link": "https://x.com/search?q=Thayer&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Congo",
+          "link": "https://x.com/search?q=Congo&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Bachelet",
+          "link": "https://x.com/search?q=Bachelet&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Marathon",
+          "link": "https://x.com/search?q=Marathon&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "gta 6",
+          "link": "https://www.google.com/search?q=gta%206",
+          "volumen": "100+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "meloni",
+          "link": "https://www.google.com/search?q=meloni",
+          "volumen": "200+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "netflix",
+          "link": "https://www.google.com/search?q=netflix",
+          "volumen": "1000+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "casino",
+          "link": "https://www.google.com/search?q=casino",
+          "volumen": "100+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "konate",
+          "link": "https://www.google.com/search?q=konate",
+          "volumen": "200+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "baja bencina",
+          "link": "https://www.google.com/search?q=baja%20bencina",
+          "volumen": "2000+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "ivana knoll",
+          "link": "https://www.google.com/search?q=ivana%20knoll",
+          "volumen": "200+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "weather",
+          "link": "https://www.google.com/search?q=weather",
+          "volumen": "200+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "tormenta eléctrica",
+          "link": "https://www.google.com/search?q=tormenta%20el%C3%A9ctrica",
+          "volumen": "500+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "lluvia",
+          "link": "https://www.google.com/search?q=lluvia",
+          "volumen": "1000+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Me vine sentado en la micro al lado de un perro",
+          "link": "https://www.reddit.com/r/chile/comments/1u8txpz/me_vine_sentado_en_la_micro_al_lado_de_un_perro/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Kastification",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u8q8i5/kastification/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": true,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Tengo 5 millones. Den ideas de emprendimiento.",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u8sbnl/tengo_5_millones_den_ideas_de_emprendimiento/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Fui estafada por llamada",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u92rlc/fui_estafada_por_llamada/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Kast se junta a escondidas con el dueño de la vigilancia global",
+          "link": "https://www.reddit.com/r/chile/comments/1u8w75z/kast_se_junta_a_escondidas_con_el_dueño_de_la/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": true,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Compensation based pay",
+          "link": "https://www.reddit.com/r/marketing/comments/1u8vlfo/compensation_based_pay/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Switching from Paid Social to Brand - Mini MBA?",
+          "link": "https://www.reddit.com/r/marketing/comments/1u8odkq/switching_from_paid_social_to_brand_mini_mba/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "From startup to enterprise",
+          "link": "https://www.reddit.com/r/marketing/comments/1u84e8b/from_startup_to_enterprise/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with Peter Thiel and Dialog?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u95gpf/what_is_going_on_with_peter_thiel_and_dialog/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with the many insta reels saying Indians have exposed China?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u8rm9t/what_is_going_on_with_the_many_insta_reels_saying/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with all this talk about Trump giving IRAN $300 Billion in reconstruction funds after spending over $70 Billion attacking them?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u7qzz3/whats_the_deal_with_all_this_talk_about_trump/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with the reflecting pool in DC?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u7laa5/whats_going_on_with_the_reflecting_pool_in_dc/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s going on with Starbucks Korea marketing campaign?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u7r2h0/whats_going_on_with_starbucks_korea_marketing/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "I’m sure this has happened before….",
+          "link": "https://www.reddit.com/r/memes/comments/1u93zkj/im_sure_this_has_happened_before/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "\"Kids should go outside\" *kids when they go outside*",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u94ucw/kids_should_go_outside_kids_when_they_go_outside/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "The dark ages began when they said it was for the environment.",
+          "link": "https://www.reddit.com/r/memes/comments/1u91dn6/the_dark_ages_began_when_they_said_it_was_for_the/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "its my computer bro 😭😭",
+          "link": "https://www.reddit.com/r/memes/comments/1u8yuyd/its_my_computer_bro/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Gen Z parents",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u8qmy2/gen_z_parents/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "Accurate",
+          "link": "https://www.reddit.com/r/Millennials/comments/1u8swu7/accurate/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Angelina Jolie talks about working with her son Maddox in her film 'Couture': \"He did a lot of my line readings with me and he is the one child of mine that remembers my mother, we spent a lot of time talking about her and that was lovely\"",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u8syth/angelina_jolie_talks_about_working_with_her_son/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "First time voting , first biggest mistake of my life",
+          "link": "https://www.reddit.com/r/GenZ/comments/1u92i94/first_time_voting_first_biggest_mistake_of_my_life/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Jimmy Fallon gives a warm welcome to Violent Rapist and Racist Connor McGregor on The Tonight Show",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u8pae0/jimmy_fallon_gives_a_warm_welcome_to_violent/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Macaulay Culkin celebrates his 9 year anniversary with Brenda Song: ‘Today marks a very special day for me. It’s been 9 years since my life changed forever. It's amazing to think that 1 in every 5 days l've been alive I have had the honor of waking up next to the love of my life.’",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u8f7bp/macaulay_culkin_celebrates_his_9_year_anniversary/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

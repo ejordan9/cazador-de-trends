@@ -1,0 +1,521 @@
+{
+  "generado": "2026-07-01T08:38:26-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "México",
+          "link": "https://x.com/search?q=M%C3%A9xico&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Paraguay",
+          "link": "https://x.com/search?q=Paraguay&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Grau",
+          "link": "https://x.com/search?q=Grau&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#CopaMundialFIFA",
+          "link": "https://x.com/search?q=%23CopaMundialFIFA&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Alemania",
+          "link": "https://x.com/search?q=Alemania&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Francia",
+          "link": "https://x.com/search?q=Francia&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Valko",
+          "link": "https://x.com/search?q=Valko&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Sony",
+          "link": "https://x.com/search?q=Sony&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Caicedo",
+          "link": "https://x.com/search?q=Caicedo&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Olise",
+          "link": "https://x.com/search?q=Olise&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "jannik sinner",
+          "link": "https://www.google.com/search?q=jannik%20sinner",
+          "volumen": "500+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "imacec",
+          "link": "https://www.google.com/search?q=imacec",
+          "volumen": "100+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "aryna sabalenka",
+          "link": "https://www.google.com/search?q=aryna%20sabalenka",
+          "volumen": "200+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "fixture mundial 2026",
+          "link": "https://www.google.com/search?q=fixture%20mundial%202026",
+          "volumen": "100+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "ignacio buse",
+          "link": "https://www.google.com/search?q=ignacio%20buse",
+          "volumen": "100+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "temperatura santiago",
+          "link": "https://www.google.com/search?q=temperatura%20santiago",
+          "volumen": "100+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "subsecretaría",
+          "link": "https://www.google.com/search?q=subsecretar%C3%ADa",
+          "volumen": "1000+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "gonzalo feito",
+          "link": "https://www.google.com/search?q=gonzalo%20feito",
+          "volumen": "500+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "reservar nombre de usuario whatsapp",
+          "link": "https://www.google.com/search?q=reservar%20nombre%20de%20usuario%20whatsapp",
+          "volumen": "200+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "inglaterra vs congo",
+          "link": "https://www.google.com/search?q=inglaterra%20vs%20congo",
+          "volumen": "20000+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "AYUDA TOMÉ EL METRO CON DIRECCIÓN LOS DOMINICOS ESTANDO EN LOS DOMINICOS",
+          "link": "https://www.reddit.com/r/chile/comments/1ujzp8w/ayuda_tomé_el_metro_con_dirección_los_dominicos/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Gente que Trabaja de Noche en Faena o manejando por carreteras ¿Que es lo mas Aterrador o paranormal que han visto?",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uk8zux/gente_que_trabaja_de_noche_en_faena_o_manejando/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Quiero cortarle el internet a mi mamá",
+          "link": "https://www.reddit.com/r/chile/comments/1uk84dg/quiero_cortarle_el_internet_a_mi_mamá/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Quiero cortarle el internet a mi mamá.",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uk855q/quiero_cortarle_el_internet_a_mi_mamá/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Mi roomie abre así las paltas",
+          "link": "https://www.reddit.com/r/chile/comments/1uk89s5/mi_roomie_abre_así_las_paltas/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Whatsapp Marketing",
+          "link": "https://www.reddit.com/r/marketing/comments/1ukgydm/whatsapp_marketing/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Where are data/reporting specialists usually located structurally within a company?",
+          "link": "https://www.reddit.com/r/marketing/comments/1ujugiq/where_are_datareporting_specialists_usually/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "How effective was the Levi's logo covered up marketing? Was this more effective advertising than the actual companies at the world cup paying to be sponsored?",
+          "link": "https://www.reddit.com/r/marketing/comments/1uiz570/how_effective_was_the_levis_logo_covered_up/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with the recent tension between Ukraine's President Zelenskiy and Eastern Europe?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uk23kz/whats_the_deal_with_the_recent_tension_between/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with Phil Mickelson?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ujzsnf/what_is_going_on_with_phil_mickelson/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with Clarence Thomas and speaker Johnson?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ujfznx/whats_going_on_with_clarence_thomas_and_speaker/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with various law enforcement and state agencies using Sophia Cunningham in their social media posts?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uk7ekf/whats_up_with_various_law_enforcement_and_state/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s going on with Love and Deepspace (LADS) new character?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ujqebl/whats_going_on_with_love_and_deepspace_lads_new/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Yeah but he meows",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uk1ky7/yeah_but_he_meows/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Live everyday like it’s your last, I guess?",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1ukiy5s/live_everyday_like_its_your_last_i_guess/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Woman harassed by man in hostel",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uk3ore/woman_harassed_by_man_in_hostel/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Be a good little consumer.",
+          "link": "https://www.reddit.com/r/memes/comments/1ukbj9n/be_a_good_little_consumer/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Google Maps: \"You have reached your scratching destination.\" 🤣📍",
+          "link": "https://www.reddit.com/r/memes/comments/1ukdomw/google_maps_you_have_reached_your_scratching/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Fox News claimed Trump’s Freedom 250 event, despite the the sparse crowds behind them, had “thousands of people”, but a guitarists sunglasses reflection said otherwise.",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uk9ave/fox_news_claimed_trumps_freedom_250_event_despite/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "That door frame slap was a must",
+          "link": "https://www.reddit.com/r/Millennials/comments/1ukd2ba/that_door_frame_slap_was_a_must/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "Being neurodivergent sucks",
+          "link": "https://www.reddit.com/r/GenZ/comments/1ujw0yw/being_neurodivergent_sucks/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "People have always been racist towards black people",
+          "link": "https://www.reddit.com/r/GenZ/comments/1ukhuza/people_have_always_been_racist_towards_black/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "This is the same man that said the minimum wage for young people should be cut",
+          "link": "https://www.reddit.com/r/GenZ/comments/1ukl4au/this_is_the_same_man_that_said_the_minimum_wage/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "generado": "2026-06-20T09:43:01-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": false,
+      "detalle": "HTTPSConnectionPool(host='getdaytrends.com', port=443): Max retries exceeded with url: /es/chile/ (Caused by NameResolutionError(\"HTTPSConnection(host='getdaytrends.com', port=443): Failed to resolve 'getdaytrends.com' ([Errno -3] Temporary failure in name resolution)\"))",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "⚠️ La fuente falló: HTTPSConnectionPool(host='getdaytrends.com', port=443): Max retries exceeded with url: /es/chile/ (Caused by NameResolutionError(\"HTTPSConnection(host='getdaytrends.com', port=443): Failed to resolve 'getdaytrends.com' ([Errno -3] Temporary failure in name resolution)\"))",
+          "link": "",
+          "volumen": null,
+          "orden": null,
+          "sensible": false,
+          "error": true,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": false,
+      "detalle": "HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trending/rss?geo=CL (Caused by NameResolutionError(\"HTTPSConnection(host='trends.google.com', port=443): Failed to resolve 'trends.google.com' ([Errno -3] Temporary failure in name resolution)\"))",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "⚠️ La fuente falló: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trending/rss?geo=CL (Caused by NameResolutionError(\"HTTPSConnection(host='trends.google.com', port=443): Failed to resolve 'trends.google.com' ([Errno -3] Temporary failure in name resolution)\"))",
+          "link": "",
+          "volumen": null,
+          "orden": null,
+          "sensible": false,
+          "error": true,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Entonces el tema de los niños haitianos desaparecidos fue todo un tongo?",
+          "link": "https://www.reddit.com/r/chile/comments/1uajqjc/entonces_el_tema_de_los_niños_haitianos/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Lenguaje inclusivo",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ua6plj/lenguaje_inclusivo/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Publicación de La Tercera cuando se cumplieron 100 días del gobierno Boric.",
+          "link": "https://www.reddit.com/r/chile/comments/1uamz55/publicación_de_la_tercera_cuando_se_cumplieron/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": true,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Viña del Mar: Manifestación en contra de \"Las Alzas de Kast\"",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uagg0c/viña_del_mar_manifestación_en_contra_de_las_alzas/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": true,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Clasismo en el extranjero",
+          "link": "https://www.reddit.com/r/chile/comments/1uavuhj/clasismo_en_el_extranjero/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Feeling lackluster in 10+yr marketing career. What can I transition to?",
+          "link": "https://www.reddit.com/r/marketing/comments/1uahham/feeling_lackluster_in_10yr_marketing_career_what/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "An IT team leader at my company has gone rogue with AI and started creating “marketing materials.”Company leadership is letting it slide.",
+          "link": "https://www.reddit.com/r/marketing/comments/1u9vflw/an_it_team_leader_at_my_company_has_gone_rogue/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Selling positive replies?",
+          "link": "https://www.reddit.com/r/marketing/comments/1uamkzc/selling_positive_replies/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s the deal with Trader Joe’s tote bags?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ua4wfq/whats_the_deal_with_trader_joes_tote_bags/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with Peter Thiel and Dialog?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u95gpf/what_is_going_on_with_peter_thiel_and_dialog/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with the many insta reels saying Indians have exposed China?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u8rm9t/what_is_going_on_with_the_many_insta_reels_saying/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with all this talk about Trump giving IRAN $300 Billion in reconstruction funds after spending over $70 Billion attacking them?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u7qzz3/whats_the_deal_with_all_this_talk_about_trump/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with the reflecting pool in DC?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u7laa5/whats_going_on_with_the_reflecting_pool_in_dc/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "The one double standard which irritates me the most",
+          "link": "https://www.reddit.com/r/memes/comments/1uavsgi/the_one_double_standard_which_irritates_me_the/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Georgia woman loses it over man openly carrying firearm on wooded trail.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uamvwe/georgia_woman_loses_it_over_man_openly_carrying/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Like it's absolute cinema",
+          "link": "https://www.reddit.com/r/memes/comments/1uaq2y4/like_its_absolute_cinema/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Beat them at their own game",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uallba/beat_them_at_their_own_game/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Millennial talks sense into boomers who are mad their kids went no contact",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uaaw7b/millennial_talks_sense_into_boomers_who_are_mad/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "My brain is stuck in the 90’s!",
+          "link": "https://www.reddit.com/r/Millennials/comments/1uakwu6/my_brain_is_stuck_in_the_90s/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Olivia Rodrigo when asked about what the fake job meant in 'expectations': 'The guys I’ve met in LA and New York who have rich parents, who are like producers, DJs, creative directors and I'm like I think you work one day a week.'",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uaj9ya/olivia_rodrigo_when_asked_about_what_the_fake_job/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "Never translate an Hebrew Tweet",
+          "link": "https://www.reddit.com/r/GenZ/comments/1uap82u/never_translate_an_hebrew_tweet/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Dua shares snaps of their wedding 🩷",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uavg8d/dua_shares_snaps_of_their_wedding/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "It’s so unfair how us normal zoomers have to be lumped with 2005+",
+          "link": "https://www.reddit.com/r/GenZ/comments/1uavumx/its_so_unfair_how_us_normal_zoomers_have_to_be/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

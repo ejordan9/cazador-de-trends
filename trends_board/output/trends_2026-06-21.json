@@ -1,0 +1,256 @@
+{
+  "generado": "2026-06-21T19:39:01-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": false,
+      "detalle": "HTTPSConnectionPool(host='getdaytrends.com', port=443): Max retries exceeded with url: /es/chile/ (Caused by NameResolutionError(\"HTTPSConnection(host='getdaytrends.com', port=443): Failed to resolve 'getdaytrends.com' ([Errno -3] Temporary failure in name resolution)\"))",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "⚠️ La fuente falló: HTTPSConnectionPool(host='getdaytrends.com', port=443): Max retries exceeded with url: /es/chile/ (Caused by NameResolutionError(\"HTTPSConnection(host='getdaytrends.com', port=443): Failed to resolve 'getdaytrends.com' ([Errno -3] Temporary failure in name resolution)\"))",
+          "link": "",
+          "volumen": null,
+          "orden": null,
+          "sensible": false,
+          "error": true,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": false,
+      "detalle": "HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trending/rss?geo=CL (Caused by NameResolutionError(\"HTTPSConnection(host='trends.google.com', port=443): Failed to resolve 'trends.google.com' ([Errno -3] Temporary failure in name resolution)\"))",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "⚠️ La fuente falló: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trending/rss?geo=CL (Caused by NameResolutionError(\"HTTPSConnection(host='trends.google.com', port=443): Failed to resolve 'trends.google.com' ([Errno -3] Temporary failure in name resolution)\"))",
+          "link": "",
+          "volumen": null,
+          "orden": null,
+          "sensible": false,
+          "error": true,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "grupos caídos: chile+RepublicaDeChile+FutbolChileno",
+      "items": [
+        {
+          "fuente": "Reddit",
+          "tema": "⚠️ La fuente falló: Chile (chile+RepublicaDeChile+FutbolChileno): HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/chile+RepublicaDeChile+FutbolChileno/hot.rss?limit=5 (Caused by NameResolutionError(\"HTTPSConnection(host='www.reddit.com', port=443): Failed to resolve 'www.reddit.com' ([Errno -3] Temporary failure in name resolution)\"))",
+          "link": "",
+          "volumen": null,
+          "orden": null,
+          "sensible": false,
+          "error": true,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Reddit’s “Community Deli” at Cannes Lions 2026",
+          "link": "https://www.reddit.com/r/marketing/comments/1uc2azk/reddits_community_deli_at_cannes_lions_2026/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Is overtime in marketing department a general thing",
+          "link": "https://www.reddit.com/r/marketing/comments/1ubyx0w/is_overtime_in_marketing_department_a_general/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "How to fix a massive Monday slump?",
+          "link": "https://www.reddit.com/r/marketing/comments/1ube8ex/how_to_fix_a_massive_monday_slump/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with the brits? Why's their PM planning to resign?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ubs13i/whats_going_on_with_the_brits_whys_their_pm/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with older YouTube music videos haves the \"Vevo\" watermark?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ubntw6/whats_the_deal_with_older_youtube_music_videos/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with the picture of USA President Trump standing alone during the G7? Was he actually ostracised?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uba11o/whats_the_deal_with_the_picture_of_usa_president/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is up with the subreddit called r/UnfilteredChina?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ub5smj/what_is_up_with_the_subreddit_called/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s the deal with Trader Joe’s tote bags?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ua4wfq/whats_the_deal_with_trader_joes_tote_bags/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Happy Father's Day to the good dads out there!",
+          "link": "https://www.reddit.com/r/memes/comments/1uc25ml/happy_fathers_day_to_the_good_dads_out_there/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "NY woman coffee shop review unravels after viewers noticed she was getting her coffee from somewhere else.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uc3zmm/ny_woman_coffee_shop_review_unravels_after/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Chemistry is the study of change. So is life",
+          "link": "https://www.reddit.com/r/memes/comments/1ubw0ei/chemistry_is_the_study_of_change_so_is_life/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Certified idiot",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1ubpyze/certified_idiot/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Say no to racism!",
+          "link": "https://www.reddit.com/r/memes/comments/1ubr9eo/say_no_to_racism/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "It’s a rainy day at school and the teacher says we’re going to the computer lab",
+          "link": "https://www.reddit.com/r/Millennials/comments/1uc17s9/its_a_rainy_day_at_school_and_the_teacher_says/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Bad Bunny meets Chinese fan who learned Spanish for him at his concert in Düsseldorf, Germany: Yo aprendo español para ti (I learn Spanish for you)",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1ubsp6q/bad_bunny_meets_chinese_fan_who_learned_spanish/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "Is this room enough to spend your 20s alone?",
+          "link": "https://www.reddit.com/r/GenZ/comments/1ubsa8y/is_this_room_enough_to_spend_your_20s_alone/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Macaulay Culkin’s Father’s Day Post on Instagram: ‘It’s giving it a 10 when all you have is a 1 in the tank. I’m not perfect. I’m just a papa. Doesn’t matter. It all makes sense when my boys build me a bear.’",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uc2urg/macaulay_culkins_fathers_day_post_on_instagram/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Halsey responds to Anthony fantano regarding his review of her album \"the great impersonator\" and his critique that she has main character syndrome",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uc3wac/halsey_responds_to_anthony_fantano_regarding_his/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

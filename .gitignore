@@ -1,0 +1,15 @@
+# entorno virtual
+.venv/
+__pycache__/
+*.pyc
+
+# salidas locales regenerables (el HTML local se abre desde output/, no se versiona)
+trends_board/output/raw/
+trends_board/output/*.html
+
+# se versiona: trends_board/output/*.json (histórico) y public/ (lo que sirve Vercel)
+
+# archivos personales ajenos al proyecto
+*.pptx
+*.xlsx
+*.docx

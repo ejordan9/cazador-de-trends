@@ -1,0 +1,576 @@
+{
+  "generado": "2026-06-11T19:22:01-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "#MundialDeFútbol",
+          "link": "https://x.com/search?q=%23MundialDeF%C3%BAtbol&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "México",
+          "link": "https://x.com/search?q=M%C3%A9xico&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#Mundial2026",
+          "link": "https://x.com/search?q=%23Mundial2026&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#FIFAWorldCup",
+          "link": "https://x.com/search?q=%23FIFAWorldCup&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Shakira",
+          "link": "https://x.com/search?q=Shakira&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Sampaio",
+          "link": "https://x.com/search?q=Sampaio&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Boric",
+          "link": "https://x.com/search?q=Boric&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": true,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Estadio Azteca",
+          "link": "https://x.com/search?q=Estadio%20Azteca&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#inauguración",
+          "link": "https://x.com/search?q=%23inauguraci%C3%B3n&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Neme",
+          "link": "https://x.com/search?q=Neme&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Maná",
+          "link": "https://x.com/search?q=Man%C3%A1&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Danny Ocean",
+          "link": "https://x.com/search?q=Danny%20Ocean&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#VolveriasConTuEx2",
+          "link": "https://x.com/search?q=%23VolveriasConTuEx2&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Quiroz",
+          "link": "https://x.com/search?q=Quiroz&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Censo 2024",
+          "link": "https://x.com/search?q=Censo%202024&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Quiñones",
+          "link": "https://x.com/search?q=Qui%C3%B1ones&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Meneses",
+          "link": "https://x.com/search?q=Meneses&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Infantino",
+          "link": "https://x.com/search?q=Infantino&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Ley Uber",
+          "link": "https://x.com/search?q=Ley%20Uber&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Knicks",
+          "link": "https://x.com/search?q=Knicks&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "contraloría",
+          "link": "https://www.google.com/search?q=contralor%C3%ADa",
+          "volumen": "1000+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "paula escobar",
+          "link": "https://www.google.com/search?q=paula%20escobar",
+          "volumen": "1000+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "copa mundial de la fifa 2026 grupos",
+          "link": "https://www.google.com/search?q=copa%20mundial%20de%20la%20fifa%202026%20grupos",
+          "volumen": "500+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "roberto cox",
+          "link": "https://www.google.com/search?q=roberto%20cox",
+          "volumen": "200+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "coty generación 2000",
+          "link": "https://www.google.com/search?q=coty%20generaci%C3%B3n%202000",
+          "volumen": "1000+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "diésel",
+          "link": "https://www.google.com/search?q=di%C3%A9sel",
+          "volumen": "500+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "club de fútbol",
+          "link": "https://www.google.com/search?q=club%20de%20f%C3%BAtbol",
+          "volumen": "1000+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "deuda",
+          "link": "https://www.google.com/search?q=deuda",
+          "volumen": "500+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "korea vs",
+          "link": "https://www.google.com/search?q=korea%20vs",
+          "volumen": "1000+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "sphephelo sithole",
+          "link": "https://www.google.com/search?q=sphephelo%20sithole",
+          "volumen": "200+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Patriotismo y prioridades",
+          "link": "https://www.reddit.com/r/chile/comments/1u3bigh/patriotismo_y_prioridades/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Ni los influencers se salvan !!",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u2y7vi/ni_los_influencers_se_salvan/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Comunistas qls simplemente",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u3en43/comunistas_qls_simplemente/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Pelao vade = Camila Flores?",
+          "link": "https://www.reddit.com/r/chile/comments/1u355o9/pelao_vade_camila_flores/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Cambio de mentalidad sobre el sistema: Los últimos 15 años",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u3ay1z/cambio_de_mentalidad_sobre_el_sistema_los_últimos/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Meta is now asking if you’re really sure you want to turn off their AI “enhancements” 👀",
+          "link": "https://www.reddit.com/r/marketing/comments/1u34nis/meta_is_now_asking_if_youre_really_sure_you_want/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "using social media to market",
+          "link": "https://www.reddit.com/r/marketing/comments/1u3fpwd/using_social_media_to_market/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Performance Marketing Intern Here – Trying to Understand Meta Ads Beyond Just “Getting Leads”",
+          "link": "https://www.reddit.com/r/marketing/comments/1u23iei/performance_marketing_intern_here_trying_to/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is the deal with Dhar Mann?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u36rjv/what_is_the_deal_with_dhar_mann/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with people calling data centers \"surveillance facilities\"?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u31h24/whats_going_on_with_people_calling_data_centers/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with Fender telling people to destroy their guitars?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u2t0di/what_is_going_on_with_fender_telling_people_to/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with Dr. Who?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u2hedx/what_is_going_on_with_dr_who/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s up with the Karmelo Anthony trial?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u2gess/whats_up_with_the_karmelo_anthony_trial/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Nice try fed…",
+          "link": "https://www.reddit.com/r/memes/comments/1u350k3/nice_try_fed/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Because obviously they know more than doctors",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u2y62f/because_obviously_they_know_more_than_doctors/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Lemme just write this one down…",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u39aeo/lemme_just_write_this_one_down/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Make elevator great again",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u300ai/make_elevator_great_again/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Stop it already",
+          "link": "https://www.reddit.com/r/memes/comments/1u3a132/stop_it_already/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Elizabeth Hurley wearing the same dress 27 years apart",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u3b465/elizabeth_hurley_wearing_the_same_dress_27_years/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "It’s all the way down there now…",
+          "link": "https://www.reddit.com/r/Millennials/comments/1u392fx/its_all_the_way_down_there_now/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "It hurts",
+          "link": "https://www.reddit.com/r/GenZ/comments/1u3dnxi/it_hurts/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "I'm 37 and I already feel like I'm wasting my life away doing nothing important",
+          "link": "https://www.reddit.com/r/Millennials/comments/1u3adcs/im_37_and_i_already_feel_like_im_wasting_my_life/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Livia Guiggilio (Colin Firth's ex-wife) cancels Gwyneth Paltrow's scheduled visit to her family farm in Italy in response to the actress's appearance in an ad for an Israeli luxury development",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u35bl1/livia_guiggilio_colin_firths_exwife_cancels/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "generado": "2026-06-25T08:34:00-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "venezuela",
+          "link": "https://x.com/search?q=venezuela&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#felizjueves",
+          "link": "https://x.com/search?q=%23felizjueves&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "la guaira",
+          "link": "https://x.com/search?q=la%20guaira&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Caracas",
+          "link": "https://x.com/search?q=Caracas&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Neymar",
+          "link": "https://x.com/search?q=Neymar&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Escocia",
+          "link": "https://x.com/search?q=Escocia&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "San Bernardo",
+          "link": "https://x.com/search?q=San%20Bernardo&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#fiebredebailechv",
+          "link": "https://x.com/search?q=%23fiebredebailechv&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Vini",
+          "link": "https://x.com/search?q=Vini&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Haití",
+          "link": "https://x.com/search?q=Hait%C3%AD&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "STRAY KIDS RUN IT",
+          "link": "https://x.com/search?q=STRAY%20KIDS%20RUN%20IT&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "TODOS A PLACA",
+          "link": "https://x.com/search?q=TODOS%20A%20PLACA&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Castellón",
+          "link": "https://x.com/search?q=Castell%C3%B3n&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#Sismo",
+          "link": "https://x.com/search?q=%23Sismo&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Arrau",
+          "link": "https://x.com/search?q=Arrau&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#StrayKids_RUN_IT_OutNow",
+          "link": "https://x.com/search?q=%23StrayKids_RUN_IT_OutNow&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Calera",
+          "link": "https://x.com/search?q=Calera&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#VolveriasConTuEx2",
+          "link": "https://x.com/search?q=%23VolveriasConTuEx2&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Matthei",
+          "link": "https://x.com/search?q=Matthei&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Sudáfrica",
+          "link": "https://x.com/search?q=Sud%C3%A1frica&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "usgs",
+          "link": "https://www.google.com/search?q=usgs",
+          "volumen": "100+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "la cuarta",
+          "link": "https://www.google.com/search?q=la%20cuarta",
+          "volumen": "500+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "el mostrador",
+          "link": "https://www.google.com/search?q=el%20mostrador",
+          "volumen": "1000+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "radio bio bio",
+          "link": "https://www.google.com/search?q=radio%20bio%20bio",
+          "volumen": "200+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "luciano cruz-coke",
+          "link": "https://www.google.com/search?q=luciano%20cruz-coke",
+          "volumen": "500+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "corporación administrativa del poder judicial",
+          "link": "https://www.google.com/search?q=corporaci%C3%B3n%20administrativa%20del%20poder%20judicial",
+          "volumen": "200+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "tomás barrios",
+          "link": "https://www.google.com/search?q=tom%C3%A1s%20barrios",
+          "volumen": "1000+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "paulo díaz",
+          "link": "https://www.google.com/search?q=paulo%20d%C3%ADaz",
+          "volumen": "200+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "gta vi",
+          "link": "https://www.google.com/search?q=gta%20vi",
+          "volumen": "200+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "ps5",
+          "link": "https://www.google.com/search?q=ps5",
+          "volumen": "500+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Cagué en los baños del metro rodrigo de araya",
+          "link": "https://www.reddit.com/r/chile/comments/1uey4dn/cagué_en_los_baños_del_metro_rodrigo_de_araya/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Y el plan de seguridad? implacable no se llamaba?",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uf15p8/y_el_plan_de_seguridad_implacable_no_se_llamaba/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Se aprobó la reforma",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uevcxe/se_aprobó_la_reforma/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Desahogo sobre hombres chilenos (cuicos/zorrones)",
+          "link": "https://www.reddit.com/r/chile/comments/1ueyt3j/desahogo_sobre_hombres_chilenos_cuicoszorrones/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Empresario que iba a 264 km/h y quedó libre es primo de esposa del ministro de Seguridad, Martín Arrau",
+          "link": "https://www.reddit.com/r/chile/comments/1uermq4/empresario_que_iba_a_264_kmh_y_quedó_libre_es/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": true,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Mosst diabolical use of SIWOTI syndrome",
+          "link": "https://www.reddit.com/r/marketing/comments/1uetqe2/mosst_diabolical_use_of_siwoti_syndrome/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "When a startup fails with low traction, how do you gracefully close the loop?",
+          "link": "https://www.reddit.com/r/marketing/comments/1uec7xk/when_a_startup_fails_with_low_traction_how_do_you/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "SEO Conferences",
+          "link": "https://www.reddit.com/r/marketing/comments/1ue2qis/seo_conferences/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s up with GLP-1 drugs? It seems like it fixes A LOT of stuff?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uf1pem/whats_up_with_glp1_drugs_it_seems_like_it_fixes_a/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with fuel in India?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ueoi8f/whats_going_on_with_fuel_in_india/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with r/wsb and Wendy's? Is Wendy's the new GameStop? Why?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uegdij/whats_up_with_rwsb_and_wendys_is_wendys_the_new/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s going on with the cat subreddits?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ue3rra/whats_going_on_with_the_cat_subreddits/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is up with old people on FB and Sandra Bullock?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1udp7dq/what_is_up_with_old_people_on_fb_and_sandra/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "50th in education for a reason(removed annoying loud audio)",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uf89gb/50th_in_education_for_a_reasonremoved_annoying/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Americans now",
+          "link": "https://www.reddit.com/r/memes/comments/1uf836w/americans_now/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Cat distribution System.",
+          "link": "https://www.reddit.com/r/memes/comments/1uf9gqe/cat_distribution_system/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "This is not what we fought for",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uexwir/this_is_not_what_we_fought_for/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "i will never draw again",
+          "link": "https://www.reddit.com/r/memes/comments/1uf72t8/i_will_never_draw_again/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "I did this lol",
+          "link": "https://www.reddit.com/r/Millennials/comments/1uex7rr/i_did_this_lol/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Matt Damon has his wife, brother and Ben Affleck's contacts pinned on his phone: \"They're the people I talk to the most\"",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uetnk6/matt_damon_has_his_wife_brother_and_ben_afflecks/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "2026 is the exact opposite of what I thought it was going to be like as a kid.",
+          "link": "https://www.reddit.com/r/GenZ/comments/1uetun8/2026_is_the_exact_opposite_of_what_i_thought_it/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "How bad did i fuck up?",
+          "link": "https://www.reddit.com/r/GenZ/comments/1uezql7/how_bad_did_i_fuck_up/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Taylor Swift and Travis Kelce have reportedly filed a permit request to close streets around Madison Square Garden from July 2-4, according to TMZ. Several members of the Kansas City Chiefs have also booked hotels in the area for the same time period.",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uevhs8/taylor_swift_and_travis_kelce_have_reportedly/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

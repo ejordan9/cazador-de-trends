@@ -1,0 +1,576 @@
+{
+  "generado": "2026-06-17T08:34:00-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "Messi",
+          "link": "https://x.com/search?q=Messi&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Argelia",
+          "link": "https://x.com/search?q=Argelia&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Hans Marwitz",
+          "link": "https://x.com/search?q=Hans%20Marwitz&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#FelizMiércoles",
+          "link": "https://x.com/search?q=%23FelizMi%C3%A9rcoles&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Zidane",
+          "link": "https://x.com/search?q=Zidane&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Argentina",
+          "link": "https://x.com/search?q=Argentina&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Senegal",
+          "link": "https://x.com/search?q=Senegal&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#MundialDeFutbol2026",
+          "link": "https://x.com/search?q=%23MundialDeFutbol2026&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Mbappe",
+          "link": "https://x.com/search?q=Mbappe&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Jordânia",
+          "link": "https://x.com/search?q=Jord%C3%A2nia&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Klose",
+          "link": "https://x.com/search?q=Klose&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Baquedano",
+          "link": "https://x.com/search?q=Baquedano&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "tim payne",
+          "link": "https://x.com/search?q=tim%20payne&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Haitianos",
+          "link": "https://x.com/search?q=Haitianos&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Irak",
+          "link": "https://x.com/search?q=Irak&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Amarilla",
+          "link": "https://x.com/search?q=Amarilla&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#VecinosAlLimite",
+          "link": "https://x.com/search?q=%23VecinosAlLimite&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "STAY DE CHILE GRITA STRAY CITY",
+          "link": "https://x.com/search?q=STAY%20DE%20CHILE%20GRITA%20STRAY%20CITY&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#JYPChileReadyForSTRAYCITY",
+          "link": "https://x.com/search?q=%23JYPChileReadyForSTRAYCITY&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Shrek",
+          "link": "https://x.com/search?q=Shrek&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "elon musk",
+          "link": "https://www.google.com/search?q=elon%20musk",
+          "volumen": "100+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "ben shelton",
+          "link": "https://www.google.com/search?q=ben%20shelton",
+          "volumen": "100+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "deuda",
+          "link": "https://www.google.com/search?q=deuda",
+          "volumen": "100+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "netflix",
+          "link": "https://www.google.com/search?q=netflix",
+          "volumen": "500+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "minvu",
+          "link": "https://www.google.com/search?q=minvu",
+          "volumen": "200+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "restriccion vehicular hoy",
+          "link": "https://www.google.com/search?q=restriccion%20vehicular%20hoy",
+          "volumen": "500+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "hans marwitz",
+          "link": "https://www.google.com/search?q=hans%20marwitz",
+          "volumen": "2000+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "bernardo silva",
+          "link": "https://www.google.com/search?q=bernardo%20silva",
+          "volumen": "200+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "taylor fritz",
+          "link": "https://www.google.com/search?q=taylor%20fritz",
+          "volumen": "100+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "irací hassler",
+          "link": "https://www.google.com/search?q=irac%C3%AD%20hassler",
+          "volumen": "200+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "El héroe de los 40 lucas imaginarias. Mitomanía y psicopatía como requisito para ser de derecha.",
+          "link": "https://www.reddit.com/r/chile/comments/1u899mm/el_héroe_de_los_40_lucas_imaginarias_mitomanía_y/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "El Gran Hermano te vigila",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u7nq81/el_gran_hermano_te_vigila/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "¿CUAL ES SU CHELA FAVORITAAA?",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u7vqe5/cual_es_su_chela_favoritaaa/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Mi papá falleció y no sé cómo decirle a mis hermanos",
+          "link": "https://www.reddit.com/r/chile/comments/1u7xu40/mi_papá_falleció_y_no_sé_cómo_decirle_a_mis/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Proyecto de ley del oficialismo busca poner penas de cárcel para gente en situación de Calle",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u7sxc9/proyecto_de_ley_del_oficialismo_busca_poner_penas/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Capturing source information for offline sales",
+          "link": "https://www.reddit.com/r/marketing/comments/1u8a8m1/capturing_source_information_for_offline_sales/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Help me understand this ad...",
+          "link": "https://www.reddit.com/r/marketing/comments/1u8925a/help_me_understand_this_ad/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "The hook of your post is usually the second line, not the first",
+          "link": "https://www.reddit.com/r/marketing/comments/1u7j4j4/the_hook_of_your_post_is_usually_the_second_line/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with all this talk about Trump giving IRAN $300 Billion in reconstruction funds after spending over $70 Billion attacking them?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u7qzz3/whats_the_deal_with_all_this_talk_about_trump/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with the reflecting pool in DC?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u7laa5/whats_going_on_with_the_reflecting_pool_in_dc/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s going on with Starbucks Korea marketing campaign?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u7r2h0/whats_going_on_with_starbucks_korea_marketing/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s going on with heavy spaces between paragraphs on Reddit lately?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u70kkq/whats_going_on_with_heavy_spaces_between/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with the debate surrounding POTS?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u6d85c/what_is_going_on_with_the_debate_surrounding_pots/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "The first trillion is always the hardest.",
+          "link": "https://www.reddit.com/r/memes/comments/1u7x5eo/the_first_trillion_is_always_the_hardest/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Customer service 101",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u7zgd5/customer_service_101/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "US is eroding",
+          "link": "https://www.reddit.com/r/memes/comments/1u7rxnv/us_is_eroding/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "The Most Bipartisan Request in America",
+          "link": "https://www.reddit.com/r/memes/comments/1u88r07/the_most_bipartisan_request_in_america/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "My drip has changed quite a bit",
+          "link": "https://www.reddit.com/r/memes/comments/1u82f8j/my_drip_has_changed_quite_a_bit/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Late Influencer Stacey Hatfield, 30, Allegedly Refused Ambulance Twice While She Rapidly Lost Blood During Home Birth: Report",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u81jv9/late_influencer_stacey_hatfield_30_allegedly/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "One of my fav things to do.",
+          "link": "https://www.reddit.com/r/Millennials/comments/1u7nyy1/one_of_my_fav_things_to_do/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "What do y’all think of Shrek 5? Another trailer just came out.",
+          "link": "https://www.reddit.com/r/GenZ/comments/1u87kao/what_do_yall_think_of_shrek_5_another_trailer/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "All too common...",
+          "link": "https://www.reddit.com/r/Millennials/comments/1u7rgdd/all_too_common/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Elle Fanning celebrated her ‘Margo's Got Money Troubles’ onscreen daughters 1st birthday IRL",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u7sugu/elle_fanning_celebrated_her_margos_got_money/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

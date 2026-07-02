@@ -1,0 +1,576 @@
+{
+  "generado": "2026-06-12T08:32:00-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "#MundialDeFútbol",
+          "link": "https://x.com/search?q=%23MundialDeF%C3%BAtbol&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "México",
+          "link": "https://x.com/search?q=M%C3%A9xico&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#Mundial2026",
+          "link": "https://x.com/search?q=%23Mundial2026&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#VolveriasConTuEx2",
+          "link": "https://x.com/search?q=%23VolveriasConTuEx2&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#FIFAWorldCup",
+          "link": "https://x.com/search?q=%23FIFAWorldCup&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Shakira",
+          "link": "https://x.com/search?q=Shakira&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Olivia",
+          "link": "https://x.com/search?q=Olivia&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Boric",
+          "link": "https://x.com/search?q=Boric&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": true,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Corea",
+          "link": "https://x.com/search?q=Corea&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "República Checa",
+          "link": "https://x.com/search?q=Rep%C3%BAblica%20Checa&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#ShiningWith7Stars",
+          "link": "https://x.com/search?q=%23ShiningWith7Stars&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "nexz y qare x stray kids",
+          "link": "https://x.com/search?q=nexz%20y%20qare%20x%20stray%20kids&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Chequia",
+          "link": "https://x.com/search?q=Chequia&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "ZUNINO AL 9009",
+          "link": "https://x.com/search?q=ZUNINO%20AL%209009&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Busan",
+          "link": "https://x.com/search?q=Busan&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Sampaio",
+          "link": "https://x.com/search?q=Sampaio&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Paramount",
+          "link": "https://x.com/search?q=Paramount&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Azteca",
+          "link": "https://x.com/search?q=Azteca&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Danny Ocean",
+          "link": "https://x.com/search?q=Danny%20Ocean&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Maná",
+          "link": "https://x.com/search?q=Man%C3%A1&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "david hockney",
+          "link": "https://www.google.com/search?q=david%20hockney",
+          "volumen": "100+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "elena rybakina",
+          "link": "https://www.google.com/search?q=elena%20rybakina",
+          "volumen": "200+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "dia del padre 2026",
+          "link": "https://www.google.com/search?q=dia%20del%20padre%202026",
+          "volumen": "200+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "lluvia",
+          "link": "https://www.google.com/search?q=lluvia",
+          "volumen": "1000+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "korea fc",
+          "link": "https://www.google.com/search?q=korea%20fc",
+          "volumen": "100+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "ivette vergara",
+          "link": "https://www.google.com/search?q=ivette%20vergara",
+          "volumen": "1000+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "responsabilidad parental",
+          "link": "https://www.google.com/search?q=responsabilidad%20parental",
+          "volumen": "200+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "daniel valenzuela",
+          "link": "https://www.google.com/search?q=daniel%20valenzuela",
+          "volumen": "200+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "paraguay vs",
+          "link": "https://www.google.com/search?q=paraguay%20vs",
+          "volumen": "500+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "canada vs bosnia",
+          "link": "https://www.google.com/search?q=canada%20vs%20bosnia",
+          "volumen": "1000+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Pisco chileno producido en Tulahuén obtiene Doble Medalla de Oro en Estados Unidos: podría ser el mejor del mundo",
+          "link": "https://www.reddit.com/r/chile/comments/1u3sov5/pisco_chileno_producido_en_tulahuén_obtiene_doble/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Comunistas qls simplemente",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1u3en43/comunistas_qls_simplemente/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Tren de Aragua creó su propia plataforma de criptomonedas en Chile",
+          "link": "https://www.reddit.com/r/chile/comments/1u3the2/tren_de_aragua_creó_su_propia_plataforma_de/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Transbank ahora te pone publicidad y te graba mientras pagas en los POS. ¿Podemos prohibir estas práticas en Chile? (Les hice video) Jumbo Portal La Reina",
+          "link": "https://www.reddit.com/r/chile/comments/1u3fnk5/transbank_ahora_te_pone_publicidad_y_te_graba/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Patriotismo y prioridades",
+          "link": "https://www.reddit.com/r/chile/comments/1u3bigh/patriotismo_y_prioridades/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Consultation on a product",
+          "link": "https://www.reddit.com/r/marketing/comments/1u3rarh/consultation_on_a_product/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Meta is now asking if you’re really sure you want to turn off their AI “enhancements” 👀",
+          "link": "https://www.reddit.com/r/marketing/comments/1u34nis/meta_is_now_asking_if_youre_really_sure_you_want/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Shopping vs Search ads for shops with low profit margins?",
+          "link": "https://www.reddit.com/r/marketing/comments/1u3tubm/shopping_vs_search_ads_for_shops_with_low_profit/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is the deal with Dhar Mann?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u36rjv/what_is_the_deal_with_dhar_mann/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with people calling data centers \"surveillance facilities\"?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u31h24/whats_going_on_with_people_calling_data_centers/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with Fender telling people to destroy their guitars?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u2t0di/what_is_going_on_with_fender_telling_people_to/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with Dr. Who?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u2hedx/what_is_going_on_with_dr_who/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s up with the Karmelo Anthony trial?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u2gess/whats_up_with_the_karmelo_anthony_trial/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Humans and robot are more similar than they looked",
+          "link": "https://www.reddit.com/r/memes/comments/1u3q8kc/humans_and_robot_are_more_similar_than_they_looked/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Dad's just vibin to some hick-metal",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u3gkm8/dads_just_vibin_to_some_hickmetal/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Lady sings to random graduate at a restaurant.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u3u5ox/lady_sings_to_random_graduate_at_a_restaurant/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "i mean he is not wrong. T_T",
+          "link": "https://www.reddit.com/r/memes/comments/1u3s6nb/i_mean_he_is_not_wrong_t_t/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Five Minute Crafts :",
+          "link": "https://www.reddit.com/r/memes/comments/1u3pko9/five_minute_crafts/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "\"I do not want to talk to them anymore\" — Mark Ruffalo on cutting ties with celebrities who support the actions in Palestine.",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u3ipmf/i_do_not_want_to_talk_to_them_anymore_mark/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "It all started out great. Now, enshittification everywhere we look",
+          "link": "https://www.reddit.com/r/Millennials/comments/1u3g4f8/it_all_started_out_great_now_enshittification/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "It hurts",
+          "link": "https://www.reddit.com/r/GenZ/comments/1u3dnxi/it_hurts/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "is 2006 a 2000s kid? 🤔",
+          "link": "https://www.reddit.com/r/GenZ/comments/1u3ps9y/is_2006_a_2000s_kid/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Ariana Grande responds to the White House TikTok account using her song \"bye\" in a video: \"please do not ever use my music in relation to this barbaric, inhumane, heinous nonsense. fck ice.\"",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u3f7er/ariana_grande_responds_to_the_white_house_tiktok/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

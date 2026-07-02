@@ -1,0 +1,496 @@
+{
+  "generado": "2026-06-19T08:37:01-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "#วาดฝันวันวิวาห์EP1",
+          "link": "https://x.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP1&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "LINGORM ILF EP1",
+          "link": "https://x.com/search?q=LINGORM%20ILF%20EP1&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Haitianos",
+          "link": "https://x.com/search?q=Haitianos&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#ElJuicioDeLosEx",
+          "link": "https://x.com/search?q=%23ElJuicioDeLosEx&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": true,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Messi",
+          "link": "https://x.com/search?q=Messi&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#InLoveForeverTheSeries",
+          "link": "https://x.com/search?q=%23InLoveForeverTheSeries&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Marathon",
+          "link": "https://x.com/search?q=Marathon&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#VamosLaU",
+          "link": "https://x.com/search?q=%23VamosLaU&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "TITI AL 9009",
+          "link": "https://x.com/search?q=TITI%20AL%209009&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Garay",
+          "link": "https://x.com/search?q=Garay&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Thayer",
+          "link": "https://x.com/search?q=Thayer&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Bachelet",
+          "link": "https://x.com/search?q=Bachelet&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Canada",
+          "link": "https://x.com/search?q=Canada&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Croacia",
+          "link": "https://x.com/search?q=Croacia&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Tamayo",
+          "link": "https://x.com/search?q=Tamayo&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Adidas",
+          "link": "https://x.com/search?q=Adidas&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Piero Maza",
+          "link": "https://x.com/search?q=Piero%20Maza&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "STAY DE CHILE NO SE RINDE",
+          "link": "https://x.com/search?q=STAY%20DE%20CHILE%20NO%20SE%20RINDE&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Sename",
+          "link": "https://x.com/search?q=Sename&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#ENHYPEN_UNBREAKABLE_7",
+          "link": "https://x.com/search?q=%23ENHYPEN_UNBREAKABLE_7&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "aniversario pdi",
+          "link": "https://www.google.com/search?q=aniversario%20pdi",
+          "volumen": "100+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "partidos de mundial",
+          "link": "https://www.google.com/search?q=partidos%20de%20mundial",
+          "volumen": "1000+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "dia del padre chile",
+          "link": "https://www.google.com/search?q=dia%20del%20padre%20chile",
+          "volumen": "100+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "joaquín niemann",
+          "link": "https://www.google.com/search?q=joaqu%C3%ADn%20niemann",
+          "volumen": "100+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "dia del padre",
+          "link": "https://www.google.com/search?q=dia%20del%20padre",
+          "volumen": "1000+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "juego",
+          "link": "https://www.google.com/search?q=juego",
+          "volumen": "500+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "indemnización por años de servicio",
+          "link": "https://www.google.com/search?q=indemnizaci%C3%B3n%20por%20a%C3%B1os%20de%20servicio",
+          "volumen": "1000+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "ben shelton",
+          "link": "https://www.google.com/search?q=ben%20shelton",
+          "volumen": "200+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "copa mundial de fútbol",
+          "link": "https://www.google.com/search?q=copa%20mundial%20de%20f%C3%BAtbol",
+          "volumen": "500+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "cencosud",
+          "link": "https://www.google.com/search?q=cencosud",
+          "volumen": "200+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "grupos caídos: chile+RepublicaDeChile+FutbolChileno, Marketing",
+      "items": [
+        {
+          "fuente": "Reddit",
+          "tema": "⚠️ La fuente falló: Chile (chile+RepublicaDeChile+FutbolChileno): 429 Too Many Requests",
+          "link": "",
+          "volumen": null,
+          "orden": null,
+          "sensible": false,
+          "error": true,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "Reddit",
+          "tema": "⚠️ La fuente falló: Marketing (Marketing): 429 Too Many Requests",
+          "link": "",
+          "volumen": null,
+          "orden": null,
+          "sensible": false,
+          "error": true,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with Peter Thiel and Dialog?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u95gpf/what_is_going_on_with_peter_thiel_and_dialog/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with the many insta reels saying Indians have exposed China?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u8rm9t/what_is_going_on_with_the_many_insta_reels_saying/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with all this talk about Trump giving IRAN $300 Billion in reconstruction funds after spending over $70 Billion attacking them?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u7qzz3/whats_the_deal_with_all_this_talk_about_trump/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with the reflecting pool in DC?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u7laa5/whats_going_on_with_the_reflecting_pool_in_dc/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s going on with Starbucks Korea marketing campaign?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1u7r2h0/whats_going_on_with_starbucks_korea_marketing/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "There are other stores to shop at",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1u9z0ww/there_are_other_stores_to_shop_at/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Cats are awesome",
+          "link": "https://www.reddit.com/r/memes/comments/1u9u1eh/cats_are_awesome/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "You'll Wish You'd Seen Tomorrow.",
+          "link": "https://www.reddit.com/r/memes/comments/1u9u9ye/youll_wish_youd_seen_tomorrow/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "please just stop",
+          "link": "https://www.reddit.com/r/memes/comments/1u9xfbf/please_just_stop/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Struggle is real dawg😭",
+          "link": "https://www.reddit.com/r/memes/comments/1u9s5ju/struggle_is_real_dawg/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "Who lives in the sewers under the city streets? TMNT!",
+          "link": "https://www.reddit.com/r/Millennials/comments/1u9p959/who_lives_in_the_sewers_under_the_city_streets/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Iranian star Parastoo Ahmadi reportedly sentenced to 74 lashes for singing without hijab",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u9tg9n/iranian_star_parastoo_ahmadi_reportedly_sentenced/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "Did you ever know anyone to actually eat $28 daily lunches?",
+          "link": "https://www.reddit.com/r/GenZ/comments/1u9l6yz/did_you_ever_know_anyone_to_actually_eat_28_daily/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Rama Duwaji at New York City Hall during the Knicks’ Championship Parade",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u9gc07/rama_duwaji_at_new_york_city_hall_during_the/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Tom Holland spent his entire break from Spider-Man scrolling fan forums and social media — then walked into the writers' room with their answers. It's the first time he's shaped the story before writing began.",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1u9y2d8/tom_holland_spent_his_entire_break_from_spiderman/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

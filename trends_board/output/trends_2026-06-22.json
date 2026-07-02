@@ -1,0 +1,576 @@
+{
+  "generado": "2026-06-22T09:21:01-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "#HouseOfTheDragon",
+          "link": "https://x.com/search?q=%23HouseOfTheDragon&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Colombia",
+          "link": "https://x.com/search?q=Colombia&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Schalper",
+          "link": "https://x.com/search?q=Schalper&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Uruguay",
+          "link": "https://x.com/search?q=Uruguay&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Cabo Verde",
+          "link": "https://x.com/search?q=Cabo%20Verde&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Bielsa",
+          "link": "https://x.com/search?q=Bielsa&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#fiebredebailechv",
+          "link": "https://x.com/search?q=%23fiebredebailechv&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Petro",
+          "link": "https://x.com/search?q=Petro&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#HOTD",
+          "link": "https://x.com/search?q=%23HOTD&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Muslera",
+          "link": "https://x.com/search?q=Muslera&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Jace",
+          "link": "https://x.com/search?q=Jace&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#Ride_or_Die",
+          "link": "https://x.com/search?q=%23Ride_or_Die&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#FelizLunes",
+          "link": "https://x.com/search?q=%23FelizLunes&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Abelardo de la Espriella",
+          "link": "https://x.com/search?q=Abelardo%20de%20la%20Espriella&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Ecuador",
+          "link": "https://x.com/search?q=Ecuador&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Bélgica",
+          "link": "https://x.com/search?q=B%C3%A9lgica&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Lukaku",
+          "link": "https://x.com/search?q=Lukaku&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Cobarde",
+          "link": "https://x.com/search?q=Cobarde&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Astorga",
+          "link": "https://x.com/search?q=Astorga&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Iran",
+          "link": "https://x.com/search?q=Iran&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "jesica cirio",
+          "link": "https://www.google.com/search?q=jesica%20cirio",
+          "volumen": "200+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "wimbledon",
+          "link": "https://www.google.com/search?q=wimbledon",
+          "volumen": "200+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "feriados",
+          "link": "https://www.google.com/search?q=feriados",
+          "volumen": "500+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "sammis reyes",
+          "link": "https://www.google.com/search?q=sammis%20reyes",
+          "volumen": "200+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "frío",
+          "link": "https://www.google.com/search?q=fr%C3%ADo",
+          "volumen": "200+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "diario financiero",
+          "link": "https://www.google.com/search?q=diario%20financiero",
+          "volumen": "1000+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "21 de junio",
+          "link": "https://www.google.com/search?q=21%20de%20junio",
+          "volumen": "2000+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "mundo",
+          "link": "https://www.google.com/search?q=mundo",
+          "volumen": "100+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "fran maira",
+          "link": "https://www.google.com/search?q=fran%20maira",
+          "volumen": "200+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "noruega vs senegal",
+          "link": "https://www.google.com/search?q=noruega%20vs%20senegal",
+          "volumen": "100+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Denuncian agresión contra niña de 10 años en colegio deTemuco tras asistir con máscara de gato - Araucanía Noticias Temuco",
+          "link": "https://www.reddit.com/r/chile/comments/1ucj066/denuncian_agresión_contra_niña_de_10_años_en/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Logro desbloqueado? 🤣",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ubzrpc/logro_desbloqueado/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Chilean singer-songwriter Víctor Jara performing in Helsinki during an anti-Vietnam War protest. Jara was a leading figure of the Nueva Canción (New Song) movement - a politically engaged Latin American folk music tradition. (1969)",
+          "link": "https://www.reddit.com/r/chile/comments/1uccu2b/chilean_singersongwriter_víctor_jara_performing/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "¿Por qué este modelo cuadrado de departamento se convirió en el defecto?",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ubvxn2/por_qué_este_modelo_cuadrado_de_departamento_se/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Trabajar con extranjeros en la misma empresa",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ucb6l9/trabajar_con_extranjeros_en_la_misma_empresa/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Is overtime in marketing department a general thing",
+          "link": "https://www.reddit.com/r/marketing/comments/1ubyx0w/is_overtime_in_marketing_department_a_general/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "How to fix a massive Monday slump?",
+          "link": "https://www.reddit.com/r/marketing/comments/1ube8ex/how_to_fix_a_massive_monday_slump/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Outsourcing creative to off shore in the race to the bottom for content",
+          "link": "https://www.reddit.com/r/marketing/comments/1uc1ep2/outsourcing_creative_to_off_shore_in_the_race_to/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with Tobuscus making an anti-immigrant song on YouTube?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ucfy0e/whats_the_deal_with_tobuscus_making_an/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "Whats going on with the US men's hockey team requesting trades?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uch46x/whats_going_on_with_the_us_mens_hockey_team/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with the brits? Why's their PM planning to resign?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ubs13i/whats_going_on_with_the_brits_whys_their_pm/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with older YouTube music videos haves the \"Vevo\" watermark?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ubntw6/whats_the_deal_with_older_youtube_music_videos/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with the sudden increase of 'Chinese Caste System' spam?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uclocd/whats_up_with_the_sudden_increase_of_chinese/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop"
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "She thought all 40 cameras were for her",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uck5kr/she_thought_all_40_cameras_were_for_her/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "From Harvard graduate to the Unabomber",
+          "link": "https://www.reddit.com/r/memes/comments/1ucau7g/from_harvard_graduate_to_the_unabomber/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Feel the music.",
+          "link": "https://www.reddit.com/r/memes/comments/1ucfjn9/feel_the_music/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Amazon seriously?",
+          "link": "https://www.reddit.com/r/memes/comments/1ucdbog/amazon_seriously/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Guys I think the UK is genuinely cursed 💀",
+          "link": "https://www.reddit.com/r/memes/comments/1ucison/guys_i_think_the_uk_is_genuinely_cursed/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral"
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "T-Pain was mistakenly tagged four times by DoorDash tweeting about New Zealand footballer Tim Payne during the NZ vs Egypt World Cup match.",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1ucejzn/tpain_was_mistakenly_tagged_four_times_by/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "My dad would make me sit with him on the porch for an hour everynight during the summer",
+          "link": "https://www.reddit.com/r/Millennials/comments/1uc7q4b/my_dad_would_make_me_sit_with_him_on_the_porch/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "Yea man were cooked…",
+          "link": "https://www.reddit.com/r/GenZ/comments/1uc4ol9/yea_man_were_cooked/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "This is arguably way worse of any statements he's made",
+          "link": "https://www.reddit.com/r/GenZ/comments/1uc57wo/this_is_arguably_way_worse_of_any_statements_hes/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "It’s a rainy day at school and the teacher says we’re going to the computer lab",
+          "link": "https://www.reddit.com/r/Millennials/comments/1uc17s9/its_a_rainy_day_at_school_and_the_teacher_says/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones"
+        }
+      ]
+    }
+  ]
+}

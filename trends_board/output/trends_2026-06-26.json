@@ -1,0 +1,631 @@
+{
+  "generado": "2026-06-26T10:25:20-05:00",
+  "fuentes": [
+    {
+      "fuente": "X Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "X Chile",
+          "tema": "venezuela",
+          "link": "https://x.com/search?q=venezuela&src=trend_click",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#AutopistaMundial",
+          "link": "https://x.com/search?q=%23AutopistaMundial&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "presidente",
+          "link": "https://x.com/search?q=presidente&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "la guaira",
+          "link": "https://x.com/search?q=la%20guaira&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Ecuador",
+          "link": "https://x.com/search?q=Ecuador&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#contigochv",
+          "link": "https://x.com/search?q=%23contigochv&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#VamosColoColo",
+          "link": "https://x.com/search?q=%23VamosColoColo&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#ORMxLolaneBrightandShine",
+          "link": "https://x.com/search?q=%23ORMxLolaneBrightandShine&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "LOLANE X ORM NEW PRESENTER",
+          "link": "https://x.com/search?q=LOLANE%20X%20ORM%20NEW%20PRESENTER&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Alemania",
+          "link": "https://x.com/search?q=Alemania&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Australia",
+          "link": "https://x.com/search?q=Australia&src=trend_click",
+          "volumen": null,
+          "orden": 11,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Villarrica",
+          "link": "https://x.com/search?q=Villarrica&src=trend_click",
+          "volumen": null,
+          "orden": 12,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Demagogo",
+          "link": "https://x.com/search?q=Demagogo&src=trend_click",
+          "volumen": null,
+          "orden": 13,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Neuer",
+          "link": "https://x.com/search?q=Neuer&src=trend_click",
+          "volumen": null,
+          "orden": 14,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Raipan",
+          "link": "https://x.com/search?q=Raipan&src=trend_click",
+          "volumen": null,
+          "orden": 15,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#andres",
+          "link": "https://x.com/search?q=%23andres&src=trend_click",
+          "volumen": null,
+          "orden": 16,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Sosa",
+          "link": "https://x.com/search?q=Sosa&src=trend_click",
+          "volumen": null,
+          "orden": 17,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Valverde",
+          "link": "https://x.com/search?q=Valverde&src=trend_click",
+          "volumen": null,
+          "orden": 18,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Maureira",
+          "link": "https://x.com/search?q=Maureira&src=trend_click",
+          "volumen": null,
+          "orden": 19,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Caracas",
+          "link": "https://x.com/search?q=Caracas&src=trend_click",
+          "volumen": null,
+          "orden": 20,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "fuente": "Google Trends Chile",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "terremoto en venezuela 2026",
+          "link": "https://www.google.com/search?q=terremoto%20en%20venezuela%202026",
+          "volumen": "1000+",
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "uruguay vs españa",
+          "link": "https://www.google.com/search?q=uruguay%20vs%20espa%C3%B1a",
+          "volumen": "1000+",
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "brasil vs japon",
+          "link": "https://www.google.com/search?q=brasil%20vs%20japon",
+          "volumen": "200+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "wimbledon",
+          "link": "https://www.google.com/search?q=wimbledon",
+          "volumen": "100+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "jaime campos",
+          "link": "https://www.google.com/search?q=jaime%20campos",
+          "volumen": "200+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "petróleo",
+          "link": "https://www.google.com/search?q=petr%C3%B3leo",
+          "volumen": "2000+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "paulo díaz",
+          "link": "https://www.google.com/search?q=paulo%20d%C3%ADaz",
+          "volumen": "500+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "apple",
+          "link": "https://www.google.com/search?q=apple",
+          "volumen": "100+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "eeuu",
+          "link": "https://www.google.com/search?q=eeuu",
+          "volumen": "500+",
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "grupo de paraguay en el mundial 2026",
+          "link": "https://www.google.com/search?q=grupo%20de%20paraguay%20en%20el%20mundial%202026",
+          "volumen": "200+",
+          "orden": 10,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "fuente": "Reddit",
+      "ok": true,
+      "detalle": "",
+      "items": [
+        {
+          "fuente": "r/chile",
+          "tema": "Me avergüenza y me da un poco de pena la manera en la que nos comportamos los chilenos por RRSS cada vez que hay un terremoto en otro país.",
+          "link": "https://www.reddit.com/r/chile/comments/1ug5863/me_avergüenza_y_me_da_un_poco_de_pena_la_manera/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Así de desquiciado es el presidemte de la Republica",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uft6bx/así_de_desquiciado_es_el_presidemte_de_la/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "Cómo nadie la interrumpe y le refuta las estupideces que dice?",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ug7iov/cómo_nadie_la_interrumpe_y_le_refuta_las/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/RepublicadeChile",
+          "tema": "\"No es como el aire, que es infinito\": Ministro Campos dice que agricultores deberán pagar por el agua",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ug7epm/no_es_como_el_aire_que_es_infinito_ministro/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": true,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/chile",
+          "tema": "Rate my setup",
+          "link": "https://www.reddit.com/r/chile/comments/1ufxjmv/rate_my_setup/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Chile",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "New Job Listings",
+          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "AppsFlyer use hundreds of Reddit accounts to leave fake positive reviews of their service",
+          "link": "https://www.reddit.com/r/marketing/comments/1s1lelq/appsflyer_use_hundreds_of_reddit_accounts_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "How to improve my lead score",
+          "link": "https://www.reddit.com/r/marketing/comments/1ufn03n/how_to_improve_my_lead_score/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "How to guarantee mutual benefit from partner webinar?",
+          "link": "https://www.reddit.com/r/marketing/comments/1ufei64/how_to_guarantee_mutual_benefit_from_partner/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "Mosst diabolical use of SIWOTI syndrome",
+          "link": "https://www.reddit.com/r/marketing/comments/1uetqe2/mosst_diabolical_use_of_siwoti_syndrome/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's the deal with the Praireland Nine getting sentenced to decades in jail for protesting ICE?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ug7nxz/whats_the_deal_with_the_praireland_nine_getting/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s going on with the Xbox/ console pricing increase controversy?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ug0vxc/whats_going_on_with_the_xbox_console_pricing/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with trump administration members and shoes?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ufg9i9/what_is_going_on_with_trump_administration/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with Youtuber Angry Joe and Nerdrotic?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ufuj7u/whats_going_on_with_youtuber_angry_joe_and/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What’s the deal with Caitlin Clark being fouled all the time?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ufd8ee/whats_the_deal_with_caitlin_clark_being_fouled/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Worst she can say is no",
+          "link": "https://www.reddit.com/r/memes/comments/1ug1s0c/worst_she_can_say_is_no/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "POV: a customer is extremely confused",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1ug4shw/pov_a_customer_is_extremely_confused/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Training for her next vacation",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1ufteko/training_for_her_next_vacation/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Probably not but I could hope",
+          "link": "https://www.reddit.com/r/memes/comments/1ug8nsf/probably_not_but_i_could_hope/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/TikTokCringe",
+          "tema": "Worker breaks down after realising he is working his life away(Version with no music)",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1ufppad/worker_breaks_down_after_realising_he_is_working/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
+          "imagen": null
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "Daniel Radcliffe to Stranger Things kids: “Do whatever the fuck you want. You have done the thing.”",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1ug3x0j/daniel_radcliffe_to_stranger_things_kids_do/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "Remember when every single sandwich in the 90s and 2000s came with a literal bird’s nest of alfalfa sprouts?",
+          "link": "https://www.reddit.com/r/Millennials/comments/1ug8veb/remember_when_every_single_sandwich_in_the_90s/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "Dem Establishment should be utterly embarrassed",
+          "link": "https://www.reddit.com/r/GenZ/comments/1ufrfsm/dem_establishment_should_be_utterly_embarrassed/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "back in my day",
+          "link": "https://www.reddit.com/r/Millennials/comments/1ufixcx/back_in_my_day/",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/Millennials",
+          "tema": "Imagine using “it’s a school night,” as your reason for not going to the bar with your friends.",
+          "link": "https://www.reddit.com/r/Millennials/comments/1ufuhed/imagine_using_its_a_school_night_as_your_reason/",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        }
+      ]
+    }
+  ]
+}
