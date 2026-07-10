@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-07-09",
-  "generado": "2026-07-09T15:44:20+00:00",
+  "fecha": "2026-07-10",
+  "generado": "2026-07-10T15:15:22+00:00",
   "fuentes": [
     {
       "fuente": "X Chile",
@@ -9,8 +9,8 @@
       "items": [
         {
           "fuente": "X Chile",
-          "tema": "Egipto",
-          "link": "https://x.com/search?q=Egipto&src=trend_click",
+          "tema": "MANU AL 9009",
+          "link": "https://x.com/search?q=MANU%20AL%209009&src=trend_click",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -20,10 +20,65 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Bonnie Tyler",
-          "link": "https://x.com/search?q=Bonnie%20Tyler&src=trend_click",
+          "tema": "#วาดฝันวันวิวาห์EP4",
+          "link": "https://x.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP4&src=trend_click",
           "volumen": null,
           "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "LINGORM ILF EP4",
+          "link": "https://x.com/search?q=LINGORM%20ILF%20EP4&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Marruecos",
+          "link": "https://x.com/search?q=Marruecos&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#CHILETWT",
+          "link": "https://x.com/search?q=%23CHILETWT&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#ModoEmpleo",
+          "link": "https://x.com/search?q=%23ModoEmpleo&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Luana",
+          "link": "https://x.com/search?q=Luana&src=trend_click",
+          "volumen": null,
+          "orden": 7,
           "sensible": false,
           "error": false,
           "grupo": null,
@@ -34,61 +89,6 @@
           "tema": "Argentina",
           "link": "https://x.com/search?q=Argentina&src=trend_click",
           "volumen": null,
-          "orden": 3,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "X Chile",
-          "tema": "MANU AL 9009",
-          "link": "https://x.com/search?q=MANU%20AL%209009&src=trend_click",
-          "volumen": null,
-          "orden": 4,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "X Chile",
-          "tema": "#VolveriasConTuEx2",
-          "link": "https://x.com/search?q=%23VolveriasConTuEx2&src=trend_click",
-          "volumen": null,
-          "orden": 5,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "X Chile",
-          "tema": "#DíaDeLaBandera",
-          "link": "https://x.com/search?q=%23D%C3%ADaDeLaBandera&src=trend_click",
-          "volumen": null,
-          "orden": 6,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "X Chile",
-          "tema": "Karen Rojo",
-          "link": "https://x.com/search?q=Karen%20Rojo&src=trend_click",
-          "volumen": null,
-          "orden": 7,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "X Chile",
-          "tema": "Países Bajos",
-          "link": "https://x.com/search?q=Pa%C3%ADses%20Bajos&src=trend_click",
-          "volumen": null,
           "orden": 8,
           "sensible": false,
           "error": false,
@@ -97,8 +97,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "El PPD",
-          "link": "https://x.com/search?q=El%20PPD&src=trend_click",
+          "tema": "Bonnie Tyler",
+          "link": "https://x.com/search?q=Bonnie%20Tyler&src=trend_click",
           "volumen": null,
           "orden": 9,
           "sensible": false,
@@ -108,8 +108,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Cicardini",
-          "link": "https://x.com/search?q=Cicardini&src=trend_click",
+          "tema": "#DíaDeLaBandera",
+          "link": "https://x.com/search?q=%23D%C3%ADaDeLaBandera&src=trend_click",
           "volumen": null,
           "orden": 10,
           "sensible": false,
@@ -126,8 +126,8 @@
       "items": [
         {
           "fuente": "Google Trends Chile",
-          "tema": "karen rojo",
-          "link": "https://www.google.com/search?q=karen%20rojo",
+          "tema": "sinner vs djokovic",
+          "link": "https://www.google.com/search?q=sinner%20vs%20djokovic",
           "volumen": "200+",
           "orden": 1,
           "sensible": false,
@@ -137,9 +137,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "política fiscal",
-          "link": "https://www.google.com/search?q=pol%C3%ADtica%20fiscal",
-          "volumen": "200+",
+          "tema": "tienda",
+          "link": "https://www.google.com/search?q=tienda",
+          "volumen": "500+",
           "orden": 2,
           "sensible": false,
           "error": false,
@@ -148,9 +148,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "erling haaland",
-          "link": "https://www.google.com/search?q=erling%20haaland",
-          "volumen": "5000+",
+          "tema": "sky airline",
+          "link": "https://www.google.com/search?q=sky%20airline",
+          "volumen": "1000+",
           "orden": 3,
           "sensible": false,
           "error": false,
@@ -159,9 +159,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "policía",
-          "link": "https://www.google.com/search?q=polic%C3%ADa",
-          "volumen": "2000+",
+          "tema": "juegos",
+          "link": "https://www.google.com/search?q=juegos",
+          "volumen": "200+",
           "orden": 4,
           "sensible": false,
           "error": false,
@@ -170,9 +170,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "coco gauff",
-          "link": "https://www.google.com/search?q=coco%20gauff",
-          "volumen": "500+",
+          "tema": "alexander zverev",
+          "link": "https://www.google.com/search?q=alexander%20zverev",
+          "volumen": "2000+",
           "orden": 5,
           "sensible": false,
           "error": false,
@@ -181,32 +181,10 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "quien juega hoy por el mundial 2026",
-          "link": "https://www.google.com/search?q=quien%20juega%20hoy%20por%20el%20mundial%202026",
-          "volumen": "200+",
+          "tema": "zverev",
+          "link": "https://www.google.com/search?q=zverev",
+          "volumen": "1000+",
           "orden": 6,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "Google Trends Chile",
-          "tema": "snake",
-          "link": "https://www.google.com/search?q=snake",
-          "volumen": "500+",
-          "orden": 7,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "Google Trends Chile",
-          "tema": "pierluigi collina",
-          "link": "https://www.google.com/search?q=pierluigi%20collina",
-          "volumen": "200+",
-          "orden": 8,
           "sensible": false,
           "error": false,
           "grupo": null,
@@ -217,6 +195,28 @@
           "tema": "dia",
           "link": "https://www.google.com/search?q=dia",
           "volumen": "2000+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "red",
+          "link": "https://www.google.com/search?q=red",
+          "volumen": "200+",
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "pronostico del tiempo",
+          "link": "https://www.google.com/search?q=pronostico%20del%20tiempo",
+          "volumen": "100+",
           "orden": 9,
           "sensible": false,
           "error": false,
@@ -225,9 +225,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "clima hoy",
-          "link": "https://www.google.com/search?q=clima%20hoy",
-          "volumen": "200+",
+          "tema": "clima",
+          "link": "https://www.google.com/search?q=clima",
+          "volumen": "50000+",
           "orden": 10,
           "sensible": false,
           "error": false,
@@ -243,8 +243,8 @@
       "items": [
         {
           "fuente": "r/chile",
-          "tema": "Con la tasa de desempleo más alta en 5 años: gobierno de Kast recortó más de $123 mil millones al Sence",
-          "link": "https://www.reddit.com/r/chile/comments/1urrt1f/con_la_tasa_de_desempleo_más_alta_en_5_años/",
+          "tema": "Kastasilandia: el polémico parque de diversiones de la familia Kast construido por obreros haitianos.",
+          "link": "https://www.reddit.com/r/chile/comments/1usl5se/kastasilandia_el_polémico_parque_de_diversiones/",
           "volumen": null,
           "orden": 1,
           "sensible": true,
@@ -254,8 +254,8 @@
         },
         {
           "fuente": "r/RepublicadeChile",
-          "tema": "Weas raras que nos suceden",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1urt0wt/weas_raras_que_nos_suceden/",
+          "tema": "Gato Chileno CTM",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1usmykg/gato_chileno_ctm/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -264,9 +264,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/RepublicadeChile",
-          "tema": "El gordo regaloneando 🧡🐱",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1urieol/el_gordo_regaloneando/",
+          "fuente": "r/chile",
+          "tema": "El 61% evalúa con nota roja a Quiroz y la mayoría cree que la economía no repuntará con él en Hacienda",
+          "link": "https://www.reddit.com/r/chile/comments/1uspgyv/el_61_evalúa_con_nota_roja_a_quiroz_y_la_mayoría/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -275,9 +275,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/RepublicadeChile",
-          "tema": "Mosciatti sobre el precio de las bencinas",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ur3y3p/mosciatti_sobre_el_precio_de_las_bencinas/",
+          "fuente": "r/chile",
+          "tema": "Posible nueva modalidad de estafa con compartir pantalla por WhatsApp",
+          "link": "https://www.reddit.com/r/chile/comments/1usmr0e/posible_nueva_modalidad_de_estafa_con_compartir/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -286,9 +286,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/RepublicadeChile",
-          "tema": "Q c pudra Los Rios, les pasa x el caucau jajaj",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uravm7/q_c_pudra_los_rios_les_pasa_x_el_caucau_jajaj/",
+          "fuente": "r/chile",
+          "tema": "Siento que esto pasó muy piola pese a la magnitud del cagazo.",
+          "link": "https://www.reddit.com/r/chile/comments/1uspbph/siento_que_esto_pasó_muy_piola_pese_a_la_magnitud/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -299,7 +299,7 @@
         {
           "fuente": "r/marketing",
           "tema": "New Job Listings",
-          "link": "https://www.reddit.com/r/marketing/comments/1u1en85/new_job_listings/",
+          "link": "https://www.reddit.com/r/marketing/comments/1urzwqq/new_job_listings/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -320,8 +320,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "Those who pivoted away from Marketing, what do you do now?",
-          "link": "https://www.reddit.com/r/marketing/comments/1urqtn9/those_who_pivoted_away_from_marketing_what_do_you/",
+          "tema": "Working in marketing is depressing. Any way to cope with this?",
+          "link": "https://www.reddit.com/r/marketing/comments/1usn3ec/working_in_marketing_is_depressing_any_way_to/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -331,8 +331,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "How do you communicate with a CEO when they only hear what they want to hear?",
-          "link": "https://www.reddit.com/r/marketing/comments/1urhh64/how_do_you_communicate_with_a_ceo_when_they_only/",
+          "tema": "EU AI Act kicks in August 2026, here’s what it means if you’re running AI content for clients",
+          "link": "https://www.reddit.com/r/marketing/comments/1usktow/eu_ai_act_kicks_in_august_2026_heres_what_it/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -342,8 +342,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "U.S. jobs with summers off?",
-          "link": "https://www.reddit.com/r/marketing/comments/1uretvu/us_jobs_with_summers_off/",
+          "tema": "Those who pivoted away from Marketing, what do you do now?",
+          "link": "https://www.reddit.com/r/marketing/comments/1urqtn9/those_who_pivoted_away_from_marketing_what_do_you/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -353,8 +353,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What is going on with Paraguay with all the racist bashing that started against the French Football Team ?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1urncgh/what_is_going_on_with_paraguay_with_all_the/",
+          "tema": "Whats going on with the girl pointing in WNBA?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1us6wa3/whats_going_on_with_the_girl_pointing_in_wnba/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -364,8 +364,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What’s going on with people commenting “Free Ben & Jerry’s”?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1urfb14/whats_going_on_with_people_commenting_free_ben/",
+          "tema": "What's the deal with r/SipsTea?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1use762/whats_the_deal_with_rsipstea/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -375,8 +375,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What's going on with Flock Surveillance Cameras, and why are people making such a big deal about them?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uquzgc/whats_going_on_with_flock_surveillance_cameras/",
+          "tema": "What's going on with Bethesda and loads of people getting laid off?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ushric/whats_going_on_with_bethesda_and_loads_of_people/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -386,8 +386,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What's going on with the \"National Design Studio\" and what is their connection to DOGE?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1urt3hj/whats_going_on_with_the_national_design_studio/",
+          "tema": "What is going on with Asmon, Mizkif, and Emiru?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1us2ygb/what_is_going_on_with_asmon_mizkif_and_emiru/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -397,8 +397,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "Why are people talking about Nigel Farage? There are a whirlwind of headlines and I missed what kicked this off.",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uqlx12/why_are_people_talking_about_nigel_farage_there/",
+          "tema": "What is going on with the new Air Force One?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1urxw75/what_is_going_on_with_the_new_air_force_one/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -408,8 +408,8 @@
         },
         {
           "fuente": "r/TikTokCringe",
-          "tema": "Marsha Blackburn's latest campaign ad feels like it's straight from an episode of 'The Boys'",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1urp8y4/marsha_blackburns_latest_campaign_ad_feels_like/",
+          "tema": "Sarcastic senior citizen",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1usmixs/sarcastic_senior_citizen/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -419,8 +419,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "The dream of every man on earth",
-          "link": "https://www.reddit.com/r/memes/comments/1urk6jh/the_dream_of_every_man_on_earth/",
+          "tema": "I hate this",
+          "link": "https://www.reddit.com/r/memes/comments/1uskjoe/i_hate_this/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -430,8 +430,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "Only girls can relate",
-          "link": "https://www.reddit.com/r/memes/comments/1urkuvf/only_girls_can_relate/",
+          "tema": "Startled by shrub like size.",
+          "link": "https://www.reddit.com/r/memes/comments/1usg3jj/startled_by_shrub_like_size/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -440,9 +440,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/memes",
-          "tema": "How it feels switching to an easier difficulty on a game you've spent years mastering",
-          "link": "https://www.reddit.com/r/memes/comments/1urouf7/how_it_feels_switching_to_an_easier_difficulty_on/",
+          "fuente": "r/TikTokCringe",
+          "tema": "Harassing her for a year, ignoring every polite \"no,\" and then claiming she has a personality problem when she finally snaps.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1usldbz/harassing_her_for_a_year_ignoring_every_polite_no/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -452,8 +452,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "Either I find another neurospicy individual to share my life with or I'll assume I'll die alone",
-          "link": "https://www.reddit.com/r/memes/comments/1urmst2/either_i_find_another_neurospicy_individual_to/",
+          "tema": "Option A is also good, but I chose B",
+          "link": "https://www.reddit.com/r/memes/comments/1usjkme/option_a_is_also_good_but_i_chose_b/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -463,8 +463,8 @@
         },
         {
           "fuente": "r/popculturechat",
-          "tema": "North West’s hand piercings put her at risk for scarring and disfigurement, doctor warns",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1url69q/north_wests_hand_piercings_put_her_at_risk_for/",
+          "tema": "Kathy Griffin dating 22-year-old",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1usngjq/kathy_griffin_dating_22yearold/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -474,8 +474,8 @@
         },
         {
           "fuente": "r/Millennials",
-          "tema": "This is true",
-          "link": "https://www.reddit.com/r/Millennials/comments/1urah2b/this_is_true/",
+          "tema": "I miss Philosoraptor",
+          "link": "https://www.reddit.com/r/Millennials/comments/1usd8bv/i_miss_philosoraptor/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -485,8 +485,8 @@
         },
         {
           "fuente": "r/GenZ",
-          "tema": "Bullying works",
-          "link": "https://www.reddit.com/r/GenZ/comments/1urrp2m/bullying_works/",
+          "tema": "What are some movies that traumatized you and made you go 🤢 🤮 after watching it?",
+          "link": "https://www.reddit.com/r/GenZ/comments/1usleu8/what_are_some_movies_that_traumatized_you_and/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -495,9 +495,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/Millennials",
-          "tema": "Kids today will never understand how much time we took to perfect Free Bird.",
-          "link": "https://www.reddit.com/r/Millennials/comments/1urprie/kids_today_will_never_understand_how_much_time_we/",
+          "fuente": "r/GenZ",
+          "tema": "Tough situation",
+          "link": "https://www.reddit.com/r/GenZ/comments/1use96j/tough_situation/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -506,9 +506,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/popculturechat",
-          "tema": "Happy 70th birthday to Tom Hanks! One of the five actors that have won Oscars back-to-back (‘Philadelphia’ and ‘Forrest Gump’), here’s his wife Rita Wilson wishing him a happy birthday",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1urp6rg/happy_70th_birthday_to_tom_hanks_one_of_the_five/",
+          "fuente": "r/Millennials",
+          "tema": "Me when I do math homework with my dad and I’m crying and it’s 8pm on Wednesday night in 1999",
+          "link": "https://www.reddit.com/r/Millennials/comments/1us87vq/me_when_i_do_math_homework_with_my_dad_and_im/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -527,7 +527,7 @@
       {
         "fuente": "Think with Google",
         "tema": "Inside the anatomy of a cultural moment on YouTube",
-        "link": "https://www.thinkwithgoogle.com/marketing-strategies/video/youtube-analysis-cultural-moments-roi/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "link": "https://business.google.com/us/think/search-and-video/youtube-analysis-cultural-moments-roi/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
         "volumen": null,
         "orden": 1,
         "sensible": false,
@@ -538,7 +538,7 @@
       {
         "fuente": "Think with Google",
         "tema": "How visionary agencies and brands use AI to bring impossible ideas to life",
-        "link": "https://www.thinkwithgoogle.com/marketing-strategies/automation/ai-in-marketing-impossible-ideas/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "link": "https://business.google.com/us/think/ai-excellence/ai-in-marketing-impossible-ideas/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
         "volumen": null,
         "orden": 2,
         "sensible": false,
@@ -548,25 +548,25 @@
       },
       {
         "fuente": "Think with Google",
-        "tema": "How Airalo transformed its iOS growth strategy with privacy-centric measurement",
-        "link": "https://www.thinkwithgoogle.com/marketing-strategies/data-and-measurement/airalo-privacy-first-measurement/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "tema": "Google DeepMind CEO on AI and the future of creativity",
+        "link": "https://business.google.com/us/think/ai-excellence/future-of-ai-creativity-demis-hassabis/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
         "volumen": null,
         "orden": 3,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://storage.googleapis.com/twg-content/images/1600_x_900_-_Airalo_1.width-600.png"
+        "imagen": "https://storage.googleapis.com/twg-content/images/TwG-US-2835---Demis-Palais-Keynote---Thumbnail.width-600.png"
       },
       {
         "fuente": "Think with Google",
-        "tema": "Google DeepMind CEO on AI and the future of creativity",
-        "link": "https://www.thinkwithgoogle.com/marketing-strategies/automation/future-of-ai-creativity-demis-hassabis/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "tema": "How Airalo transformed its iOS growth strategy with privacy-centric measurement",
+        "link": "https://business.google.com/us/think/measurement/airalo-privacy-first-measurement/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
         "volumen": null,
         "orden": 4,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://storage.googleapis.com/twg-content/images/TwG-US-2835---Demis-Palais-Keynote---Thumbnail.width-600.png"
+        "imagen": "https://storage.googleapis.com/twg-content/images/1600_x_900_-_Airalo_1.width-600.png"
       },
       {
         "fuente": "La Criatura Creativa",
@@ -687,7 +687,7 @@
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_Jungle2-240x300.jpeg"
+        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_Kasablanca-240x300.png"
       },
       {
         "fuente": "Puro Merca",
@@ -702,19 +702,63 @@
       },
       {
         "fuente": "Mercado Negro PE",
-        "tema": "Publicis Global Delivery fortaleció su cultura inclusiva con actividades por el Mes Pride en LATAM",
-        "link": "https://www.mercadonegro.pe/marketing/pgd-bright-pride-latam-publicis/",
+        "tema": "adidas convierte el Rockefeller Center en una vitrina para el balón de la final del Mundial 2026",
+        "link": "https://www.mercadonegro.pe/marketing/rockefeller-center-trionda/",
         "volumen": null,
         "orden": 1,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/image-48.png"
+        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/image-72.png"
       },
       {
         "fuente": "Mercado Negro PE",
-        "tema": "Universitario de Deportes presenta camiseta con detalles en sistema braille",
-        "link": "https://www.mercadonegro.pe/actualidad/universitario-camiseta-braille/",
+        "tema": "Ronaldo Nazario se enfrenta a «Dedos» de Merlina en el nuevo spot de Netflix Games",
+        "link": "https://www.mercadonegro.pe/publicidad/campanas/ronaldo-nazario-netflix-games/",
+        "volumen": null,
+        "orden": 2,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/image-70-1024x576.png"
+      },
+      {
+        "fuente": "Mercado Negro PE",
+        "tema": "Nike Air Force 1 Low «Ghostface»: conoce las zapatillas inspiradas en Scream",
+        "link": "https://www.mercadonegro.pe/actualidad/nike-air-force-1-low-ghostface/",
+        "volumen": null,
+        "orden": 3,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://sneakerbardetroit.com/wp-content/uploads/2026/05/nike-air-force-1-low-scream-ghostface-iv6350-121.webp"
+      },
+      {
+        "fuente": "Mercado Negro PE",
+        "tema": "Erling Haaland se convierte en el nuevo “girlypop”: así reaccionaron las marcas a la tendencia",
+        "link": "https://www.mercadonegro.pe/actualidad/haaland-mundial-2026/",
+        "volumen": null,
+        "orden": 4,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f355.png"
+      },
+      {
+        "fuente": "RoastBrief",
+        "tema": "Premios Ariel 2026: «En el camino», «El diablo fuma» y «Aún es de noche en Caracas» lideran las nominaciones",
+        "link": "https://roastbrief.com.mx/2026/07/premios-ariel-2026-en-el-camino-el-diablo-fuma-y-aun-es-de-noche-en-caracas-lideran-las-nominaciones/",
+        "volumen": null,
+        "orden": 1,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": null
+      },
+      {
+        "fuente": "RoastBrief",
+        "tema": "María Herranz, nueva Managing Director de Ogilvy España tras la salida de Jordi Urbea",
+        "link": "https://roastbrief.com.mx/2026/07/maria-herranz-nueva-managing-director-de-ogilvy-espana-tras-la-salida-de-jordi-urbea/",
         "volumen": null,
         "orden": 2,
         "sensible": false,
@@ -723,70 +767,26 @@
         "imagen": null
       },
       {
-        "fuente": "Mercado Negro PE",
-        "tema": "Marathon presenta en Jockey Plaza un nuevo concepto de tienda diseñado para acompañar la evolución de cada deportista",
-        "link": "https://www.mercadonegro.pe/marketing/marathon-formato-2-0-jockey-plaza/",
+        "fuente": "RoastBrief",
+        "tema": "Este es el negocio millonario de las ligas para el cabello que usa Erling Haaland",
+        "link": "https://roastbrief.com.mx/2026/07/este-es-el-negocio-millonario-de-las-ligas-para-el-cabello-que-usa-erling-haaland/",
         "volumen": null,
         "orden": 3,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/7-1-819x1024.png"
+        "imagen": "https://roastbrief.com.mx/wp-content/uploads/2026/07/image-60.png"
       },
       {
-        "fuente": "Mercado Negro PE",
-        "tema": "Garmin convierte el silencio de Scaloni tras Argentina vs Egipto en una oportunidad de marca",
-        "link": "https://www.mercadonegro.pe/actualidad/garmin-lionel-scaloni/",
+        "fuente": "RoastBrief",
+        "tema": "KFC convierte una petición de un vecino de Utrera en un fenómeno viral en redes sociales",
+        "link": "https://roastbrief.com.mx/2026/07/kfc-convierte-una-peticion-de-un-vecino-de-utrera-en-un-fenomeno-viral-en-redes-sociales/",
         "volumen": null,
         "orden": 4,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/GARMIN-ARGENTINA-1-827x1024.jpg"
-      },
-      {
-        "fuente": "RoastBrief",
-        "tema": "Lucas Mayer, fundador de DaHouse Audio, presidirá el jurado de Music & Sound en LIA 2026",
-        "link": "https://roastbrief.com.mx/2026/07/lucas-mayer-fundador-de-dahouse-audio-presidira-el-jurado-de-music-sound-en-lia-2026/",
-        "volumen": null,
-        "orden": 1,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://roastbrief.com.mx/wp-content/uploads/2026/07/Captura-de-Pantalla-2026-07-09-a-las-9.09.39-1.png"
-      },
-      {
-        "fuente": "RoastBrief",
-        "tema": "Cannes Lions 2026: Latinoamérica e Iberoamérica consolidan su peso creativo global",
-        "link": "https://roastbrief.com.mx/2026/07/cannes-lions-2026-latinoamerica-e-iberoamerica-consolidan-su-peso-creativo-global/",
-        "volumen": null,
-        "orden": 2,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://roastbrief.com.mx/wp-content/uploads/2026/07/TN016400_mPH30Z8c.jpg"
-      },
-      {
-        "fuente": "RoastBrief",
-        "tema": "Gracias, México: Corona y la Selección Nacional juntos rumbo al 2030",
-        "link": "https://roastbrief.com.mx/2026/07/gracias-mexico-corona-y-la-seleccion-nacional-juntos-rumbo-al-2030/",
-        "volumen": null,
-        "orden": 3,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://www.youtube.com/embed/ChyECm7Lutc"
-      },
-      {
-        "fuente": "RoastBrief",
-        "tema": "Emplifi, reconocida como Líder en el 2026 Gartner® Magic Quadrant™ for Social Media Management and Listening",
-        "link": "https://roastbrief.com.mx/2026/07/emplifi-reconocida-como-lider-en-el-2026-gartner-magic-quadrant-for-social-media-management-and-listening/",
-        "volumen": null,
-        "orden": 4,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png"
+        "imagen": "https://roastbrief.com.mx/wp-content/uploads/2026/07/Peticion-Utrera.png"
       }
     ]
   },
@@ -796,50 +796,6 @@
     "detalle": "",
     "items": [
       {
-        "fuente": "2007",
-        "tema": "Un frente polar provoca nevadas inusitadas en el centro y noroeste de la Argentina (en la imagen).",
-        "link": "https://es.wikipedia.org/wiki/Frente_polar",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 09/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/AtmosphCirc2.png/330px-AtmosphCirc2.png"
-      },
-      {
-        "fuente": "1979",
-        "tema": "Máximo acercamiento de la sonda espacial Voyager 2 a Júpiter.",
-        "link": "https://es.wikipedia.org/wiki/Voyager_2",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 09/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Voyager_spacecraft.jpg/330px-Voyager_spacecraft.jpg"
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día Mundial de Concientización sobre la Misofonía",
-        "link": "https://es.wikipedia.org/wiki/Misofon%C3%ADa",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 09/07",
-        "imagen": null
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día de la Gacela",
-        "link": "https://es.wikipedia.org/wiki/Gazella",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 09/07",
-        "imagen": null
-      },
-      {
         "fuente": "1991",
         "tema": "Boris Yeltsin es elegido presidente de Rusia, el primero después del régimen comunista.",
         "link": "https://es.wikipedia.org/wiki/Bor%C3%ADs_Yeltsin",
@@ -847,7 +803,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "viernes 10/07",
+        "grupo": "Hoy · 10/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1.jpg"
       },
       {
@@ -858,7 +814,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "viernes 10/07",
+        "grupo": "Hoy · 10/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mel_Blanc_-_1959.jpg/330px-Mel_Blanc_-_1959.jpg"
       },
       {
@@ -869,7 +825,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "viernes 10/07",
+        "grupo": "Hoy · 10/07",
         "imagen": null
       },
       {
@@ -880,7 +836,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "viernes 10/07",
+        "grupo": "Hoy · 10/07",
         "imagen": null
       },
       {
@@ -1016,13 +972,46 @@
         "imagen": null
       },
       {
-        "fuente": "Efemérides",
-        "tema": "⚠️ La fuente falló: martes 14/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/14",
+        "fuente": "2015",
+        "tema": "Máximo acercamiento de la sonda espacial New Horizons a Plutón, la primera en visitar dicho planeta enano.",
+        "link": "https://es.wikipedia.org/wiki/New_Horizons",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "martes 14/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PIA19703-PlutoFlyby-NewHorizons-ArtistConcept-20150709.jpg/330px-PIA19703-PlutoFlyby-NewHorizons-ArtistConcept-20150709.jpg"
+      },
+      {
+        "fuente": "1913",
+        "tema": "Nace Gerald Ford, presidente de los Estados Unidos entre 1974 y 1977.",
+        "link": "https://es.wikipedia.org/wiki/Gerald_Ford",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "martes 14/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg/330px-Gerald_Ford_presidential_portrait_%28cropped%29.jpg"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial del Chimpancé",
         "link": "",
         "volumen": null,
         "orden": null,
         "sensible": false,
-        "error": true,
+        "error": false,
+        "grupo": "martes 14/07",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial de la Orca",
+        "link": "https://es.wikipedia.org/wiki/Orcinus_orca",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
         "grupo": "martes 14/07",
         "imagen": null
       },
@@ -1035,6 +1024,17 @@
         "sensible": false,
         "error": true,
         "grupo": "miércoles 15/07",
+        "imagen": null
+      },
+      {
+        "fuente": "Efemérides",
+        "tema": "⚠️ La fuente falló: jueves 16/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/16",
+        "link": "",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": true,
+        "grupo": "jueves 16/07",
         "imagen": null
       }
     ]
