@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-07-11",
-  "generado": "2026-07-11T14:04:20+00:00",
+  "fecha": "2026-07-12",
+  "generado": "2026-07-12T14:06:27+00:00",
   "fuentes": [
     {
       "fuente": "X Chile",
@@ -9,8 +9,8 @@
       "items": [
         {
           "fuente": "X Chile",
-          "tema": "MANU AL 9009",
-          "link": "https://x.com/search?q=MANU%20AL%209009&src=trend_click",
+          "tema": "Suiza",
+          "link": "https://x.com/search?q=Suiza&src=trend_click",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -20,8 +20,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#PrimerPlanoCHV",
-          "link": "https://x.com/search?q=%23PrimerPlanoCHV&src=trend_click",
+          "tema": "embolo",
+          "link": "https://x.com/search?q=embolo&src=trend_click",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -31,8 +31,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#CHILETWT",
-          "link": "https://x.com/search?q=%23CHILETWT&src=trend_click",
+          "tema": "#MundialxCHV",
+          "link": "https://x.com/search?q=%23MundialxCHV&src=trend_click",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -42,8 +42,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#NPPxLINGORM_IntoTheAuroraDay",
-          "link": "https://x.com/search?q=%23NPPxLINGORM_IntoTheAuroraDay&src=trend_click",
+          "tema": "#NACIONALPARABTS",
+          "link": "https://x.com/search?q=%23NACIONALPARABTS&src=trend_click",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -53,8 +53,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "NPP X LINGORM LOVE ORBIT",
-          "link": "https://x.com/search?q=NPP%20X%20LINGORM%20LOVE%20ORBIT&src=trend_click",
+          "tema": "Viña del Mar",
+          "link": "https://x.com/search?q=Vi%C3%B1a%20del%20Mar&src=trend_click",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -64,8 +64,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "España",
-          "link": "https://x.com/search?q=Espa%C3%B1a&src=trend_click",
+          "tema": "Paredes",
+          "link": "https://x.com/search?q=Paredes&src=trend_click",
           "volumen": null,
           "orden": 6,
           "sensible": false,
@@ -75,8 +75,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#วาดฝันวันวิวาห์EP4",
-          "link": "https://x.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP4&src=trend_click",
+          "tema": "#Switzerland",
+          "link": "https://x.com/search?q=%23Switzerland&src=trend_click",
           "volumen": null,
           "orden": 7,
           "sensible": false,
@@ -86,8 +86,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "LINGORM ILF EP4",
-          "link": "https://x.com/search?q=LINGORM%20ILF%20EP4&src=trend_click",
+          "tema": "Haaland",
+          "link": "https://x.com/search?q=Haaland&src=trend_click",
           "volumen": null,
           "orden": 8,
           "sensible": false,
@@ -97,8 +97,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Enrique Krauss",
-          "link": "https://x.com/search?q=Enrique%20Krauss&src=trend_click",
+          "tema": "Sorloth",
+          "link": "https://x.com/search?q=Sorloth&src=trend_click",
           "volumen": null,
           "orden": 9,
           "sensible": false,
@@ -108,8 +108,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Courtois",
-          "link": "https://x.com/search?q=Courtois&src=trend_click",
+          "tema": "McGregor",
+          "link": "https://x.com/search?q=McGregor&src=trend_click",
           "volumen": null,
           "orden": 10,
           "sensible": false,
@@ -126,9 +126,9 @@
       "items": [
         {
           "fuente": "Google Trends Chile",
-          "tema": "jayden adams",
-          "link": "https://www.google.com/search?q=jayden%20adams",
-          "volumen": "500+",
+          "tema": "rosemarie dietz",
+          "link": "https://www.google.com/search?q=rosemarie%20dietz",
+          "volumen": "100+",
           "orden": 1,
           "sensible": false,
           "error": false,
@@ -137,54 +137,10 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "dia de la pizza chile promociones",
-          "link": "https://www.google.com/search?q=dia%20de%20la%20pizza%20chile%20promociones",
-          "volumen": "1000+",
-          "orden": 2,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "Google Trends Chile",
-          "tema": "ufc hoy",
-          "link": "https://www.google.com/search?q=ufc%20hoy",
-          "volumen": "200+",
-          "orden": 3,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "Google Trends Chile",
-          "tema": "karolína muchová",
-          "link": "https://www.google.com/search?q=karol%C3%ADna%20muchov%C3%A1",
+          "tema": "moto gp",
+          "link": "https://www.google.com/search?q=moto%20gp",
           "volumen": "100+",
-          "orden": 4,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "Google Trends Chile",
-          "tema": "noruega vs inglaterra mundial",
-          "link": "https://www.google.com/search?q=noruega%20vs%20inglaterra%20mundial",
-          "volumen": "1000+",
-          "orden": 5,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "Google Trends Chile",
-          "tema": "cardiff - midtjylland",
-          "link": "https://www.google.com/search?q=cardiff%20-%20midtjylland",
-          "volumen": "500+",
-          "orden": 6,
+          "orden": 2,
           "sensible": false,
           "error": false,
           "grupo": null,
@@ -195,6 +151,50 @@
           "tema": "tribunal de justicia",
           "link": "https://www.google.com/search?q=tribunal%20de%20justicia",
           "volumen": "100+",
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "venezuela",
+          "link": "https://www.google.com/search?q=venezuela",
+          "volumen": "1000+",
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "andre agassi",
+          "link": "https://www.google.com/search?q=andre%20agassi",
+          "volumen": "100+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "final wimbledon 2026",
+          "link": "https://www.google.com/search?q=final%20wimbledon%202026",
+          "volumen": "500+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "joaquín montecinos",
+          "link": "https://www.google.com/search?q=joaqu%C3%ADn%20montecinos",
+          "volumen": "200+",
           "orden": 7,
           "sensible": false,
           "error": false,
@@ -203,8 +203,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "corte suprema",
-          "link": "https://www.google.com/search?q=corte%20suprema",
+          "tema": "impuesto",
+          "link": "https://www.google.com/search?q=impuesto",
           "volumen": "500+",
           "orden": 8,
           "sensible": false,
@@ -214,9 +214,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "mundo",
-          "link": "https://www.google.com/search?q=mundo",
-          "volumen": "200+",
+          "tema": "lindsey graham",
+          "link": "https://www.google.com/search?q=lindsey%20graham",
+          "volumen": "500+",
           "orden": 9,
           "sensible": false,
           "error": false,
@@ -225,9 +225,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "angélica castro",
-          "link": "https://www.google.com/search?q=ang%C3%A9lica%20castro",
-          "volumen": "100+",
+          "tema": "copa mundial de fútbol",
+          "link": "https://www.google.com/search?q=copa%20mundial%20de%20f%C3%BAtbol",
+          "volumen": "100000+",
           "orden": 10,
           "sensible": false,
           "error": false,
@@ -243,8 +243,8 @@
       "items": [
         {
           "fuente": "r/RepublicadeChile",
-          "tema": "Si te invitaran a comer y te sirven esto que dirías?",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1ut02jx/si_te_invitaran_a_comer_y_te_sirven_esto_que/",
+          "tema": "Se me fue mi reinita",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uu60a2/se_me_fue_mi_reinita/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -254,8 +254,8 @@
         },
         {
           "fuente": "r/chile",
-          "tema": "Quiroz se jacta de que el pan en el Lider no sube, pero Lider congeló los precios",
-          "link": "https://www.reddit.com/r/chile/comments/1usyb8y/quiroz_se_jacta_de_que_el_pan_en_el_lider_no_sube/",
+          "tema": "Diputados RN, Republicanos y Libertarios presentan proyecto de ley para obligar a mujeres que se realicen un aborto a escuchar los latidos del feto",
+          "link": "https://www.reddit.com/r/chile/comments/1uts5x6/diputados_rn_republicanos_y_libertarios_presentan/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -265,8 +265,8 @@
         },
         {
           "fuente": "r/chile",
-          "tema": "Quien o que me impide realmente vivir en medio de la nada?",
-          "link": "https://www.reddit.com/r/chile/comments/1utj9or/quien_o_que_me_impide_realmente_vivir_en_medio_de/",
+          "tema": "Marketplace nunca deja de sorprenderme",
+          "link": "https://www.reddit.com/r/chile/comments/1uu2w3p/marketplace_nunca_deja_de_sorprenderme/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -276,8 +276,8 @@
         },
         {
           "fuente": "r/chile",
-          "tema": "Encontré este envoltorio de masticable del año de la pera. ¿Alguien cacha más o menos de qué año es?",
-          "link": "https://www.reddit.com/r/chile/comments/1ut8we2/encontré_este_envoltorio_de_masticable_del_año_de/",
+          "tema": "¿Pololearían con alguien que tuvo una relación de más de una década?",
+          "link": "https://www.reddit.com/r/chile/comments/1uu5he6/pololearían_con_alguien_que_tuvo_una_relación_de/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -286,9 +286,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/chile",
-          "tema": "Mis colecciones y aficiones. A ver si a alguien más le gusta lo mismo.",
-          "link": "https://www.reddit.com/r/chile/comments/1ut6cwb/mis_colecciones_y_aficiones_a_ver_si_a_alguien/",
+          "fuente": "r/RepublicadeChile",
+          "tema": "Hoy encontré a mi gata :(",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uu1xp0/hoy_encontré_a_mi_gata/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -331,8 +331,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "Working in marketing is depressing. Any way to cope with this?",
-          "link": "https://www.reddit.com/r/marketing/comments/1usn3ec/working_in_marketing_is_depressing_any_way_to/",
+          "tema": "My family has our product on the shelves of 60+ Whole Foods locations across North America- The problem is, they're our only customer.",
+          "link": "https://www.reddit.com/r/marketing/comments/1ut9zcn/my_family_has_our_product_on_the_shelves_of_60/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -342,8 +342,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "My family has our product on the shelves of 60+ Whole Foods locations across North America- The problem is, they're our only customer.",
-          "link": "https://www.reddit.com/r/marketing/comments/1ut9zcn/my_family_has_our_product_on_the_shelves_of_60/",
+          "tema": "Working in marketing is depressing. Any way to cope with this?",
+          "link": "https://www.reddit.com/r/marketing/comments/1usn3ec/working_in_marketing_is_depressing_any_way_to/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -353,8 +353,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What is the deal with everyone suddenly rooting against Argentina in the World Cup?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1utbk3e/what_is_the_deal_with_everyone_suddenly_rooting/",
+          "tema": "What's going on with the Charlie Kirk murder case that's got everyone arguing about it? I thought the shooter confessed?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uu6d6g/whats_going_on_with_the_charlie_kirk_murder_case/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -364,8 +364,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "Whats going on with the girl pointing in WNBA?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1us6wa3/whats_going_on_with_the_girl_pointing_in_wnba/",
+          "tema": "What's going on with tariff refunds since the supreme court nullified Trumps orders?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1utxunb/whats_going_on_with_tariff_refunds_since_the/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -375,8 +375,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What's going on with Bethesda and loads of people getting laid off?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1ushric/whats_going_on_with_bethesda_and_loads_of_people/",
+          "tema": "What is the deal with everyone suddenly rooting against Argentina in the World Cup?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1utbk3e/what_is_the_deal_with_everyone_suddenly_rooting/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -386,8 +386,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What is going on with Asmon, Mizkif, and Emiru?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1us2ygb/what_is_going_on_with_asmon_mizkif_and_emiru/",
+          "tema": "What's going on with Japan being memed as Islamic republic of Japan?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1utqv2a/whats_going_on_with_japan_being_memed_as_islamic/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -397,8 +397,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What is going on with the new Air Force One?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1urxw75/what_is_going_on_with_the_new_air_force_one/",
+          "tema": "What’s going on with Congress and the WNBA now?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1utl2xk/whats_going_on_with_congress_and_the_wnba_now/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -408,8 +408,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "Me when I want to explain something to my dad.",
-          "link": "https://www.reddit.com/r/memes/comments/1utgyyq/me_when_i_want_to_explain_something_to_my_dad/",
+          "tema": "Thank you Haaland",
+          "link": "https://www.reddit.com/r/memes/comments/1uuc2z3/thank_you_haaland/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -419,8 +419,8 @@
         },
         {
           "fuente": "r/TikTokCringe",
-          "tema": "Dementia Don Wandering Around",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1ut9p7v/dementia_don_wandering_around/",
+          "tema": "He was wide open…",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uua5h3/he_was_wide_open/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -429,9 +429,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/memes",
-          "tema": "Now I have Free time",
-          "link": "https://www.reddit.com/r/memes/comments/1utggp6/now_i_have_free_time/",
+          "fuente": "r/TikTokCringe",
+          "tema": "ocean billboards",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uu9r6g/ocean_billboards/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -441,8 +441,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "The post purchase reality",
-          "link": "https://www.reddit.com/r/memes/comments/1utdr4l/the_post_purchase_reality/",
+          "tema": "Bro summoned Bosnia in one attempt",
+          "link": "https://www.reddit.com/r/memes/comments/1uubixb/bro_summoned_bosnia_in_one_attempt/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -451,9 +451,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/memes",
-          "tema": "Please god please",
-          "link": "https://www.reddit.com/r/memes/comments/1ut6hoz/please_god_please/",
+          "fuente": "r/TikTokCringe",
+          "tema": "Great Start to the Day",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uuey14/great_start_to_the_day/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -462,9 +462,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/popculturechat",
-          "tema": "When Elizabeth Taylor Called Out Hollywood’s Hypocrisy Over AIDS: “Without Homosexuals, There Would Be No Hollywood.”",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1utinhf/when_elizabeth_taylor_called_out_hollywoods/",
+          "fuente": "r/Millennials",
+          "tema": "I wanted to be Sabrina sooooo badly",
+          "link": "https://www.reddit.com/r/Millennials/comments/1uu8wq7/i_wanted_to_be_sabrina_sooooo_badly/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -473,9 +473,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/Millennials",
-          "tema": "Anyone’s family had wood grain panel, cabinets and etc ?",
-          "link": "https://www.reddit.com/r/Millennials/comments/1utit7l/anyones_family_had_wood_grain_panel_cabinets_and/",
+          "fuente": "r/popculturechat",
+          "tema": "US Senator Lindsey Graham Dies",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uu8ef4/us_senator_lindsey_graham_dies/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -485,8 +485,8 @@
         },
         {
           "fuente": "r/GenZ",
-          "tema": "Gaggle of nearly identically dressed Gen Z women",
-          "link": "https://www.reddit.com/r/GenZ/comments/1utfuk9/gaggle_of_nearly_identically_dressed_gen_z_women/",
+          "tema": "Linsey Graham passed away",
+          "link": "https://www.reddit.com/r/GenZ/comments/1uu7mvv/linsey_graham_passed_away/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -495,9 +495,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/GenZ",
-          "tema": "I remember it being religiously drilled in to us",
-          "link": "https://www.reddit.com/r/GenZ/comments/1utf3eg/i_remember_it_being_religiously_drilled_in_to_us/",
+          "fuente": "r/popculturechat",
+          "tema": "Convicted rapist Conor McGregor returned to UFC following a 5-year absence for his comeback fight against Max Holloway, and blew his knee 69 seconds in.",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uua3rg/convicted_rapist_conor_mcgregor_returned_to_ufc/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -507,8 +507,8 @@
         },
         {
           "fuente": "r/Millennials",
-          "tema": "Restored a Snowglobe Today",
-          "link": "https://www.reddit.com/r/Millennials/comments/1ut7ivu/restored_a_snowglobe_today/",
+          "tema": "Can anyone relate to this when they were in highschool?",
+          "link": "https://www.reddit.com/r/Millennials/comments/1uudwa0/can_anyone_relate_to_this_when_they_were_in/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -687,7 +687,7 @@
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_Jungle2-240x300.jpeg"
+        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_TomCollins-240x300.png"
       },
       {
         "fuente": "Puro Merca",
@@ -796,50 +796,6 @@
     "detalle": "",
     "items": [
       {
-        "fuente": "2000",
-        "tema": "Fallece Pedro Mir, poeta dominicano.",
-        "link": "https://es.wikipedia.org/wiki/Pedro_Mir",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 11/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pedro_mir.jpg"
-      },
-      {
-        "fuente": "1811",
-        "tema": "El científico italiano Amedeo Avogadro publica su ensayo sobre el contenido molecular de los gases.",
-        "link": "https://es.wikipedia.org/wiki/Italia",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 11/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langes-330px-Flag_of_Italy.svg.png"
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día Mundial de Concientización sobre las Benzodiacepinas",
-        "link": "https://es.wikipedia.org/wiki/Benzodiazepina",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 11/07",
-        "imagen": null
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día Internacional de los Aceites Esenciales",
-        "link": "https://es.wikipedia.org/wiki/Aceite_esencial",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 11/07",
-        "imagen": null
-      },
-      {
         "fuente": "1944",
         "tema": "Muere Theodore Roosevelt, Jr., político y militar americano.",
         "link": "https://es.wikipedia.org/wiki/Theodore_Roosevelt_Jr.",
@@ -847,7 +803,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "domingo 12/07",
+        "grupo": "Hoy · 12/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/LC-DIG-ggbain-37582.jpg/330px-LC-DIG-ggbain-37582.jpg"
       },
       {
@@ -858,7 +814,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "domingo 12/07",
+        "grupo": "Hoy · 12/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Trifid.nebula.arp.750pix.jpg/330px-Trifid.nebula.arp.750pix.jpg"
       },
       {
@@ -869,7 +825,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "domingo 12/07",
+        "grupo": "Hoy · 12/07",
         "imagen": null
       },
       {
@@ -880,7 +836,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "domingo 12/07",
+        "grupo": "Hoy · 12/07",
         "imagen": null
       },
       {
@@ -1016,13 +972,46 @@
         "imagen": null
       },
       {
-        "fuente": "Efemérides",
-        "tema": "⚠️ La fuente falló: jueves 16/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/16",
-        "link": "",
+        "fuente": "2003",
+        "tema": "Fallece Celia Cruz, cantante de salsa, son montuno y bolero cubana.",
+        "link": "https://es.wikipedia.org/wiki/Celia_Cruz",
         "volumen": null,
         "orden": null,
         "sensible": false,
-        "error": true,
+        "error": false,
+        "grupo": "jueves 16/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Celia_Cruz_1957_color.jpg/330px-Celia_Cruz_1957_color.jpg"
+      },
+      {
+        "fuente": "1992",
+        "tema": "El grupo insurgente Sendero Luminoso provoca en la ciudad de Lima el atentado de la calle Tarata como parte de sus acciones terroristas en su llamada \"guerra popular\" contra el Estado Peruano.",
+        "link": "https://es.wikipedia.org/wiki/Insurgencia",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "jueves 16/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Iraqi_insurgents_with_guns%2C_2006.jpg/330px-Iraqi_insurgents_with_guns%2C_2006.jpg"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial de la Serpiente",
+        "link": "https://es.wikipedia.org/wiki/Serpentes",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "jueves 16/07",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día del Servicio Penitenciario Federal",
+        "link": "https://es.wikipedia.org/wiki/Servicio_Penitenciario_Federal",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
         "grupo": "jueves 16/07",
         "imagen": null
       },
@@ -1035,6 +1024,17 @@
         "sensible": false,
         "error": true,
         "grupo": "viernes 17/07",
+        "imagen": null
+      },
+      {
+        "fuente": "Efemérides",
+        "tema": "⚠️ La fuente falló: sábado 18/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/18",
+        "link": "",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": true,
+        "grupo": "sábado 18/07",
         "imagen": null
       }
     ]
