@@ -1,20 +1,119 @@
 {
-  "fecha": "2026-07-14",
-  "generado": "2026-07-14T14:27:27+00:00",
+  "fecha": "2026-07-15",
+  "generado": "2026-07-15T14:23:17+00:00",
   "fuentes": [
     {
       "fuente": "X Chile",
-      "ok": false,
-      "detalle": "502 Server Error: Bad Gateway for url: https://getdaytrends.com/es/chile/",
+      "ok": true,
+      "detalle": "",
       "items": [
         {
           "fuente": "X Chile",
-          "tema": "⚠️ La fuente falló: 502 Server Error: Bad Gateway for url: https://getdaytrends.com/es/chile/",
-          "link": "",
+          "tema": "España",
+          "link": "https://x.com/search?q=Espa%C3%B1a&src=trend_click",
           "volumen": null,
-          "orden": null,
+          "orden": 1,
           "sensible": false,
-          "error": true,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "INDH",
+          "link": "https://x.com/search?q=INDH&src=trend_click",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Campillai",
+          "link": "https://x.com/search?q=Campillai&src=trend_click",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#SistemaFrontal",
+          "link": "https://x.com/search?q=%23SistemaFrontal&src=trend_click",
+          "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#temblor",
+          "link": "https://x.com/search?q=%23temblor&src=trend_click",
+          "volumen": null,
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "PINCOYA AL 9009",
+          "link": "https://x.com/search?q=PINCOYA%20AL%209009&src=trend_click",
+          "volumen": null,
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Karen Rojo",
+          "link": "https://x.com/search?q=Karen%20Rojo&src=trend_click",
+          "volumen": null,
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#Temporal",
+          "link": "https://x.com/search?q=%23Temporal&src=trend_click",
+          "volumen": null,
+          "orden": 8,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "Dembele",
+          "link": "https://x.com/search?q=Dembele&src=trend_click",
+          "volumen": null,
+          "orden": 9,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "deschamps",
+          "link": "https://x.com/search?q=deschamps&src=trend_click",
+          "volumen": null,
+          "orden": 10,
+          "sensible": false,
+          "error": false,
           "grupo": null,
           "imagen": null
         }
@@ -27,9 +126,9 @@
       "items": [
         {
           "fuente": "Google Trends Chile",
-          "tema": "noticias",
-          "link": "https://www.google.com/search?q=noticias",
-          "volumen": "100+",
+          "tema": "dia",
+          "link": "https://www.google.com/search?q=dia",
+          "volumen": "1000+",
           "orden": 1,
           "sensible": false,
           "error": false,
@@ -38,9 +137,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "dia",
-          "link": "https://www.google.com/search?q=dia",
-          "volumen": "2000+",
+          "tema": "partido nacional libertario",
+          "link": "https://www.google.com/search?q=partido%20nacional%20libertario",
+          "volumen": "100+",
           "orden": 2,
           "sensible": false,
           "error": false,
@@ -49,8 +148,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "red",
-          "link": "https://www.google.com/search?q=red",
+          "tema": "weather",
+          "link": "https://www.google.com/search?q=weather",
           "volumen": "500+",
           "orden": 3,
           "sensible": false,
@@ -60,10 +159,54 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "españa francia",
-          "link": "https://www.google.com/search?q=espa%C3%B1a%20francia",
-          "volumen": "2000+",
+          "tema": "clima en santiago",
+          "link": "https://www.google.com/search?q=clima%20en%20santiago",
+          "volumen": "100+",
           "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "fuego",
+          "link": "https://www.google.com/search?q=fuego",
+          "volumen": "200+",
+          "orden": 5,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "clima",
+          "link": "https://www.google.com/search?q=clima",
+          "volumen": "50000+",
+          "orden": 6,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "tiempo en valparaiso",
+          "link": "https://www.google.com/search?q=tiempo%20en%20valparaiso",
+          "volumen": "200+",
+          "orden": 7,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "Google Trends Chile",
+          "tema": "el tiempo",
+          "link": "https://www.google.com/search?q=el%20tiempo",
+          "volumen": "1000+",
+          "orden": 8,
           "sensible": false,
           "error": false,
           "grupo": null,
@@ -73,51 +216,7 @@
           "fuente": "Google Trends Chile",
           "tema": "tiempo en talca",
           "link": "https://www.google.com/search?q=tiempo%20en%20talca",
-          "volumen": "500+",
-          "orden": 5,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "Google Trends Chile",
-          "tema": "clima temuco",
-          "link": "https://www.google.com/search?q=clima%20temuco",
-          "volumen": "100+",
-          "orden": 6,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "Google Trends Chile",
-          "tema": "clima puente alto",
-          "link": "https://www.google.com/search?q=clima%20puente%20alto",
-          "volumen": "100+",
-          "orden": 7,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "Google Trends Chile",
-          "tema": "el tiempo en santiago",
-          "link": "https://www.google.com/search?q=el%20tiempo%20en%20santiago",
           "volumen": "200+",
-          "orden": 8,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "Google Trends Chile",
-          "tema": "tiempo hoy",
-          "link": "https://www.google.com/search?q=tiempo%20hoy",
-          "volumen": "100+",
           "orden": 9,
           "sensible": false,
           "error": false,
@@ -126,9 +225,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "clima hoy",
-          "link": "https://www.google.com/search?q=clima%20hoy",
-          "volumen": "500+",
+          "tema": "météo",
+          "link": "https://www.google.com/search?q=m%C3%A9t%C3%A9o",
+          "volumen": "200+",
           "orden": 10,
           "sensible": false,
           "error": false,
@@ -144,8 +243,8 @@
       "items": [
         {
           "fuente": "r/chile",
-          "tema": "Renuncié y soy feliz",
-          "link": "https://www.reddit.com/r/chile/comments/1uw8ar0/renuncié_y_soy_feliz/",
+          "tema": "Gané el \"Premio del Público\" gracias a ustedess 🫶🏻",
+          "link": "https://www.reddit.com/r/chile/comments/1uwwa5l/gané_el_premio_del_público_gracias_a_ustedess/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -155,8 +254,8 @@
         },
         {
           "fuente": "r/RepublicadeChile",
-          "tema": "Que acontece?",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uw6h65/que_acontece/",
+          "tema": "Vuela alto viejo nazi del bio bio",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uwskik/vuela_alto_viejo_nazi_del_bio_bio/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -166,8 +265,8 @@
         },
         {
           "fuente": "r/chile",
-          "tema": "Milonga de cómic",
-          "link": "https://www.reddit.com/r/chile/comments/1uw8hh0/milonga_de_cómic/",
+          "tema": "Una buena noticia: cierran cancha para que un colibri pueda anidar tranquilo... awww",
+          "link": "https://www.reddit.com/r/chile/comments/1ux645q/una_buena_noticia_cierran_cancha_para_que_un/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -176,9 +275,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/RepublicadeChile",
-          "tema": "Senadora Campillai contrató a su yerno como chofer: registra antecedentes penales y una causa vigente",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uvzuzj/senadora_campillai_contrató_a_su_yerno_como/",
+          "fuente": "r/chile",
+          "tema": "El republicano/libertario más empático",
+          "link": "https://www.reddit.com/r/chile/comments/1ux5zoh/el_republicanolibertario_más_empático/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -187,9 +286,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/RepublicadeChile",
-          "tema": "De verdad Chile se está yendo al carajo",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uvtsn7/de_verdad_chile_se_está_yendo_al_carajo/",
+          "fuente": "r/chile",
+          "tema": "Vuela alto viejo nazi del biobio",
+          "link": "https://www.reddit.com/r/chile/comments/1ux46lb/vuela_alto_viejo_nazi_del_biobio/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -221,21 +320,10 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "\"Just when I thought I was out of the game, they pull me back in!\"",
-          "link": "https://www.reddit.com/r/marketing/comments/1uw8hpg/just_when_i_thought_i_was_out_of_the_game_they/",
-          "volumen": null,
-          "orden": 3,
-          "sensible": false,
-          "error": false,
-          "grupo": "Marketing",
-          "imagen": null
-        },
-        {
-          "fuente": "r/marketing",
           "tema": "How do you get feedback on ads?",
           "link": "https://www.reddit.com/r/marketing/comments/1uw48nz/how_do_you_get_feedback_on_ads/",
           "volumen": null,
-          "orden": 4,
+          "orden": 3,
           "sensible": false,
           "error": false,
           "grupo": "Marketing",
@@ -246,6 +334,17 @@
           "tema": "Marketing in the era of AI is whack!",
           "link": "https://www.reddit.com/r/marketing/comments/1uunzmu/marketing_in_the_era_of_ai_is_whack/",
           "volumen": null,
+          "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
+          "tema": "How to pivot out of marketing",
+          "link": "https://www.reddit.com/r/marketing/comments/1uuv13c/how_to_pivot_out_of_marketing/",
+          "volumen": null,
           "orden": 5,
           "sensible": false,
           "error": false,
@@ -254,8 +353,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What is going on with the new Mitch McConnell picture?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uvbpfp/what_is_going_on_with_the_new_mitch_mcconnell/",
+          "tema": "Please be nice, but what is up with the claims Kamala won the last election. Is this just conspiracy theory?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uwhh4i/please_be_nice_but_what_is_up_with_the_claims/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -276,10 +375,21 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
+          "tema": "What is going on with the new Mitch McConnell picture?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uvbpfp/what_is_going_on_with_the_new_mitch_mcconnell/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
           "tema": "What is going on with Genshin Impact VA drama (kinda)?",
           "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uvs4ua/what_is_going_on_with_genshin_impact_va_drama/",
           "volumen": null,
-          "orden": 3,
+          "orden": 4,
           "sensible": false,
           "error": false,
           "grupo": "Out of the Loop",
@@ -290,17 +400,6 @@
           "tema": "What is going on with Elon Musk, Sam Altman and Apple?",
           "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uvia91/what_is_going_on_with_elon_musk_sam_altman_and/",
           "volumen": null,
-          "orden": 4,
-          "sensible": false,
-          "error": false,
-          "grupo": "Out of the Loop",
-          "imagen": null
-        },
-        {
-          "fuente": "r/OutOfTheLoop",
-          "tema": "what is going on with mark rober on instagram?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uvw61k/what_is_going_on_with_mark_rober_on_instagram/",
-          "volumen": null,
           "orden": 5,
           "sensible": false,
           "error": false,
@@ -308,9 +407,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/TikTokCringe",
-          "tema": "Florida woman is forced to prove her baby is \"really dead\" three times before doctors can legally help her remove it from her body",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uvuj0j/florida_woman_is_forced_to_prove_her_baby_is/",
+          "fuente": "r/memes",
+          "tema": "Now the Cape Verde vs Spain 0-0 is even more immortalized",
+          "link": "https://www.reddit.com/r/memes/comments/1ux53f0/now_the_cape_verde_vs_spain_00_is_even_more/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -320,8 +419,8 @@
         },
         {
           "fuente": "r/TikTokCringe",
-          "tema": "Truly disgusting.",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uw6tjc/truly_disgusting/",
+          "tema": "Interviewer tries to ragebait but doesn't go as he plans",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uwtwc4/interviewer_tries_to_ragebait_but_doesnt_go_as_he/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -331,8 +430,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "Every Monday morning",
-          "link": "https://www.reddit.com/r/memes/comments/1uw7pwg/every_monday_morning/",
+          "tema": "Thanks, Spain!",
+          "link": "https://www.reddit.com/r/memes/comments/1ux0kpa/thanks_spain/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -341,9 +440,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/memes",
-          "tema": "Hate it when thisHappens...",
-          "link": "https://www.reddit.com/r/memes/comments/1uw2x60/hate_it_when_thishappens/",
+          "fuente": "r/TikTokCringe",
+          "tema": "She gets up at 5am. Is this right?",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uwxnzh/she_gets_up_at_5am_is_this_right/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -353,8 +452,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "Where do I find a beach in Berlin?",
-          "link": "https://www.reddit.com/r/memes/comments/1uw5b6y/where_do_i_find_a_beach_in_berlin/",
+          "tema": "Hardest working team in football.",
+          "link": "https://www.reddit.com/r/memes/comments/1ux3rcb/hardest_working_team_in_football/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -364,8 +463,8 @@
         },
         {
           "fuente": "r/popculturechat",
-          "tema": "New York Mayor Zohran Mamdani posted on X about the 26 year old man shot by ICE today.",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1uw1ca0/new_york_mayor_zohran_mamdani_posted_on_x_about/",
+          "tema": "Zendaya confirms she plans to take a break after doing 5 major press tours this year:",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1ux1egl/zendaya_confirms_she_plans_to_take_a_break_after/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -375,8 +474,8 @@
         },
         {
           "fuente": "r/Millennials",
-          "tema": "So many stickers.",
-          "link": "https://www.reddit.com/r/Millennials/comments/1uvx9k7/so_many_stickers/",
+          "tema": "Dune II was one of my favorite childhood games",
+          "link": "https://www.reddit.com/r/Millennials/comments/1ux4o67/dune_ii_was_one_of_my_favorite_childhood_games/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -386,8 +485,8 @@
         },
         {
           "fuente": "r/GenZ",
-          "tema": "wtf is up with my TikTok algorithm",
-          "link": "https://www.reddit.com/r/GenZ/comments/1uw41xe/wtf_is_up_with_my_tiktok_algorithm/",
+          "tema": "Real!",
+          "link": "https://www.reddit.com/r/GenZ/comments/1ux22m8/real/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -396,9 +495,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/GenZ",
-          "tema": "Kkkaroline Levitt, (28) says Gen z is lazy and shouldn't complain about Trumps economy because it's their fault they were raised spoiled.",
-          "link": "https://www.reddit.com/r/GenZ/comments/1uvoziw/kkkaroline_levitt_28_says_gen_z_is_lazy_and/",
+          "fuente": "r/popculturechat",
+          "tema": "Tom Holland meets fan who used to run a fan account of him: \"No way! Why “used to”?\"",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uwssvo/tom_holland_meets_fan_who_used_to_run_a_fan/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -407,9 +506,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/Millennials",
-          "tema": "who else remembers the annual back-to-school shoe shopping trip feeling like this?",
-          "link": "https://www.reddit.com/r/Millennials/comments/1uvp6jz/who_else_remembers_the_annual_backtoschool_shoe/",
+          "fuente": "r/popculturechat",
+          "tema": "Zendaya attends \"The Odyssey\" New York Premiere.",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uwnc8w/zendaya_attends_the_odyssey_new_york_premiere/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -588,7 +687,7 @@
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_TomCollins-240x300.png"
+        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_Jungle2-240x300.jpeg"
       },
       {
         "fuente": "Puro Merca",
@@ -603,8 +702,8 @@
       },
       {
         "fuente": "Mercado Negro PE",
-        "tema": "La Unión Europea exige a Meta eliminar funciones «adictivas» de Facebook e Instagram",
-        "link": "https://www.mercadonegro.pe/actualidad/union-europea-meta-funciones/",
+        "tema": "Hailey Bieber se une a Gap para lanzar una colección cápsula inspirada en sus jeans favoritos",
+        "link": "https://www.mercadonegro.pe/actualidad/hailey-bieber-se-une-a-gap/",
         "volumen": null,
         "orden": 1,
         "sensible": false,
@@ -614,74 +713,74 @@
       },
       {
         "fuente": "Mercado Negro PE",
-        "tema": "Belinda se convierte en la nueva embajadora de Levi’s para Latinoamérica",
-        "link": "https://www.mercadonegro.pe/marketing/belinda-embajadora-de-levis/",
+        "tema": "Tinder presenta su primer rebranding en casi una década: así es la nueva identidad de la marca",
+        "link": "https://www.mercadonegro.pe/rebranding/tinder-rebranding-2026/",
         "volumen": null,
         "orden": 2,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://media.gq.com.mx/photos/6a553b1cf241c8b66f6dd547/16:9/w_2560%2Cc_limit/belinda-levis-lecciones-de-estilo-con-mezclilla-para-hombres.jpeg"
+        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/Portada-2026-07-14T165048.207.png"
       },
       {
         "fuente": "Mercado Negro PE",
-        "tema": "Robegrill lanza papas fritas con refrencia a su icónica frase «¡Que chille!»",
-        "link": "https://www.mercadonegro.pe/actualidad/lanzamientos/robegrill-papas-fritas/",
+        "tema": "KPop Demon Hunters conquista a las marcas: las colaboraciones que mantienen vigente el fenómeno de Netflix",
+        "link": "https://www.mercadonegro.pe/marketing/kpop-demon-hunters/",
         "volumen": null,
         "orden": 3,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/image-88.png"
+        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/KPop-Demon-Hunters-1024x585.jpg"
       },
       {
         "fuente": "Mercado Negro PE",
-        "tema": "«Los Juegos del Hambre» vuelve a los cines: la estrategia de Lionsgate para reactivar la franquicia",
-        "link": "https://www.mercadonegro.pe/actualidad/los-juegos-del-hambre/",
+        "tema": "Argentina vs. Inglaterra: las marcas activan su creatividad antes de la semifinal",
+        "link": "https://www.mercadonegro.pe/marketing/argentina-inglaterra-mundial-2026/",
         "volumen": null,
         "orden": 4,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/MV5BNjAyNGMwMjktNTkzYy00MzZmLWJiOTUtNWQ2NjUyZTJiYmZiXkEyXkFqcGc@._V1_FMjpg_UX1000_-708x1024.jpg"
+        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/image-104-1024x768.png"
       },
       {
         "fuente": "RoastBrief",
-        "tema": "Venue Brand Experience desarrolla tecnología propia para operar eventos con datos en tiempo real",
-        "link": "https://roastbrief.com.mx/2026/07/venue-brand-experience-desarrolla-tecnologia-propia-para-operar-eventos-con-datos-en-tiempo-real/",
+        "tema": "La temporada de lluvias se vino con todo, y Fester junto con Archer Troy presentan su nueva campaña",
+        "link": "https://roastbrief.com.mx/2026/07/la-temporada-de-lluvias-se-vino-con-todo-y-fester-junto-con-archer-troy-presentan-su-nueva-campana/",
         "volumen": null,
         "orden": 1,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://roastbrief.com.mx/wp-content/uploads/2026/07/HisenseFFFDia1-1-1.jpg"
+        "imagen": "https://www.youtube.com/embed/jx7GK40MI4U"
       },
       {
         "fuente": "RoastBrief",
-        "tema": "Cannes Lions 2026 y la fuerza creativa Iberoamericana",
-        "link": "https://roastbrief.com.mx/2026/07/cannes-lions-2026-y-la-fuerza-creativa-iberoamericana/",
+        "tema": "Chipotle llega a México y estará a prueba del paladar mexicano",
+        "link": "https://roastbrief.com.mx/2026/07/chipotle-llega-a-mexico-y-estara-a-prueba-del-paladar-mexicano/",
         "volumen": null,
         "orden": 2,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://roastbrief.com.mx/wp-content/uploads/2026/07/Portadas-Cuadrado-3.png"
+        "imagen": null
       },
       {
         "fuente": "RoastBrief",
-        "tema": "Anthropic hace de las dudas sobre la inteligencia artificial el centro de su nueva campaña para Claude",
-        "link": "https://roastbrief.com.mx/2026/07/anthropic-hace-de-las-dudas-sobre-la-inteligencia-artificial-el-centro-de-su-nueva-campana-para-claude/",
+        "tema": "Marcas abandonan Ventaneando tras polémica de Pedro Sola",
+        "link": "https://roastbrief.com.mx/2026/07/marcas-abandonan-ventaneando-tras-polemica-de-pedro-sola/",
         "volumen": null,
         "orden": 3,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://www.youtube.com/embed/jVbGX7zJHi8"
+        "imagen": null
       },
       {
         "fuente": "RoastBrief",
-        "tema": "La relevancia cultural no se persigue. Se construye.",
-        "link": "https://roastbrief.com.mx/2026/07/la-relevancia-cultural-no-se-persigue-se-construye/",
+        "tema": "CMO LATAM Awards 2026 anuncia su shortlist oficial con más de 40 líderes de marketing de la región",
+        "link": "https://roastbrief.com.mx/2026/07/cmo-latam-awards-2026-anuncia-su-shortlist-oficial-con-mas-de-40-lideres-de-marketing-de-la-region/",
         "volumen": null,
         "orden": 4,
         "sensible": false,
@@ -697,50 +796,6 @@
     "detalle": "",
     "items": [
       {
-        "fuente": "2015",
-        "tema": "Máximo acercamiento de la sonda espacial New Horizons a Plutón, la primera en visitar dicho planeta enano.",
-        "link": "https://es.wikipedia.org/wiki/New_Horizons",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 14/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PIA19703-PlutoFlyby-NewHorizons-ArtistConcept-20150709.jpg/330px-PIA19703-PlutoFlyby-NewHorizons-ArtistConcept-20150709.jpg"
-      },
-      {
-        "fuente": "1913",
-        "tema": "Nace Gerald Ford, presidente de los Estados Unidos entre 1974 y 1977.",
-        "link": "https://es.wikipedia.org/wiki/Gerald_Ford",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 14/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg/330px-Gerald_Ford_presidential_portrait_%28cropped%29.jpg"
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día Mundial del Chimpancé",
-        "link": "",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 14/07",
-        "imagen": null
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día Mundial de la Orca",
-        "link": "https://es.wikipedia.org/wiki/Orcinus_orca",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 14/07",
-        "imagen": null
-      },
-      {
         "fuente": "1997",
         "tema": "Muere Gianni Versace, estilista italiano.",
         "link": "https://es.wikipedia.org/wiki/Gianni_Versace",
@@ -748,7 +803,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "miércoles 15/07",
+        "grupo": "Hoy · 15/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cosmetics.JPG/330px-Cosmetics.JPG"
       },
       {
@@ -759,7 +814,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "miércoles 15/07",
+        "grupo": "Hoy · 15/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/William_Boeing.jpg/330px-William_Boeing.jpg"
       },
       {
@@ -770,7 +825,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "miércoles 15/07",
+        "grupo": "Hoy · 15/07",
         "imagen": null
       },
       {
@@ -781,7 +836,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "miércoles 15/07",
+        "grupo": "Hoy · 15/07",
         "imagen": null
       },
       {
@@ -917,13 +972,46 @@
         "imagen": null
       },
       {
-        "fuente": "Efemérides",
-        "tema": "⚠️ La fuente falló: domingo 19/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/19",
-        "link": "",
+        "fuente": "1979",
+        "tema": "En Nicaragua los guerrilleros del Frente Sandinista de Liberación Nacional (FSLN) derrocan a la dictadura de la familia Somoza.",
+        "link": "https://es.wikipedia.org/wiki/Nicaragua",
         "volumen": null,
         "orden": null,
         "sensible": false,
-        "error": true,
+        "error": false,
+        "grupo": "domingo 19/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/langes-330px-Flag_of_Nicaragua.svg.png"
+      },
+      {
+        "fuente": "1835",
+        "tema": "Nace Justo Rufino Barrios (en la imagen), abogado y militar, presidente de Guatemala de 1873 a 1885.",
+        "link": "https://es.wikipedia.org/wiki/Justo_Rufino_Barrios",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "domingo 19/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Justo_Rufino_Barrios_Auy%C3%B3n.jpg/330px-Justo_Rufino_Barrios_Auy%C3%B3n.jpg"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día de Iberoamérica",
+        "link": "https://es.wikipedia.org/wiki/Iberoam%C3%A9rica",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "domingo 19/07",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial de Sacar la Lengua",
+        "link": "https://es.wikipedia.org/wiki/Lengua_(anatom%C3%ADa)",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
         "grupo": "domingo 19/07",
         "imagen": null
       },
@@ -936,6 +1024,17 @@
         "sensible": false,
         "error": true,
         "grupo": "lunes 20/07",
+        "imagen": null
+      },
+      {
+        "fuente": "Efemérides",
+        "tema": "⚠️ La fuente falló: martes 21/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/21",
+        "link": "",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": true,
+        "grupo": "martes 21/07",
         "imagen": null
       }
     ]
