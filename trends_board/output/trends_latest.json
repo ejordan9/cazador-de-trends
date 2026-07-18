@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-07-17",
-  "generado": "2026-07-17T14:15:17+00:00",
+  "fecha": "2026-07-18",
+  "generado": "2026-07-18T14:00:17+00:00",
   "fuentes": [
     {
       "fuente": "X Chile",
@@ -20,8 +20,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#Temporal",
-          "link": "https://x.com/search?q=%23Temporal&src=trend_click",
+          "tema": "#lluvia",
+          "link": "https://x.com/search?q=%23lluvia&src=trend_click",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -31,8 +31,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#lluvia",
-          "link": "https://x.com/search?q=%23lluvia&src=trend_click",
+          "tema": "#Temporal",
+          "link": "https://x.com/search?q=%23Temporal&src=trend_click",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -42,10 +42,21 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Argentina",
-          "link": "https://x.com/search?q=Argentina&src=trend_click",
+          "tema": "#AuraBangkokClinicxLenaMiu",
+          "link": "https://x.com/search?q=%23AuraBangkokClinicxLenaMiu&src=trend_click",
           "volumen": null,
           "orden": 4,
+          "sensible": false,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "LENAMIU PRESENTER AURA",
+          "link": "https://x.com/search?q=LENAMIU%20PRESENTER%20AURA&src=trend_click",
+          "volumen": null,
+          "orden": 5,
           "sensible": false,
           "error": false,
           "grupo": null,
@@ -56,17 +67,6 @@
           "tema": "EMANUEL AL 9009",
           "link": "https://x.com/search?q=EMANUEL%20AL%209009&src=trend_click",
           "volumen": null,
-          "orden": 5,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "X Chile",
-          "tema": "Angie",
-          "link": "https://x.com/search?q=Angie&src=trend_click",
-          "volumen": null,
           "orden": 6,
           "sensible": false,
           "error": false,
@@ -75,8 +75,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#BTS_NORMAL",
-          "link": "https://x.com/search?q=%23BTS_NORMAL&src=trend_click",
+          "tema": "#ChileSeCuida",
+          "link": "https://x.com/search?q=%23ChileSeCuida&src=trend_click",
           "volumen": null,
           "orden": 7,
           "sensible": false,
@@ -86,8 +86,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Santiago",
-          "link": "https://x.com/search?q=Santiago&src=trend_click",
+          "tema": "Vozinha",
+          "link": "https://x.com/search?q=Vozinha&src=trend_click",
           "volumen": null,
           "orden": 8,
           "sensible": false,
@@ -97,8 +97,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Tuchel",
-          "link": "https://x.com/search?q=Tuchel&src=trend_click",
+          "tema": "Lo Espejo",
+          "link": "https://x.com/search?q=Lo%20Espejo&src=trend_click",
           "volumen": null,
           "orden": 9,
           "sensible": false,
@@ -108,8 +108,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Inglaterra",
-          "link": "https://x.com/search?q=Inglaterra&src=trend_click",
+          "tema": "Alto del Carmen",
+          "link": "https://x.com/search?q=Alto%20del%20Carmen&src=trend_click",
           "volumen": null,
           "orden": 10,
           "sensible": false,
@@ -126,9 +126,9 @@
       "items": [
         {
           "fuente": "Google Trends Chile",
-          "tema": "la reina",
-          "link": "https://www.google.com/search?q=la%20reina",
-          "volumen": "100+",
+          "tema": "suspensión de clases",
+          "link": "https://www.google.com/search?q=suspensi%C3%B3n%20de%20clases",
+          "volumen": "1000+",
           "orden": 1,
           "sensible": false,
           "error": false,
@@ -137,8 +137,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "brenda fricker",
-          "link": "https://www.google.com/search?q=brenda%20fricker",
+          "tema": "tiempo hoy",
+          "link": "https://www.google.com/search?q=tiempo%20hoy",
           "volumen": "200+",
           "orden": 2,
           "sensible": false,
@@ -148,8 +148,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "canal santa marta",
-          "link": "https://www.google.com/search?q=canal%20santa%20marta",
+          "tema": "dundee - everton",
+          "link": "https://www.google.com/search?q=dundee%20-%20everton",
           "volumen": "200+",
           "orden": 3,
           "sensible": false,
@@ -159,8 +159,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "río mapocho",
-          "link": "https://www.google.com/search?q=r%C3%ADo%20mapocho",
+          "tema": "congreso",
+          "link": "https://www.google.com/search?q=congreso",
           "volumen": "100+",
           "orden": 4,
           "sensible": false,
@@ -170,9 +170,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "la tercera",
-          "link": "https://www.google.com/search?q=la%20tercera",
-          "volumen": "200+",
+          "tema": "senapred",
+          "link": "https://www.google.com/search?q=senapred",
+          "volumen": "500+",
           "orden": 5,
           "sensible": false,
           "error": false,
@@ -181,9 +181,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "casper ruud",
-          "link": "https://www.google.com/search?q=casper%20ruud",
-          "volumen": "100+",
+          "tema": "basel - juventus",
+          "link": "https://www.google.com/search?q=basel%20-%20juventus",
+          "volumen": "500+",
           "orden": 6,
           "sensible": false,
           "error": false,
@@ -192,9 +192,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "outlook",
-          "link": "https://www.google.com/search?q=outlook",
-          "volumen": "1000+",
+          "tema": "clima viña del mar",
+          "link": "https://www.google.com/search?q=clima%20vi%C3%B1a%20del%20mar",
+          "volumen": "200+",
           "orden": 7,
           "sensible": false,
           "error": false,
@@ -203,9 +203,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "radio",
-          "link": "https://www.google.com/search?q=radio",
-          "volumen": "100+",
+          "tema": "clima santiago",
+          "link": "https://www.google.com/search?q=clima%20santiago",
+          "volumen": "2000+",
           "orden": 8,
           "sensible": false,
           "error": false,
@@ -214,9 +214,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "la odisea película christopher nolan",
-          "link": "https://www.google.com/search?q=la%20odisea%20pel%C3%ADcula%20christopher%20nolan",
-          "volumen": "2000+",
+          "tema": "nordea open",
+          "link": "https://www.google.com/search?q=nordea%20open",
+          "volumen": "100+",
           "orden": 9,
           "sensible": false,
           "error": false,
@@ -225,9 +225,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "teams",
-          "link": "https://www.google.com/search?q=teams",
-          "volumen": "200+",
+          "tema": "tabilo",
+          "link": "https://www.google.com/search?q=tabilo",
+          "volumen": "1000+",
           "orden": 10,
           "sensible": false,
           "error": false,
@@ -243,8 +243,8 @@
       "items": [
         {
           "fuente": "r/chile",
-          "tema": "Grúa cayó sobre casas en Coquimbo por fuertes vientos",
-          "link": "https://www.reddit.com/r/chile/comments/1uyl5dj/grúa_cayó_sobre_casas_en_coquimbo_por_fuertes/",
+          "tema": "18 de julio de 2023: Orejón dejó el mundo terrenal hace tres años",
+          "link": "https://www.reddit.com/r/chile/comments/1uzlxeq/18_de_julio_de_2023_orejón_dejó_el_mundo_terrenal/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -254,8 +254,8 @@
         },
         {
           "fuente": "r/RepublicadeChile",
-          "tema": "Héroe sin capa",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uymlgt/héroe_sin_capa/",
+          "tema": "Jefe SIMP cagó su negocio",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uzncgx/jefe_simp_cagó_su_negocio/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -265,8 +265,8 @@
         },
         {
           "fuente": "r/RepublicadeChile",
-          "tema": "Yo HACIENDO LO QUE SE HACER mientras como SOPAIPILLAS CON MOSTAZA y CALIBRANDO mi guitarra y PASANDOLA BACAN junto a mi MUJER ROBUSTA la cual se esta tomando un COPETE y se ENOJA POR TODO y ME DEBE PLATA",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uyyjtr/yo_haciendo_lo_que_se_hacer_mientras_como/",
+          "tema": "Te invitan a almorzar y te sirven higado encebollado, que dirías?",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uzmqqx/te_invitan_a_almorzar_y_te_sirven_higado/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -276,8 +276,8 @@
         },
         {
           "fuente": "r/chile",
-          "tema": "Pregunta seria... que da mas miedo: El viento o los terremotos.",
-          "link": "https://www.reddit.com/r/chile/comments/1uyts1k/pregunta_seria_que_da_mas_miedo_el_viento_o_los/",
+          "tema": "Actualización sobre lo del prácticante evangélico",
+          "link": "https://www.reddit.com/r/chile/comments/1uzeu7u/actualización_sobre_lo_del_prácticante_evangélico/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -287,8 +287,8 @@
         },
         {
           "fuente": "r/chile",
-          "tema": "¿Qué onda los evangélicos?",
-          "link": "https://www.reddit.com/r/chile/comments/1uya1gd/qué_onda_los_evangélicos/",
+          "tema": "Los terrenos de Macul que guardan un secreto de hace 50 años: salen a la venta predios donde se investiga el destino de hasta 30 víctimas de la dictadura | The Clinic",
+          "link": "https://www.reddit.com/r/chile/comments/1uzvlh1/los_terrenos_de_macul_que_guardan_un_secreto_de/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -342,8 +342,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "So tired of justifying Marketing’s existence",
-          "link": "https://www.reddit.com/r/marketing/comments/1uxvorb/so_tired_of_justifying_marketings_existence/",
+          "tema": "Struggling to reach technology specific audience",
+          "link": "https://www.reddit.com/r/marketing/comments/1uz7wyc/struggling_to_reach_technology_specific_audience/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -353,10 +353,32 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What is going on with the president's election speech?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uyjsow/what_is_going_on_with_the_presidents_election/",
+          "tema": "What's up with the controversy surrounding JD Vance going on Joe Rogan's show?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uzeopq/whats_up_with_the_controversy_surrounding_jd/",
           "volumen": null,
           "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "Whats the deal with the \"Wordle Devs\" thing?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uzlwk9/whats_the_deal_with_the_wordle_devs_thing/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What's going on with people saying Google Search has gotten so much worse?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uz4xou/whats_going_on_with_people_saying_google_search/",
+          "volumen": null,
+          "orden": 3,
           "sensible": false,
           "error": false,
           "grupo": "Out of the Loop",
@@ -367,28 +389,6 @@
           "tema": "What's going on with people saying Trump released documents yesterday that disucss Russian election interference?",
           "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uyxv82/whats_going_on_with_people_saying_trump_released/",
           "volumen": null,
-          "orden": 2,
-          "sensible": false,
-          "error": false,
-          "grupo": "Out of the Loop",
-          "imagen": null
-        },
-        {
-          "fuente": "r/OutOfTheLoop",
-          "tema": "What's the deal with Prescription Drug Affordability Boards (PDABs)?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uyve6i/whats_the_deal_with_prescription_drug/",
-          "volumen": null,
-          "orden": 3,
-          "sensible": false,
-          "error": false,
-          "grupo": "Out of the Loop",
-          "imagen": null
-        },
-        {
-          "fuente": "r/OutOfTheLoop",
-          "tema": "What’s going on with this explosive diarrhea thing? Should I be changing my habits?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uxrxn3/whats_going_on_with_this_explosive_diarrhea_thing/",
-          "volumen": null,
           "orden": 4,
           "sensible": false,
           "error": false,
@@ -397,30 +397,30 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What’s up with Grand Staircase-Escalante National Monument?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uy4w2s/whats_up_with_grand_staircaseescalante_national/",
+          "tema": "What is going on with the president's election speech?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uyjsow/what_is_going_on_with_the_presidents_election/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
           "error": false,
           "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/memes",
+          "tema": "Marx would use MY distro!",
+          "link": "https://www.reddit.com/r/memes/comments/1uztcve/marx_would_use_my_distro/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Viral",
           "imagen": null
         },
         {
           "fuente": "r/TikTokCringe",
-          "tema": "I wasn’t expecting to see a mosquito graveyard lol.",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uyvr3a/i_wasnt_expecting_to_see_a_mosquito_graveyard_lol/",
-          "volumen": null,
-          "orden": 1,
-          "sensible": false,
-          "error": false,
-          "grupo": "Viral",
-          "imagen": null
-        },
-        {
-          "fuente": "r/memes",
-          "tema": "When the author becomes the final boss",
-          "link": "https://www.reddit.com/r/memes/comments/1uyr7ge/when_the_author_becomes_the_final_boss/",
+          "tema": "this is a banger",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uzrufv/this_is_a_banger/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -430,8 +430,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "Time to overcome my fear 😬",
-          "link": "https://www.reddit.com/r/memes/comments/1uytzj3/time_to_overcome_my_fear/",
+          "tema": "Finally a good reason",
+          "link": "https://www.reddit.com/r/memes/comments/1uzk3aj/finally_a_good_reason/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -441,8 +441,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "Undoubtedly true",
-          "link": "https://www.reddit.com/r/memes/comments/1uysk1x/undoubtedly_true/",
+          "tema": "his part of share",
+          "link": "https://www.reddit.com/r/memes/comments/1uzrlva/his_part_of_share/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -451,9 +451,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/memes",
-          "tema": "Government and it's priorities",
-          "link": "https://www.reddit.com/r/memes/comments/1uywllh/government_and_its_priorities/",
+          "fuente": "r/TikTokCringe",
+          "tema": "Sleep paralysis demon.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uzul9f/sleep_paralysis_demon/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -462,11 +462,33 @@
           "imagen": null
         },
         {
-          "fuente": "r/popculturechat",
-          "tema": "Javier Bardem sends message to Palestine: \"Existence is resistance\"",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1uykoy1/javier_bardem_sends_message_to_palestine/",
+          "fuente": "r/Millennials",
+          "tema": "What books got you into reading as a kid?",
+          "link": "https://www.reddit.com/r/Millennials/comments/1uzvds8/what_books_got_you_into_reading_as_a_kid/",
           "volumen": null,
           "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/popculturechat",
+          "tema": "In honor of the Odyssey, can we take a moment to acknowledge that Joshua Jackson has dated two Helen’s of Troy?",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uzfjxx/in_honor_of_the_odyssey_can_we_take_a_moment_to/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Cultura & Generaciones",
+          "imagen": null
+        },
+        {
+          "fuente": "r/GenZ",
+          "tema": "FaMiLy VaLuEs",
+          "link": "https://www.reddit.com/r/GenZ/comments/1uztdbm/family_values/",
+          "volumen": null,
+          "orden": 3,
           "sensible": false,
           "error": false,
           "grupo": "Cultura & Generaciones",
@@ -474,30 +496,8 @@
         },
         {
           "fuente": "r/Millennials",
-          "tema": "You knew this movie was about to be amazing the second this logo appeared. What's the first movie you remember seeing with it?",
-          "link": "https://www.reddit.com/r/Millennials/comments/1uyx6gl/you_knew_this_movie_was_about_to_be_amazing_the/",
-          "volumen": null,
-          "orden": 2,
-          "sensible": false,
-          "error": false,
-          "grupo": "Cultura & Generaciones",
-          "imagen": null
-        },
-        {
-          "fuente": "r/GenZ",
-          "tema": "Hey yall, how long we gonna let them lie in our face about this??",
-          "link": "https://www.reddit.com/r/GenZ/comments/1uy8f4n/hey_yall_how_long_we_gonna_let_them_lie_in_our/",
-          "volumen": null,
-          "orden": 3,
-          "sensible": false,
-          "error": false,
-          "grupo": "Cultura & Generaciones",
-          "imagen": null
-        },
-        {
-          "fuente": "r/popculturechat",
-          "tema": "14 years ago this year since Psy's 'Gangnam Style' song became a worldwide hit.",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1uyx6r3/14_years_ago_this_year_since_psys_gangnam_style/",
+          "tema": "Who else still says \"Ain't nobody got time for that\" over a decade later?",
+          "link": "https://www.reddit.com/r/Millennials/comments/1uzfkfj/who_else_still_says_aint_nobody_got_time_for_that/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -506,9 +506,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/GenZ",
-          "tema": "Didn’t expect this to be so interesting",
-          "link": "https://www.reddit.com/r/GenZ/comments/1uyghfe/didnt_expect_this_to_be_so_interesting/",
+          "fuente": "r/popculturechat",
+          "tema": "Brian Cox on why he isn’t afraid of backlash for supporting Palestinians : “I’m too old, too tired, and too talented quite frankly to take any sh*t”",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1uzgb73/brian_cox_on_why_he_isnt_afraid_of_backlash_for/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -522,14 +522,36 @@
   "noticias": {
     "fuente": "Noticias",
     "ok": true,
-    "detalle": "",
+    "detalle": "feeds caídos: Puro Merca",
     "items": [
+      {
+        "fuente": "Think with Google",
+        "tema": "From prompting to directing: Google DeepMind on the future of creativity",
+        "link": "https://www.thinkwithgoogle.com/marketing-strategies/automation/creative-control-ai/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "volumen": null,
+        "orden": 1,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://storage.googleapis.com/twg-content/images/1600_x_900_-_From_Prompting_to_Directing.width-600.jpg"
+      },
+      {
+        "fuente": "Think with Google",
+        "tema": "Overheard at Cannes: Frontier CMOs share how they implement AI",
+        "link": "https://www.thinkwithgoogle.com/marketing-strategies/automation/cannes-ai-implementation-for-cmos/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "volumen": null,
+        "orden": 2,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://storage.googleapis.com/twg-content/images/TwG_US_2836_-_Overheard_at_Cannes__How_CMOs_Ar.width-600.png"
+      },
       {
         "fuente": "Think with Google",
         "tema": "How to build YouTube creator campaigns that drive business results",
         "link": "https://www.thinkwithgoogle.com/marketing-strategies/video/youtube-creator-campaign-playbook/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
         "volumen": null,
-        "orden": 1,
+        "orden": 3,
         "sensible": false,
         "error": false,
         "grupo": null,
@@ -540,33 +562,11 @@
         "tema": "How e.l.f. Cosmetics and Viral Nation turn community trust into real growth",
         "link": "https://www.thinkwithgoogle.com/marketing-strategies/video/elf-cosmetics-influencer-marketing-brand-lift/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
         "volumen": null,
-        "orden": 2,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://storage.googleapis.com/twg-content/images/TwG-US-2805---How-e.l.f.-Beauty-turns-communit.width-600.png"
-      },
-      {
-        "fuente": "Think with Google",
-        "tema": "Inside the anatomy of a cultural moment on YouTube",
-        "link": "https://business.google.com/us/think/search-and-video/youtube-analysis-cultural-moments-roi/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
-        "volumen": null,
-        "orden": 3,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://storage.googleapis.com/twg-content/images/TwG-US-2840---Anatomy-of-a-Moment-on-YT---Dise.width-600.jpg"
-      },
-      {
-        "fuente": "Think with Google",
-        "tema": "How visionary agencies and brands use AI to bring impossible ideas to life",
-        "link": "https://business.google.com/us/think/ai-excellence/ai-in-marketing-impossible-ideas/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
-        "volumen": null,
         "orden": 4,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://storage.googleapis.com/twg-content/images/TwG-US-2828---Lighthouse-Program-AI-x-Creativi.width-600.jpg"
+        "imagen": "https://storage.googleapis.com/twg-content/images/TwG-US-2805---How-e.l.f.-Beauty-turns-communit.width-600.png"
       },
       {
         "fuente": "La Criatura Creativa",
@@ -657,97 +657,64 @@
         "imagen": "https://jfdigital.es/wp-content/uploads/2026/05/geo-seo.png"
       },
       {
-        "fuente": "Puro Merca",
-        "tema": "Coca-Cola® quiere que vivas el Mundial y tiene un rally preparado para ti…",
-        "link": "https://puromerca.com/rally-mundialista-coca-cola-2026-guadalajara-monterrey/",
+        "fuente": "Noticias",
+        "tema": "⚠️ La fuente falló: Puro Merca: not well-formed (invalid token): line 1, column 119",
+        "link": "",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": true,
+        "grupo": "Puro Merca",
+        "imagen": null
+      },
+      {
+        "fuente": "Mercado Negro PE",
+        "tema": "«The Sun Cover»: la campaña que transforma fundas de libros en protectores solares",
+        "link": "https://www.mercadonegro.pe/publicidad/the-sun-cover/",
         "volumen": null,
         "orden": 1,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/YDRAY-RALLY_COCACOLA_ESTATICOS_BACK_DE_TV_-1920x1080-1-1024x576.png"
+        "imagen": "https://www.reasonwhy.es/media/library/melanoma-canada-suncover-2.jpg"
       },
       {
-        "fuente": "Puro Merca",
-        "tema": "¡Qué chorpresa! Así es cómo Vualá convirtió la nostalgia del Chavo del 8 en un premio nacional",
-        "link": "https://puromerca.com/vuala-chorpresa-chavo-del-8-iab-mixx-2026/",
+        "fuente": "Mercado Negro PE",
+        "tema": "Final del Mundial 2026: Mostaza lanza indirecta a McDonald’s por sus colores parecidos a los de la selección de España",
+        "link": "https://www.mercadonegro.pe/actualidad/mostaza-mcdonalds-argentina-espana/",
         "volumen": null,
         "orden": 2,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3ad.png"
+        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-17-171925.png"
       },
       {
-        "fuente": "Puro Merca",
-        "tema": "Doritos® está llegando al Mundial 2026 sin hablar directamente del futbol.",
-        "link": "https://puromerca.com/doritos-mundial-2026-after-musica/",
+        "fuente": "Mercado Negro PE",
+        "tema": "Kodak revive la fotografía analógica con la nueva y compacta EC35",
+        "link": "https://www.mercadonegro.pe/actualidad/kodak-ec35/",
         "volumen": null,
         "orden": 3,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_Jungle-240x300.png"
+        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/BC_06136_2-scaled-1-683x1024.webp"
       },
       {
-        "fuente": "Puro Merca",
-        "tema": "mixi, la marca que sabe de gatos y acaba de convertirse en el alimento oficial de la Selección Nacional",
-        "link": "https://puromerca.com/mixi-alimento-oficial-seleccion-nacional/",
+        "fuente": "Mercado Negro PE",
+        "tema": "El «gato Cucurella» llega a Google: así luce el nuevo easter egg del buscador",
+        "link": "https://www.mercadonegro.pe/marketing/gato-cucurella-google-easter-egg/",
         "volumen": null,
         "orden": 4,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": null
-      },
-      {
-        "fuente": "Mercado Negro PE",
-        "tema": "Río de Janeiro prohíbe la publicidad exterior de las casas de apuestas",
-        "link": "https://www.mercadonegro.pe/actualidad/rio-de-janeiro-ooh-de-bets/",
-        "volumen": null,
-        "orden": 1,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": null
-      },
-      {
-        "fuente": "Mercado Negro PE",
-        "tema": "Friends vuelve con una colección que convierte sus escenas más icónicas en maquillaje",
-        "link": "https://www.mercadonegro.pe/marketing/friends-coleccion-maquillaje/",
-        "volumen": null,
-        "orden": 2,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/aquela-temporada-em-que-a-make-e-iconica-TA-NO-AR-pegue-seu-cafe-e-vem-conhecer-os-detalhes-da--821x1024.jpg"
-      },
-      {
-        "fuente": "Mercado Negro PE",
-        "tema": "KitKat acelera en la Fórmula 1 con una edición especial junto a Gabriel Bortoleto",
-        "link": "https://www.mercadonegro.pe/actualidad/lanzamientos/kitkat-f1-bortoleto/",
-        "volumen": null,
-        "orden": 3,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/Portada-2026-07-16T161221.388.png"
-      },
-      {
-        "fuente": "Mercado Negro PE",
-        "tema": "Binghatti revive su campaña con Terry Crews recreando la icónica escena de «¿Y dónde están las rubias?»",
-        "link": "https://www.mercadonegro.pe/marketing/terry-crews-white-chicks/",
-        "volumen": null,
-        "orden": 4,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-16-161332-1024x576.png"
+        "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/image-140.png"
       },
       {
         "fuente": "RoastBrief",
-        "tema": "Cannes Lions 2026: Confirmaciones, relevancia cultural y el ascenso de Social & Creator por Santi Lucero",
-        "link": "https://roastbrief.com.mx/2026/07/cannes-lions-2026-confirmaciones-relevancia-cultural-y-el-ascenso-de-social-creator-por-santi-lucero/",
+        "tema": "Como si fuera una película, la FIFA lanza tráiler de la final del Mundial 2026",
+        "link": "https://roastbrief.com.mx/2026/07/como-si-fuera-una-pelicula-la-fifa-lanza-trailer-de-la-final-del-mundial-2026/",
         "volumen": null,
         "orden": 1,
         "sensible": false,
@@ -757,30 +724,30 @@
       },
       {
         "fuente": "RoastBrief",
-        "tema": "Lo que vimos en la primera mitad del 2026 en Netflix",
-        "link": "https://roastbrief.com.mx/2026/07/lo-que-vimos-en-la-primera-mitad-del-2026-en-netflix/",
+        "tema": "La campaña «Lucky Losers» de Chispa convirtió la desilusión futbolera en la oportunidad de tener suerte en el amor",
+        "link": "https://roastbrief.com.mx/2026/07/la-campana-lucky-losers-de-chispa-convirtio-la-desilusion-futbolera-en-la-oportunidad-de-tener-suerte-en-el-amor/",
         "volumen": null,
         "orden": 2,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://roastbrief.com.mx/wp-content/uploads/2026/07/unnamed-1-1.jpg"
+        "imagen": "https://www.youtube.com/embed/PyhCB52b4lU"
       },
       {
         "fuente": "RoastBrief",
-        "tema": "«Hijos de sangre y hueso» revela sus primeras imágenes y anuncia su estreno en cines e IMAX para 2027",
-        "link": "https://roastbrief.com.mx/2026/07/hijos-de-sangre-y-hueso-revela-sus-primeras-imagenes-y-anuncia-su-estreno-en-cines-e-imax-para-2027/",
+        "tema": "Dr. Simi apuesta por el crédito y convierte la salud en una estrategia de fidelización",
+        "link": "https://roastbrief.com.mx/2026/07/dr-simi-apuesta-por-el-credito-y-convierte-la-salud-en-una-estrategia-de-fidelizacion/",
         "volumen": null,
         "orden": 3,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://roastbrief.com.mx/wp-content/uploads/2026/07/image001-1.jpg"
+        "imagen": null
       },
       {
         "fuente": "RoastBrief",
-        "tema": "Efectividad más allá de los números: La perspectiva del anunciante en el Jurado Effie",
-        "link": "https://roastbrief.com.mx/2026/07/efectividad-mas-alla-de-los-numeros-la-perspectiva-del-anunciante-en-el-jurado-effie/",
+        "tema": "El Ojo de Iberoamérica anuncia la apertura de las inscripciones 2026",
+        "link": "https://roastbrief.com.mx/2026/07/el-ojo-de-iberoamerica-anuncia-la-apertura-de-las-inscripciones-2026/",
         "volumen": null,
         "orden": 4,
         "sensible": false,
@@ -796,50 +763,6 @@
     "detalle": "",
     "items": [
       {
-        "fuente": "1945",
-        "tema": "Se inicia la Conferencia de Potsdam entre los líderes aliados Winston Churchill, Harry S. Truman y Iósif Stalin, para decidir el futuro de Alemania tras su derrota en la Segunda Guerra Mundial.",
-        "link": "https://es.wikipedia.org/wiki/Conferencia_de_Potsdam",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 17/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundesarchiv_Bild_183-R86965%2C_Potsdamer_Konferenz%2C_Gruppenbild.jpg/330px-Bundesarchiv_Bild_183-R86965%2C_Potsdamer_Konferenz%2C_Gruppenbild.jpg"
-      },
-      {
-        "fuente": "1911",
-        "tema": "Muere Rufino José Cuervo (en la imagen), filólogo, humanista y erudito colombiano.",
-        "link": "https://es.wikipedia.org/wiki/Rufino_Jos%C3%A9_Cuervo",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 17/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fi_314_Cuervo%2C_Rufino_Jos%C3%A9.jpg/330px-Fi_314_Cuervo%2C_Rufino_Jos%C3%A9.jpg"
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día Mundial de la Justicia Internacional",
-        "link": "https://es.wikipedia.org/wiki/Estatuto_de_Roma",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 17/07",
-        "imagen": null
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día Internacional del Tatuaje",
-        "link": "https://es.wikipedia.org/wiki/Tatuaje",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 17/07",
-        "imagen": null
-      },
-      {
         "fuente": "1936",
         "tema": "Se produce el golpe de Estado contra el Gobierno de la Segunda República española, dando comienzo a la Guerra Civil Española.",
         "link": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Espa%C3%B1a_de_julio_de_1936",
@@ -847,7 +770,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "sábado 18/07",
+        "grupo": "Hoy · 18/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Spanish_Civil_War_front_July_1936_%28Spanish%29.svg/langes-330px-Spanish_Civil_War_front_July_1936_%28Spanish%29.svg.png"
       },
       {
@@ -858,7 +781,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "sábado 18/07",
+        "grupo": "Hoy · 18/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nelson_Mandela_1994_%282%29.jpg/330px-Nelson_Mandela_1994_%282%29.jpg"
       },
       {
@@ -869,7 +792,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "sábado 18/07",
+        "grupo": "Hoy · 18/07",
         "imagen": null
       },
       {
@@ -880,7 +803,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "sábado 18/07",
+        "grupo": "Hoy · 18/07",
         "imagen": null
       },
       {
@@ -1016,13 +939,46 @@
         "imagen": null
       },
       {
-        "fuente": "Efemérides",
-        "tema": "⚠️ La fuente falló: miércoles 22/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/22",
-        "link": "",
+        "fuente": "1990",
+        "tema": "Muere Manuel Puig, escritor argentino, conocido fundamentalmente por sus novelas Boquitas pintadas y El beso de la mujer araña.",
+        "link": "https://es.wikipedia.org/wiki/Manuel_Puig",
         "volumen": null,
         "orden": null,
         "sensible": false,
-        "error": true,
+        "error": false,
+        "grupo": "miércoles 22/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Manuel_Puig%2C_1979_%28cropped%29.jpg/330px-Manuel_Puig%2C_1979_%28cropped%29.jpg"
+      },
+      {
+        "fuente": "1932",
+        "tema": "Nace Óscar de la Renta, diseñador de modas domínico-estadounidense.",
+        "link": "https://es.wikipedia.org/wiki/%C3%93scar_de_la_Renta",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "miércoles 22/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oscar_de_la_Renta.jpg/330px-Oscar_de_la_Renta.jpg"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Internacional del Trabajo Doméstico",
+        "link": "https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_del_Trabajo_Dom%C3%A9stico",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "miércoles 22/07",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial Contra la Minería a Cielo Abierto",
+        "link": "https://es.wikipedia.org/wiki/Mina_a_cielo_abierto",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
         "grupo": "miércoles 22/07",
         "imagen": null
       },
@@ -1035,6 +991,17 @@
         "sensible": false,
         "error": true,
         "grupo": "jueves 23/07",
+        "imagen": null
+      },
+      {
+        "fuente": "Efemérides",
+        "tema": "⚠️ La fuente falló: viernes 24/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/24",
+        "link": "",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": true,
+        "grupo": "viernes 24/07",
         "imagen": null
       }
     ]
