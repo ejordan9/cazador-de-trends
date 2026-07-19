@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-07-18",
-  "generado": "2026-07-18T14:00:17+00:00",
+  "fecha": "2026-07-19",
+  "generado": "2026-07-19T14:04:20+00:00",
   "fuentes": [
     {
       "fuente": "X Chile",
@@ -20,8 +20,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#lluvia",
-          "link": "https://x.com/search?q=%23lluvia&src=trend_click",
+          "tema": "#LingOrmPhuketFanMeet",
+          "link": "https://x.com/search?q=%23LingOrmPhuketFanMeet&src=trend_click",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -31,8 +31,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#Temporal",
-          "link": "https://x.com/search?q=%23Temporal&src=trend_click",
+          "tema": "LINGORM THAILAND FANTOUR",
+          "link": "https://x.com/search?q=LINGORM%20THAILAND%20FANTOUR&src=trend_click",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -42,10 +42,21 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#AuraBangkokClinicxLenaMiu",
-          "link": "https://x.com/search?q=%23AuraBangkokClinicxLenaMiu&src=trend_click",
+          "tema": "Carabineros",
+          "link": "https://x.com/search?q=Carabineros&src=trend_click",
           "volumen": null,
           "orden": 4,
+          "sensible": true,
+          "error": false,
+          "grupo": null,
+          "imagen": null
+        },
+        {
+          "fuente": "X Chile",
+          "tema": "#Francia",
+          "link": "https://x.com/search?q=%23Francia&src=trend_click",
+          "volumen": null,
+          "orden": 5,
           "sensible": false,
           "error": false,
           "grupo": null,
@@ -53,10 +64,10 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "LENAMIU PRESENTER AURA",
-          "link": "https://x.com/search?q=LENAMIU%20PRESENTER%20AURA&src=trend_click",
+          "tema": "Ovalle",
+          "link": "https://x.com/search?q=Ovalle&src=trend_click",
           "volumen": null,
-          "orden": 5,
+          "orden": 6,
           "sensible": false,
           "error": false,
           "grupo": null,
@@ -67,17 +78,6 @@
           "tema": "EMANUEL AL 9009",
           "link": "https://x.com/search?q=EMANUEL%20AL%209009&src=trend_click",
           "volumen": null,
-          "orden": 6,
-          "sensible": false,
-          "error": false,
-          "grupo": null,
-          "imagen": null
-        },
-        {
-          "fuente": "X Chile",
-          "tema": "#ChileSeCuida",
-          "link": "https://x.com/search?q=%23ChileSeCuida&src=trend_click",
-          "volumen": null,
           "orden": 7,
           "sensible": false,
           "error": false,
@@ -86,8 +86,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Vozinha",
-          "link": "https://x.com/search?q=Vozinha&src=trend_click",
+          "tema": "Saka",
+          "link": "https://x.com/search?q=Saka&src=trend_click",
           "volumen": null,
           "orden": 8,
           "sensible": false,
@@ -97,8 +97,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Lo Espejo",
-          "link": "https://x.com/search?q=Lo%20Espejo&src=trend_click",
+          "tema": "Marco Cosme",
+          "link": "https://x.com/search?q=Marco%20Cosme&src=trend_click",
           "volumen": null,
           "orden": 9,
           "sensible": false,
@@ -108,8 +108,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Alto del Carmen",
-          "link": "https://x.com/search?q=Alto%20del%20Carmen&src=trend_click",
+          "tema": "Aquino",
+          "link": "https://x.com/search?q=Aquino&src=trend_click",
           "volumen": null,
           "orden": 10,
           "sensible": false,
@@ -126,9 +126,9 @@
       "items": [
         {
           "fuente": "Google Trends Chile",
-          "tema": "suspensión de clases",
-          "link": "https://www.google.com/search?q=suspensi%C3%B3n%20de%20clases",
-          "volumen": "1000+",
+          "tema": "santiago mele",
+          "link": "https://www.google.com/search?q=santiago%20mele",
+          "volumen": "100+",
           "orden": 1,
           "sensible": false,
           "error": false,
@@ -137,9 +137,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "tiempo hoy",
-          "link": "https://www.google.com/search?q=tiempo%20hoy",
-          "volumen": "200+",
+          "tema": "la cuarta",
+          "link": "https://www.google.com/search?q=la%20cuarta",
+          "volumen": "100+",
           "orden": 2,
           "sensible": false,
           "error": false,
@@ -148,8 +148,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "dundee - everton",
-          "link": "https://www.google.com/search?q=dundee%20-%20everton",
+          "tema": "inundación",
+          "link": "https://www.google.com/search?q=inundaci%C3%B3n",
           "volumen": "200+",
           "orden": 3,
           "sensible": false,
@@ -159,8 +159,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "congreso",
-          "link": "https://www.google.com/search?q=congreso",
+          "tema": "tiempo la serena",
+          "link": "https://www.google.com/search?q=tiempo%20la%20serena",
           "volumen": "100+",
           "orden": 4,
           "sensible": false,
@@ -170,9 +170,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "senapred",
-          "link": "https://www.google.com/search?q=senapred",
-          "volumen": "500+",
+          "tema": "formula 1 hoy",
+          "link": "https://www.google.com/search?q=formula%201%20hoy",
+          "volumen": "200+",
           "orden": 5,
           "sensible": false,
           "error": false,
@@ -181,8 +181,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "basel - juventus",
-          "link": "https://www.google.com/search?q=basel%20-%20juventus",
+          "tema": "tormenta eléctrica",
+          "link": "https://www.google.com/search?q=tormenta%20el%C3%A9ctrica",
           "volumen": "500+",
           "orden": 6,
           "sensible": false,
@@ -192,9 +192,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "clima viña del mar",
-          "link": "https://www.google.com/search?q=clima%20vi%C3%B1a%20del%20mar",
-          "volumen": "200+",
+          "tema": "clima coquimbo",
+          "link": "https://www.google.com/search?q=clima%20coquimbo",
+          "volumen": "100+",
           "orden": 7,
           "sensible": false,
           "error": false,
@@ -203,9 +203,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "clima santiago",
-          "link": "https://www.google.com/search?q=clima%20santiago",
-          "volumen": "2000+",
+          "tema": "coquimbo",
+          "link": "https://www.google.com/search?q=coquimbo",
+          "volumen": "200+",
           "orden": 8,
           "sensible": false,
           "error": false,
@@ -214,9 +214,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "nordea open",
-          "link": "https://www.google.com/search?q=nordea%20open",
-          "volumen": "100+",
+          "tema": "météo",
+          "link": "https://www.google.com/search?q=m%C3%A9t%C3%A9o",
+          "volumen": "200+",
           "orden": 9,
           "sensible": false,
           "error": false,
@@ -225,8 +225,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "tabilo",
-          "link": "https://www.google.com/search?q=tabilo",
+          "tema": "2030",
+          "link": "https://www.google.com/search?q=2030",
           "volumen": "1000+",
           "orden": 10,
           "sensible": false,
@@ -242,9 +242,9 @@
       "detalle": "",
       "items": [
         {
-          "fuente": "r/chile",
-          "tema": "18 de julio de 2023: Orejón dejó el mundo terrenal hace tres años",
-          "link": "https://www.reddit.com/r/chile/comments/1uzlxeq/18_de_julio_de_2023_orejón_dejó_el_mundo_terrenal/",
+          "fuente": "r/RepublicadeChile",
+          "tema": "Harta del especial maratónico 'Chile en alerta' en todos los canales nacionales.",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1v0ik6o/harta_del_especial_maratónico_chile_en_alerta_en/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -253,9 +253,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/RepublicadeChile",
-          "tema": "Jefe SIMP cagó su negocio",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uzncgx/jefe_simp_cagó_su_negocio/",
+          "fuente": "r/chile",
+          "tema": "Siempre hay un chileno",
+          "link": "https://www.reddit.com/r/chile/comments/1v0b425/siempre_hay_un_chileno/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -264,9 +264,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/RepublicadeChile",
-          "tema": "Te invitan a almorzar y te sirven higado encebollado, que dirías?",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1uzmqqx/te_invitan_a_almorzar_y_te_sirven_higado/",
+          "fuente": "r/chile",
+          "tema": "Honestastamente cansada de las citas y gurus de Internet.",
+          "link": "https://www.reddit.com/r/chile/comments/1v0hkj2/honestastamente_cansada_de_las_citas_y_gurus_de/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -276,19 +276,19 @@
         },
         {
           "fuente": "r/chile",
-          "tema": "Actualización sobre lo del prácticante evangélico",
-          "link": "https://www.reddit.com/r/chile/comments/1uzeu7u/actualización_sobre_lo_del_prácticante_evangélico/",
+          "tema": "\"Está en Hawái\": Acusan ausencia de ministro de Defensa en conducción de FFAA en pleno sistema frontal",
+          "link": "https://www.reddit.com/r/chile/comments/1v0cvwx/está_en_hawái_acusan_ausencia_de_ministro_de/",
           "volumen": null,
           "orden": 4,
-          "sensible": false,
+          "sensible": true,
           "error": false,
           "grupo": "Chile",
           "imagen": null
         },
         {
           "fuente": "r/chile",
-          "tema": "Los terrenos de Macul que guardan un secreto de hace 50 años: salen a la venta predios donde se investiga el destino de hasta 30 víctimas de la dictadura | The Clinic",
-          "link": "https://www.reddit.com/r/chile/comments/1uzvlh1/los_terrenos_de_macul_que_guardan_un_secreto_de/",
+          "tema": "se siente un ambiente de tristeza",
+          "link": "https://www.reddit.com/r/chile/comments/1v0fzjw/se_siente_un_ambiente_de_tristeza/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -320,8 +320,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "What to even do with LinkedIn these days?",
-          "link": "https://www.reddit.com/r/marketing/comments/1uytri6/what_to_even_do_with_linkedin_these_days/",
+          "tema": "What is your biggest frustration with your creative/marketing agencies?",
+          "link": "https://www.reddit.com/r/marketing/comments/1v0n19t/what_is_your_biggest_frustration_with_your/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -331,8 +331,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "What is your specialty/job in marketing and why?",
-          "link": "https://www.reddit.com/r/marketing/comments/1uyjdlg/what_is_your_specialtyjob_in_marketing_and_why/",
+          "tema": "Thoughts on Meta Ads Placements — Are Reels/Stories no good?",
+          "link": "https://www.reddit.com/r/marketing/comments/1v05tys/thoughts_on_meta_ads_placements_are_reelsstories/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -342,8 +342,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "Struggling to reach technology specific audience",
-          "link": "https://www.reddit.com/r/marketing/comments/1uz7wyc/struggling_to_reach_technology_specific_audience/",
+          "tema": "What to even do with LinkedIn these days?",
+          "link": "https://www.reddit.com/r/marketing/comments/1uytri6/what_to_even_do_with_linkedin_these_days/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -353,8 +353,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What's up with the controversy surrounding JD Vance going on Joe Rogan's show?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uzeopq/whats_up_with_the_controversy_surrounding_jd/",
+          "tema": "What’s going on with Indian politics today?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uzzvte/whats_going_on_with_indian_politics_today/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -375,10 +375,21 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
+          "tema": "What's up with the controversy surrounding JD Vance going on Joe Rogan's show?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uzeopq/whats_up_with_the_controversy_surrounding_jd/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
           "tema": "What's going on with people saying Google Search has gotten so much worse?",
           "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uz4xou/whats_going_on_with_people_saying_google_search/",
           "volumen": null,
-          "orden": 3,
+          "orden": 4,
           "sensible": false,
           "error": false,
           "grupo": "Out of the Loop",
@@ -389,17 +400,6 @@
           "tema": "What's going on with people saying Trump released documents yesterday that disucss Russian election interference?",
           "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uyxv82/whats_going_on_with_people_saying_trump_released/",
           "volumen": null,
-          "orden": 4,
-          "sensible": false,
-          "error": false,
-          "grupo": "Out of the Loop",
-          "imagen": null
-        },
-        {
-          "fuente": "r/OutOfTheLoop",
-          "tema": "What is going on with the president's election speech?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uyjsow/what_is_going_on_with_the_presidents_election/",
-          "volumen": null,
           "orden": 5,
           "sensible": false,
           "error": false,
@@ -408,8 +408,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "Marx would use MY distro!",
-          "link": "https://www.reddit.com/r/memes/comments/1uztcve/marx_would_use_my_distro/",
+          "tema": "😭😭😭😭😭jajajaja",
+          "link": "https://www.reddit.com/r/memes/comments/1v0m4re/jajajaja/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -419,8 +419,8 @@
         },
         {
           "fuente": "r/TikTokCringe",
-          "tema": "this is a banger",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uzrufv/this_is_a_banger/",
+          "tema": "ER doctors warning parents against getting their kids e-bikes and e-scooters.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1v0mboz/er_doctors_warning_parents_against_getting_their/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -430,8 +430,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "Finally a good reason",
-          "link": "https://www.reddit.com/r/memes/comments/1uzk3aj/finally_a_good_reason/",
+          "tema": "So much for the lawsuit",
+          "link": "https://www.reddit.com/r/memes/comments/1v0iq9l/so_much_for_the_lawsuit/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -441,8 +441,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "his part of share",
-          "link": "https://www.reddit.com/r/memes/comments/1uzrlva/his_part_of_share/",
+          "tema": "Winner Mentality",
+          "link": "https://www.reddit.com/r/memes/comments/1v0icxl/winner_mentality/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -451,9 +451,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/TikTokCringe",
-          "tema": "Sleep paralysis demon.",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1uzul9f/sleep_paralysis_demon/",
+          "fuente": "r/memes",
+          "tema": "We bring you in the studio dis mornin",
+          "link": "https://www.reddit.com/r/memes/comments/1v0lpif/we_bring_you_in_the_studio_dis_mornin/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -463,8 +463,8 @@
         },
         {
           "fuente": "r/Millennials",
-          "tema": "What books got you into reading as a kid?",
-          "link": "https://www.reddit.com/r/Millennials/comments/1uzvds8/what_books_got_you_into_reading_as_a_kid/",
+          "tema": "I love the stove light. I know stoves still have lights on them, but mine does not and I miss it. The light told me “everything is gonna be okay.”",
+          "link": "https://www.reddit.com/r/Millennials/comments/1v0fjav/i_love_the_stove_light_i_know_stoves_still_have/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -474,8 +474,8 @@
         },
         {
           "fuente": "r/popculturechat",
-          "tema": "In honor of the Odyssey, can we take a moment to acknowledge that Joshua Jackson has dated two Helen’s of Troy?",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1uzfjxx/in_honor_of_the_odyssey_can_we_take_a_moment_to/",
+          "tema": "2 gay sheep rescued from slaughter after refusing to mate with females now live peacefully on a German farm run by Michael Stücke, founder of the nonprofit Rainbow Wool. In 2025, they collaborated with Grindr to produce a fashion show featuring knitwear made from yarn spun from Stücke’s sheep",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1v0iy8n/2_gay_sheep_rescued_from_slaughter_after_refusing/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -485,8 +485,8 @@
         },
         {
           "fuente": "r/GenZ",
-          "tema": "FaMiLy VaLuEs",
-          "link": "https://www.reddit.com/r/GenZ/comments/1uztdbm/family_values/",
+          "tema": "I think all of us need to be reading the regretful parents subreddit",
+          "link": "https://www.reddit.com/r/GenZ/comments/1v0fmaf/i_think_all_of_us_need_to_be_reading_the/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -495,9 +495,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/Millennials",
-          "tema": "Who else still says \"Ain't nobody got time for that\" over a decade later?",
-          "link": "https://www.reddit.com/r/Millennials/comments/1uzfkfj/who_else_still_says_aint_nobody_got_time_for_that/",
+          "fuente": "r/popculturechat",
+          "tema": "Just married! The 1975 frontman Matty Healy and model Gabriette Bechtel said “I do” on Saturday in a romantic sunset ceremony at Madonna’s former Hollywood Hills estate beneath the iconic Hollywood sign | July 18, 2026",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1v0heur/just_married_the_1975_frontman_matty_healy_and/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -507,8 +507,8 @@
         },
         {
           "fuente": "r/popculturechat",
-          "tema": "Brian Cox on why he isn’t afraid of backlash for supporting Palestinians : “I’m too old, too tired, and too talented quite frankly to take any sh*t”",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1uzgb73/brian_cox_on_why_he_isnt_afraid_of_backlash_for/",
+          "tema": "Inde Navarrette was gifted an ultra-rare copy of ‘CALL OF DUTY: MODERN WARFARE 2’ at Fanatics Fest",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1v0e7n4/inde_navarrette_was_gifted_an_ultrarare_copy_of/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -522,7 +522,7 @@
   "noticias": {
     "fuente": "Noticias",
     "ok": true,
-    "detalle": "feeds caídos: Puro Merca",
+    "detalle": "feeds caídos: RoastBrief",
     "items": [
       {
         "fuente": "Think with Google",
@@ -657,14 +657,47 @@
         "imagen": "https://jfdigital.es/wp-content/uploads/2026/05/geo-seo.png"
       },
       {
-        "fuente": "Noticias",
-        "tema": "⚠️ La fuente falló: Puro Merca: not well-formed (invalid token): line 1, column 119",
-        "link": "",
+        "fuente": "Puro Merca",
+        "tema": "Coca-Cola® quiere que vivas el Mundial y tiene un rally preparado para ti…",
+        "link": "https://puromerca.com/rally-mundialista-coca-cola-2026-guadalajara-monterrey/",
         "volumen": null,
-        "orden": null,
+        "orden": 1,
         "sensible": false,
-        "error": true,
-        "grupo": "Puro Merca",
+        "error": false,
+        "grupo": null,
+        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/YDRAY-RALLY_COCACOLA_ESTATICOS_BACK_DE_TV_-1920x1080-1-1024x576.png"
+      },
+      {
+        "fuente": "Puro Merca",
+        "tema": "¡Qué chorpresa! Así es cómo Vualá convirtió la nostalgia del Chavo del 8 en un premio nacional",
+        "link": "https://puromerca.com/vuala-chorpresa-chavo-del-8-iab-mixx-2026/",
+        "volumen": null,
+        "orden": 2,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3ad.png"
+      },
+      {
+        "fuente": "Puro Merca",
+        "tema": "Doritos® está llegando al Mundial 2026 sin hablar directamente del futbol.",
+        "link": "https://puromerca.com/doritos-mundial-2026-after-musica/",
+        "volumen": null,
+        "orden": 3,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_TomCollins-240x300.png"
+      },
+      {
+        "fuente": "Puro Merca",
+        "tema": "mixi, la marca que sabe de gatos y acaba de convertirse en el alimento oficial de la Selección Nacional",
+        "link": "https://puromerca.com/mixi-alimento-oficial-seleccion-nacional/",
+        "volumen": null,
+        "orden": 4,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
         "imagen": null
       },
       {
@@ -712,47 +745,14 @@
         "imagen": "https://www.mercadonegro.pe/wp-content/uploads/2026/07/image-140.png"
       },
       {
-        "fuente": "RoastBrief",
-        "tema": "Como si fuera una película, la FIFA lanza tráiler de la final del Mundial 2026",
-        "link": "https://roastbrief.com.mx/2026/07/como-si-fuera-una-pelicula-la-fifa-lanza-trailer-de-la-final-del-mundial-2026/",
+        "fuente": "Noticias",
+        "tema": "⚠️ La fuente falló: RoastBrief: 415 Client Error: Unsupported Media Type for url: https://roastbrief.com.mx/feed/",
+        "link": "",
         "volumen": null,
-        "orden": 1,
+        "orden": null,
         "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": null
-      },
-      {
-        "fuente": "RoastBrief",
-        "tema": "La campaña «Lucky Losers» de Chispa convirtió la desilusión futbolera en la oportunidad de tener suerte en el amor",
-        "link": "https://roastbrief.com.mx/2026/07/la-campana-lucky-losers-de-chispa-convirtio-la-desilusion-futbolera-en-la-oportunidad-de-tener-suerte-en-el-amor/",
-        "volumen": null,
-        "orden": 2,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://www.youtube.com/embed/PyhCB52b4lU"
-      },
-      {
-        "fuente": "RoastBrief",
-        "tema": "Dr. Simi apuesta por el crédito y convierte la salud en una estrategia de fidelización",
-        "link": "https://roastbrief.com.mx/2026/07/dr-simi-apuesta-por-el-credito-y-convierte-la-salud-en-una-estrategia-de-fidelizacion/",
-        "volumen": null,
-        "orden": 3,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": null
-      },
-      {
-        "fuente": "RoastBrief",
-        "tema": "El Ojo de Iberoamérica anuncia la apertura de las inscripciones 2026",
-        "link": "https://roastbrief.com.mx/2026/07/el-ojo-de-iberoamerica-anuncia-la-apertura-de-las-inscripciones-2026/",
-        "volumen": null,
-        "orden": 4,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
+        "error": true,
+        "grupo": "RoastBrief",
         "imagen": null
       }
     ]
@@ -763,50 +763,6 @@
     "detalle": "",
     "items": [
       {
-        "fuente": "1936",
-        "tema": "Se produce el golpe de Estado contra el Gobierno de la Segunda República española, dando comienzo a la Guerra Civil Española.",
-        "link": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Espa%C3%B1a_de_julio_de_1936",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 18/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Spanish_Civil_War_front_July_1936_%28Spanish%29.svg/langes-330px-Spanish_Civil_War_front_July_1936_%28Spanish%29.svg.png"
-      },
-      {
-        "fuente": "1918",
-        "tema": "Nace Nelson Mandela, primer presidente sudafricano elegido democráticamente.",
-        "link": "https://es.wikipedia.org/wiki/Nelson_Mandela",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 18/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nelson_Mandela_1994_%282%29.jpg/330px-Nelson_Mandela_1994_%282%29.jpg"
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día Internacional de la Vaquita Marina",
-        "link": "https://es.wikipedia.org/wiki/Phocoena_sinus",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 18/07",
-        "imagen": null
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día Mundial de la Escucha",
-        "link": "",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 18/07",
-        "imagen": null
-      },
-      {
         "fuente": "1979",
         "tema": "En Nicaragua los guerrilleros del Frente Sandinista de Liberación Nacional (FSLN) derrocan a la dictadura de la familia Somoza.",
         "link": "https://es.wikipedia.org/wiki/Nicaragua",
@@ -814,7 +770,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "domingo 19/07",
+        "grupo": "Hoy · 19/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/langes-330px-Flag_of_Nicaragua.svg.png"
       },
       {
@@ -825,7 +781,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "domingo 19/07",
+        "grupo": "Hoy · 19/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Justo_Rufino_Barrios_Auy%C3%B3n.jpg/330px-Justo_Rufino_Barrios_Auy%C3%B3n.jpg"
       },
       {
@@ -836,7 +792,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "domingo 19/07",
+        "grupo": "Hoy · 19/07",
         "imagen": null
       },
       {
@@ -847,7 +803,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "domingo 19/07",
+        "grupo": "Hoy · 19/07",
         "imagen": null
       },
       {
@@ -983,13 +939,46 @@
         "imagen": null
       },
       {
-        "fuente": "Efemérides",
-        "tema": "⚠️ La fuente falló: jueves 23/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/23",
+        "fuente": "2011",
+        "tema": "Muere Amy Winehouse (en la imagen), cantautora de soul británica de origen judío.",
+        "link": "https://es.wikipedia.org/wiki/Amy_Winehouse",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "jueves 23/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Amy_Winehouse-_artista_de_ensue%C3%B1o.jpg/330px-Amy_Winehouse-_artista_de_ensue%C3%B1o.jpg"
+      },
+      {
+        "fuente": "1995",
+        "tema": "Los astrónomos estadounidenses Alan Hale y Thomas Bopp descubren, casi simultáneamente, el cometa Hale-Bopp.",
+        "link": "https://es.wikipedia.org/wiki/Astr%C3%B3nomo",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "jueves 23/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg/330px-Johannes_Vermeer_-_The_Astronomer_-_1668.jpg"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial de las Ballenas y Delfines",
         "link": "",
         "volumen": null,
         "orden": null,
         "sensible": false,
-        "error": true,
+        "error": false,
+        "grupo": "jueves 23/07",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial de las Ballenas y Delfines",
+        "link": "https://es.wikipedia.org/wiki/Estados_Unidos",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
         "grupo": "jueves 23/07",
         "imagen": null
       },
@@ -1002,6 +991,17 @@
         "sensible": false,
         "error": true,
         "grupo": "viernes 24/07",
+        "imagen": null
+      },
+      {
+        "fuente": "Efemérides",
+        "tema": "⚠️ La fuente falló: sábado 25/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/25",
+        "link": "",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": true,
+        "grupo": "sábado 25/07",
         "imagen": null
       }
     ]
