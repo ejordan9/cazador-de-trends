@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-07-19",
-  "generado": "2026-07-19T14:04:20+00:00",
+  "fecha": "2026-07-20",
+  "generado": "2026-07-20T14:41:13+00:00",
   "fuentes": [
     {
       "fuente": "X Chile",
@@ -9,8 +9,8 @@
       "items": [
         {
           "fuente": "X Chile",
-          "tema": "#SistemaFrontal",
-          "link": "https://x.com/search?q=%23SistemaFrontal&src=trend_click",
+          "tema": "España",
+          "link": "https://x.com/search?q=Espa%C3%B1a&src=trend_click",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -20,8 +20,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#LingOrmPhuketFanMeet",
-          "link": "https://x.com/search?q=%23LingOrmPhuketFanMeet&src=trend_click",
+          "tema": "#MundialDeFutbol2026",
+          "link": "https://x.com/search?q=%23MundialDeFutbol2026&src=trend_click",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -31,8 +31,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "LINGORM THAILAND FANTOUR",
-          "link": "https://x.com/search?q=LINGORM%20THAILAND%20FANTOUR&src=trend_click",
+          "tema": "Paredes",
+          "link": "https://x.com/search?q=Paredes&src=trend_click",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -42,19 +42,19 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Carabineros",
-          "link": "https://x.com/search?q=Carabineros&src=trend_click",
+          "tema": "Messi",
+          "link": "https://x.com/search?q=Messi&src=trend_click",
           "volumen": null,
           "orden": 4,
-          "sensible": true,
+          "sensible": false,
           "error": false,
           "grupo": null,
           "imagen": null
         },
         {
           "fuente": "X Chile",
-          "tema": "#Francia",
-          "link": "https://x.com/search?q=%23Francia&src=trend_click",
+          "tema": "#MundialxCHV",
+          "link": "https://x.com/search?q=%23MundialxCHV&src=trend_click",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -64,8 +64,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Ovalle",
-          "link": "https://x.com/search?q=Ovalle&src=trend_click",
+          "tema": "Coquimbo",
+          "link": "https://x.com/search?q=Coquimbo&src=trend_click",
           "volumen": null,
           "orden": 6,
           "sensible": false,
@@ -75,8 +75,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "EMANUEL AL 9009",
-          "link": "https://x.com/search?q=EMANUEL%20AL%209009&src=trend_click",
+          "tema": "Estado de Catástrofe",
+          "link": "https://x.com/search?q=Estado%20de%20Cat%C3%A1strofe&src=trend_click",
           "volumen": null,
           "orden": 7,
           "sensible": false,
@@ -86,8 +86,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Saka",
-          "link": "https://x.com/search?q=Saka&src=trend_click",
+          "tema": "#ESPxARG",
+          "link": "https://x.com/search?q=%23ESPxARG&src=trend_click",
           "volumen": null,
           "orden": 8,
           "sensible": false,
@@ -97,8 +97,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Marco Cosme",
-          "link": "https://x.com/search?q=Marco%20Cosme&src=trend_click",
+          "tema": "#BTSXWorldCup2026",
+          "link": "https://x.com/search?q=%23BTSXWorldCup2026&src=trend_click",
           "volumen": null,
           "orden": 9,
           "sensible": false,
@@ -108,8 +108,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Aquino",
-          "link": "https://x.com/search?q=Aquino&src=trend_click",
+          "tema": "#BTSHALFTIMESHOW",
+          "link": "https://x.com/search?q=%23BTSHALFTIMESHOW&src=trend_click",
           "volumen": null,
           "orden": 10,
           "sensible": false,
@@ -126,9 +126,9 @@
       "items": [
         {
           "fuente": "Google Trends Chile",
-          "tema": "santiago mele",
-          "link": "https://www.google.com/search?q=santiago%20mele",
-          "volumen": "100+",
+          "tema": "accuweather",
+          "link": "https://www.google.com/search?q=accuweather",
+          "volumen": "200+",
           "orden": 1,
           "sensible": false,
           "error": false,
@@ -137,9 +137,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "la cuarta",
-          "link": "https://www.google.com/search?q=la%20cuarta",
-          "volumen": "100+",
+          "tema": "tiempo valparaiso",
+          "link": "https://www.google.com/search?q=tiempo%20valparaiso",
+          "volumen": "200+",
           "orden": 2,
           "sensible": false,
           "error": false,
@@ -148,9 +148,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "inundación",
-          "link": "https://www.google.com/search?q=inundaci%C3%B3n",
-          "volumen": "200+",
+          "tema": "el tiempo en viña del mar",
+          "link": "https://www.google.com/search?q=el%20tiempo%20en%20vi%C3%B1a%20del%20mar",
+          "volumen": "100+",
           "orden": 3,
           "sensible": false,
           "error": false,
@@ -159,9 +159,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "tiempo la serena",
-          "link": "https://www.google.com/search?q=tiempo%20la%20serena",
-          "volumen": "100+",
+          "tema": "dia",
+          "link": "https://www.google.com/search?q=dia",
+          "volumen": "2000+",
           "orden": 4,
           "sensible": false,
           "error": false,
@@ -170,8 +170,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "formula 1 hoy",
-          "link": "https://www.google.com/search?q=formula%201%20hoy",
+          "tema": "ingrid parra",
+          "link": "https://www.google.com/search?q=ingrid%20parra",
           "volumen": "200+",
           "orden": 5,
           "sensible": false,
@@ -181,9 +181,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "tormenta eléctrica",
-          "link": "https://www.google.com/search?q=tormenta%20el%C3%A9ctrica",
-          "volumen": "500+",
+          "tema": "metro de santiago",
+          "link": "https://www.google.com/search?q=metro%20de%20santiago",
+          "volumen": "200+",
           "orden": 6,
           "sensible": false,
           "error": false,
@@ -192,8 +192,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "clima coquimbo",
-          "link": "https://www.google.com/search?q=clima%20coquimbo",
+          "tema": "clima temuco",
+          "link": "https://www.google.com/search?q=clima%20temuco",
           "volumen": "100+",
           "orden": 7,
           "sensible": false,
@@ -203,9 +203,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "coquimbo",
-          "link": "https://www.google.com/search?q=coquimbo",
-          "volumen": "200+",
+          "tema": "miss universo",
+          "link": "https://www.google.com/search?q=miss%20universo",
+          "volumen": "500+",
           "orden": 8,
           "sensible": false,
           "error": false,
@@ -214,8 +214,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "météo",
-          "link": "https://www.google.com/search?q=m%C3%A9t%C3%A9o",
+          "tema": "emol.cl",
+          "link": "https://www.google.com/search?q=emol.cl",
           "volumen": "200+",
           "orden": 9,
           "sensible": false,
@@ -225,9 +225,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "2030",
-          "link": "https://www.google.com/search?q=2030",
-          "volumen": "1000+",
+          "tema": "clima",
+          "link": "https://www.google.com/search?q=clima",
+          "volumen": "100000+",
           "orden": 10,
           "sensible": false,
           "error": false,
@@ -242,9 +242,9 @@
       "detalle": "",
       "items": [
         {
-          "fuente": "r/RepublicadeChile",
-          "tema": "Harta del especial maratónico 'Chile en alerta' en todos los canales nacionales.",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1v0ik6o/harta_del_especial_maratónico_chile_en_alerta_en/",
+          "fuente": "r/chile",
+          "tema": "\"Con la presencia de los militares, no va a dejar de llover\"",
+          "link": "https://www.reddit.com/r/chile/comments/1v1ldna/con_la_presencia_de_los_militares_no_va_a_dejar/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -253,9 +253,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/chile",
-          "tema": "Siempre hay un chileno",
-          "link": "https://www.reddit.com/r/chile/comments/1v0b425/siempre_hay_un_chileno/",
+          "fuente": "r/RepublicadeChile",
+          "tema": "Celebrando 10 años (tarde)",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1v18dze/celebrando_10_años_tarde/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -265,8 +265,8 @@
         },
         {
           "fuente": "r/chile",
-          "tema": "Honestastamente cansada de las citas y gurus de Internet.",
-          "link": "https://www.reddit.com/r/chile/comments/1v0hkj2/honestastamente_cansada_de_las_citas_y_gurus_de/",
+          "tema": "Felicidades España 🇪🇸",
+          "link": "https://www.reddit.com/r/chile/comments/1v13531/felicidades_españa/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -276,19 +276,19 @@
         },
         {
           "fuente": "r/chile",
-          "tema": "\"Está en Hawái\": Acusan ausencia de ministro de Defensa en conducción de FFAA en pleno sistema frontal",
-          "link": "https://www.reddit.com/r/chile/comments/1v0cvwx/está_en_hawái_acusan_ausencia_de_ministro_de/",
+          "tema": "Alcalde de Coquimbo arremete contra el Gobierno por emergencia: \"Estamos completamente solos\"",
+          "link": "https://www.reddit.com/r/chile/comments/1v1kpsv/alcalde_de_coquimbo_arremete_contra_el_gobierno/",
           "volumen": null,
           "orden": 4,
-          "sensible": true,
+          "sensible": false,
           "error": false,
           "grupo": "Chile",
           "imagen": null
         },
         {
           "fuente": "r/chile",
-          "tema": "se siente un ambiente de tristeza",
-          "link": "https://www.reddit.com/r/chile/comments/1v0fzjw/se_siente_un_ambiente_de_tristeza/",
+          "tema": "¿\"Ropa linda\" ante todo? Botas con taco de ministra Ducó durante temporal generan reacciones",
+          "link": "https://www.reddit.com/r/chile/comments/1v1ae8y/ropa_linda_ante_todo_botas_con_taco_de_ministra/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -320,8 +320,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "What is your biggest frustration with your creative/marketing agencies?",
-          "link": "https://www.reddit.com/r/marketing/comments/1v0n19t/what_is_your_biggest_frustration_with_your/",
+          "tema": "MCP For Marketers: What To Connect First & Why Your Data Wins",
+          "link": "https://www.reddit.com/r/marketing/comments/1v1lkcl/mcp_for_marketers_what_to_connect_first_why_your/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -331,8 +331,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "Thoughts on Meta Ads Placements — Are Reels/Stories no good?",
-          "link": "https://www.reddit.com/r/marketing/comments/1v05tys/thoughts_on_meta_ads_placements_are_reelsstories/",
+          "tema": "Manually checking all my campaigns is driving me crazy",
+          "link": "https://www.reddit.com/r/marketing/comments/1v1nddn/manually_checking_all_my_campaigns_is_driving_me/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -342,8 +342,8 @@
         },
         {
           "fuente": "r/marketing",
-          "tema": "What to even do with LinkedIn these days?",
-          "link": "https://www.reddit.com/r/marketing/comments/1uytri6/what_to_even_do_with_linkedin_these_days/",
+          "tema": "What is your biggest frustration with your creative/marketing agencies?",
+          "link": "https://www.reddit.com/r/marketing/comments/1v0n19t/what_is_your_biggest_frustration_with_your/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -353,8 +353,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What’s going on with Indian politics today?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uzzvte/whats_going_on_with_indian_politics_today/",
+          "tema": "What’s going on with this whole FLOCK camera situation?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1v14rik/whats_going_on_with_this_whole_flock_camera/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -364,8 +364,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "Whats the deal with the \"Wordle Devs\" thing?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uzlwk9/whats_the_deal_with_the_wordle_devs_thing/",
+          "tema": "What's the deal with the squishy butter?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1v16on2/whats_the_deal_with_the_squishy_butter/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -375,8 +375,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What's up with the controversy surrounding JD Vance going on Joe Rogan's show?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uzeopq/whats_up_with_the_controversy_surrounding_jd/",
+          "tema": "What's going on with all the \"positive\" posts about Novak Djokovic?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1v0w346/whats_going_on_with_all_the_positive_posts_about/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -386,8 +386,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What's going on with people saying Google Search has gotten so much worse?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uz4xou/whats_going_on_with_people_saying_google_search/",
+          "tema": "What’s going on with the folk valley memes?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1v0tbg8/whats_going_on_with_the_folk_valley_memes/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -397,8 +397,8 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
-          "tema": "What's going on with people saying Trump released documents yesterday that disucss Russian election interference?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1uyxv82/whats_going_on_with_people_saying_trump_released/",
+          "tema": "What’s up with U.K. Prime Ministers? Why do they seem to change randomly like this?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1v1k3hv/whats_up_with_uk_prime_ministers_why_do_they_seem/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -408,8 +408,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "😭😭😭😭😭jajajaja",
-          "link": "https://www.reddit.com/r/memes/comments/1v0m4re/jajajaja/",
+          "tema": "It is known",
+          "link": "https://www.reddit.com/r/memes/comments/1v1gymp/it_is_known/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -419,8 +419,8 @@
         },
         {
           "fuente": "r/TikTokCringe",
-          "tema": "ER doctors warning parents against getting their kids e-bikes and e-scooters.",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1v0mboz/er_doctors_warning_parents_against_getting_their/",
+          "tema": "Messi watching team being sore losers",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1v1f0io/messi_watching_team_being_sore_losers/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -429,9 +429,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/memes",
-          "tema": "So much for the lawsuit",
-          "link": "https://www.reddit.com/r/memes/comments/1v0iq9l/so_much_for_the_lawsuit/",
+          "fuente": "r/TikTokCringe",
+          "tema": "I like how people are getting fed up with this 😂",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1v1ms86/i_like_how_people_are_getting_fed_up_with_this/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -440,9 +440,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/memes",
-          "tema": "Winner Mentality",
-          "link": "https://www.reddit.com/r/memes/comments/1v0icxl/winner_mentality/",
+          "fuente": "r/TikTokCringe",
+          "tema": "Cuts the line, backs into him, then accuses him of assault.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1v1gzl9/cuts_the_line_backs_into_him_then_accuses_him_of/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -451,9 +451,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/memes",
-          "tema": "We bring you in the studio dis mornin",
-          "link": "https://www.reddit.com/r/memes/comments/1v0lpif/we_bring_you_in_the_studio_dis_mornin/",
+          "fuente": "r/TikTokCringe",
+          "tema": "What have we become? True insanity.",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1v13n7o/what_have_we_become_true_insanity/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -462,9 +462,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/Millennials",
-          "tema": "I love the stove light. I know stoves still have lights on them, but mine does not and I miss it. The light told me “everything is gonna be okay.”",
-          "link": "https://www.reddit.com/r/Millennials/comments/1v0fjav/i_love_the_stove_light_i_know_stoves_still_have/",
+          "fuente": "r/popculturechat",
+          "tema": "Nico Williams gives his World Cup gold medal to his mom, who crossed the Sahara desert in search for a better life while pregnant with his older brother, Iñaki",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1v1b6du/nico_williams_gives_his_world_cup_gold_medal_to/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -473,9 +473,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/popculturechat",
-          "tema": "2 gay sheep rescued from slaughter after refusing to mate with females now live peacefully on a German farm run by Michael Stücke, founder of the nonprofit Rainbow Wool. In 2025, they collaborated with Grindr to produce a fashion show featuring knitwear made from yarn spun from Stücke’s sheep",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1v0iy8n/2_gay_sheep_rescued_from_slaughter_after_refusing/",
+          "fuente": "r/Millennials",
+          "tema": "Nolan's The Odyssey Is Not My Odyssey.",
+          "link": "https://www.reddit.com/r/Millennials/comments/1v13qx8/nolans_the_odyssey_is_not_my_odyssey/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -485,8 +485,8 @@
         },
         {
           "fuente": "r/GenZ",
-          "tema": "I think all of us need to be reading the regretful parents subreddit",
-          "link": "https://www.reddit.com/r/GenZ/comments/1v0fmaf/i_think_all_of_us_need_to_be_reading_the/",
+          "tema": "Trump refusing to get off after handing the trophy to Spain",
+          "link": "https://www.reddit.com/r/GenZ/comments/1v16r6a/trump_refusing_to_get_off_after_handing_the/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -495,9 +495,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/popculturechat",
-          "tema": "Just married! The 1975 frontman Matty Healy and model Gabriette Bechtel said “I do” on Saturday in a romantic sunset ceremony at Madonna’s former Hollywood Hills estate beneath the iconic Hollywood sign | July 18, 2026",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1v0heur/just_married_the_1975_frontman_matty_healy_and/",
+          "fuente": "r/GenZ",
+          "tema": "The Math Just Doesn't Work Anymore",
+          "link": "https://www.reddit.com/r/GenZ/comments/1v1as4p/the_math_just_doesnt_work_anymore/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -506,9 +506,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/popculturechat",
-          "tema": "Inde Navarrette was gifted an ultra-rare copy of ‘CALL OF DUTY: MODERN WARFARE 2’ at Fanatics Fest",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1v0e7n4/inde_navarrette_was_gifted_an_ultrarare_copy_of/",
+          "fuente": "r/Millennials",
+          "tema": "We used to be a proper country.",
+          "link": "https://www.reddit.com/r/Millennials/comments/1v16fd8/we_used_to_be_a_proper_country/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -763,50 +763,6 @@
     "detalle": "",
     "items": [
       {
-        "fuente": "1979",
-        "tema": "En Nicaragua los guerrilleros del Frente Sandinista de Liberación Nacional (FSLN) derrocan a la dictadura de la familia Somoza.",
-        "link": "https://es.wikipedia.org/wiki/Nicaragua",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 19/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/langes-330px-Flag_of_Nicaragua.svg.png"
-      },
-      {
-        "fuente": "1835",
-        "tema": "Nace Justo Rufino Barrios (en la imagen), abogado y militar, presidente de Guatemala de 1873 a 1885.",
-        "link": "https://es.wikipedia.org/wiki/Justo_Rufino_Barrios",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 19/07",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Justo_Rufino_Barrios_Auy%C3%B3n.jpg/330px-Justo_Rufino_Barrios_Auy%C3%B3n.jpg"
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día de Iberoamérica",
-        "link": "https://es.wikipedia.org/wiki/Iberoam%C3%A9rica",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 19/07",
-        "imagen": null
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día Mundial de Sacar la Lengua",
-        "link": "https://es.wikipedia.org/wiki/Lengua_(anatom%C3%ADa)",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 19/07",
-        "imagen": null
-      },
-      {
         "fuente": "1923",
         "tema": "Es asesinado en una emboscada el revolucionario mexicano Pancho Villa (en la imagen).",
         "link": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_mexicana",
@@ -814,7 +770,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "lunes 20/07",
+        "grupo": "Hoy · 20/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collage_revoluci%C3%B3n_mexicana.jpg/330px-Collage_revoluci%C3%B3n_mexicana.jpg"
       },
       {
@@ -825,7 +781,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "lunes 20/07",
+        "grupo": "Hoy · 20/07",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg"
       },
       {
@@ -836,7 +792,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "lunes 20/07",
+        "grupo": "Hoy · 20/07",
         "imagen": null
       },
       {
@@ -847,7 +803,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "lunes 20/07",
+        "grupo": "Hoy · 20/07",
         "imagen": null
       },
       {
@@ -983,13 +939,46 @@
         "imagen": null
       },
       {
-        "fuente": "Efemérides",
-        "tema": "⚠️ La fuente falló: viernes 24/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/24",
-        "link": "",
+        "fuente": "1980",
+        "tema": "Fallece Peter Sellers, actor y comediante británico.",
+        "link": "https://es.wikipedia.org/wiki/Peter_Sellers",
         "volumen": null,
         "orden": null,
         "sensible": false,
-        "error": true,
+        "error": false,
+        "grupo": "viernes 24/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Peter_Sellers_Allan_Warren.jpg/330px-Peter_Sellers_Allan_Warren.jpg"
+      },
+      {
+        "fuente": "1969",
+        "tema": "Regresan a la Tierra Armstrong, Aldrin y Collins (en la imagen), los primeros seres humanos en pisar la Luna.",
+        "link": "https://es.wikipedia.org/wiki/Tierra",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "viernes 24/07",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Earth_From_the_Perspective_of_Artemis_II_%28cropped%29.jpg/330px-Earth_From_the_Perspective_of_Artemis_II_%28cropped%29.jpg"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día de la Integración de América Latina",
+        "link": "https://es.wikipedia.org/wiki/Integraci%C3%B3n_latinoamericana",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "viernes 24/07",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Internacional del Autocuidado",
+        "link": "https://es.wikipedia.org/wiki/Autocuidado",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
         "grupo": "viernes 24/07",
         "imagen": null
       },
@@ -1002,6 +991,17 @@
         "sensible": false,
         "error": true,
         "grupo": "sábado 25/07",
+        "imagen": null
+      },
+      {
+        "fuente": "Efemérides",
+        "tema": "⚠️ La fuente falló: domingo 26/07: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/07/26",
+        "link": "",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": true,
+        "grupo": "domingo 26/07",
         "imagen": null
       }
     ]
