@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-08-07",
-  "generado": "2026-08-07T13:52:19+00:00",
+  "fecha": "2026-08-08",
+  "generado": "2026-08-08T13:30:33+00:00",
   "fuentes": [
     {
       "fuente": "X Chile",
@@ -9,8 +9,8 @@
       "items": [
         {
           "fuente": "X Chile",
-          "tema": "Camila Flores",
-          "link": "https://x.com/search?q=Camila%20Flores&src=trend_click",
+          "tema": "#LinglingxWeiboGalaNight",
+          "link": "https://x.com/search?q=%23LinglingxWeiboGalaNight&src=trend_click",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -20,8 +20,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "JUANICAR AL 9009",
-          "link": "https://x.com/search?q=JUANICAR%20AL%209009&src=trend_click",
+          "tema": "#OrmKornxWeiboGalaNight",
+          "link": "https://x.com/search?q=%23OrmKornxWeiboGalaNight&src=trend_click",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -31,8 +31,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#THIS_AND_THAT",
-          "link": "https://x.com/search?q=%23THIS_AND_THAT&src=trend_click",
+          "tema": "#PrimerPlanoCHV",
+          "link": "https://x.com/search?q=%23PrimerPlanoCHV&src=trend_click",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -42,8 +42,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#CadenaNacional",
-          "link": "https://x.com/search?q=%23CadenaNacional&src=trend_click",
+          "tema": "#RoomNumberFreen",
+          "link": "https://x.com/search?q=%23RoomNumberFreen&src=trend_click",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -53,8 +53,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Campillai",
-          "link": "https://x.com/search?q=Campillai&src=trend_click",
+          "tema": "Zampedri",
+          "link": "https://x.com/search?q=Zampedri&src=trend_click",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -64,8 +64,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "Rodri",
-          "link": "https://x.com/search?q=Rodri&src=trend_click",
+          "tema": "José Antonio Neme",
+          "link": "https://x.com/search?q=Jos%C3%A9%20Antonio%20Neme&src=trend_click",
           "volumen": null,
           "orden": 6,
           "sensible": false,
@@ -75,8 +75,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "SKZ THIS AND THAT DAY",
-          "link": "https://x.com/search?q=SKZ%20THIS%20AND%20THAT%20DAY&src=trend_click",
+          "tema": "Camila Flores",
+          "link": "https://x.com/search?q=Camila%20Flores&src=trend_click",
           "volumen": null,
           "orden": 7,
           "sensible": false,
@@ -86,8 +86,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#THIS도_THAT도_스키즈",
-          "link": "https://x.com/search?q=%23THIS%EB%8F%84_THAT%EB%8F%84_%EC%8A%A4%ED%82%A4%EC%A6%88&src=trend_click",
+          "tema": "#loscruzados",
+          "link": "https://x.com/search?q=%23loscruzados&src=trend_click",
           "volumen": null,
           "orden": 8,
           "sensible": false,
@@ -108,8 +108,8 @@
         },
         {
           "fuente": "X Chile",
-          "tema": "#AhoraLeTocaAChile",
-          "link": "https://x.com/search?q=%23AhoraLeTocaAChile&src=trend_click",
+          "tema": "Colombia",
+          "link": "https://x.com/search?q=Colombia&src=trend_click",
           "volumen": null,
           "orden": 10,
           "sensible": false,
@@ -126,8 +126,8 @@
       "items": [
         {
           "fuente": "Google Trends Chile",
-          "tema": "dia de la cerveza",
-          "link": "https://www.google.com/search?q=dia%20de%20la%20cerveza",
+          "tema": "dia del niño en chile",
+          "link": "https://www.google.com/search?q=dia%20del%20ni%C3%B1o%20en%20chile",
           "volumen": "100+",
           "orden": 1,
           "sensible": false,
@@ -137,9 +137,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "dia",
-          "link": "https://www.google.com/search?q=dia",
-          "volumen": "2000+",
+          "tema": "contraloría",
+          "link": "https://www.google.com/search?q=contralor%C3%ADa",
+          "volumen": "100+",
           "orden": 2,
           "sensible": false,
           "error": false,
@@ -148,9 +148,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "instituto de previsión social",
-          "link": "https://www.google.com/search?q=instituto%20de%20previsi%C3%B3n%20social",
-          "volumen": "100+",
+          "tema": "dia del niño",
+          "link": "https://www.google.com/search?q=dia%20del%20ni%C3%B1o",
+          "volumen": "200+",
           "orden": 3,
           "sensible": false,
           "error": false,
@@ -159,9 +159,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "ipc",
-          "link": "https://www.google.com/search?q=ipc",
-          "volumen": "200+",
+          "tema": "disney on ice",
+          "link": "https://www.google.com/search?q=disney%20on%20ice",
+          "volumen": "100+",
           "orden": 4,
           "sensible": false,
           "error": false,
@@ -170,8 +170,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "movistar",
-          "link": "https://www.google.com/search?q=movistar",
+          "tema": "chelsea - milan",
+          "link": "https://www.google.com/search?q=chelsea%20-%20milan",
           "volumen": "500+",
           "orden": 5,
           "sensible": false,
@@ -181,8 +181,8 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "el tiempo en los angeles",
-          "link": "https://www.google.com/search?q=el%20tiempo%20en%20los%20angeles",
+          "tema": "bono",
+          "link": "https://www.google.com/search?q=bono",
           "volumen": "200+",
           "orden": 6,
           "sensible": false,
@@ -192,9 +192,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "clima concepcion",
-          "link": "https://www.google.com/search?q=clima%20concepcion",
-          "volumen": "100+",
+          "tema": "jorge messi",
+          "link": "https://www.google.com/search?q=jorge%20messi",
+          "volumen": "5000+",
           "orden": 7,
           "sensible": false,
           "error": false,
@@ -203,20 +203,20 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "carabineros de chile",
-          "link": "https://www.google.com/search?q=carabineros%20de%20chile",
+          "tema": "martín arrau",
+          "link": "https://www.google.com/search?q=mart%C3%ADn%20arrau",
           "volumen": "200+",
           "orden": 8,
-          "sensible": true,
+          "sensible": false,
           "error": false,
           "grupo": null,
           "imagen": null
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "weather radar map",
-          "link": "https://www.google.com/search?q=weather%20radar%20map",
-          "volumen": "100+",
+          "tema": "juventus - inter",
+          "link": "https://www.google.com/search?q=juventus%20-%20inter",
+          "volumen": "2000+",
           "orden": 9,
           "sensible": false,
           "error": false,
@@ -225,9 +225,9 @@
         },
         {
           "fuente": "Google Trends Chile",
-          "tema": "rojo edwards",
-          "link": "https://www.google.com/search?q=rojo%20edwards",
-          "volumen": "1000+",
+          "tema": "elche c. f. - toulouse",
+          "link": "https://www.google.com/search?q=elche%20c.%20f.%20-%20toulouse",
+          "volumen": "500+",
           "orden": 10,
           "sensible": false,
           "error": false,
@@ -242,20 +242,20 @@
       "detalle": "",
       "items": [
         {
-          "fuente": "r/RepublicadeChile",
-          "tema": "Tinder y los guatones llorones",
-          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1vhzlus/tinder_y_los_guatones_llorones/",
+          "fuente": "r/chile",
+          "tema": "Contraloría acredita ocupación ilegal de bien fiscal por parte de delegado de Kast en Chañaral",
+          "link": "https://www.reddit.com/r/chile/comments/1vil2d9/contraloría_acredita_ocupación_ilegal_de_bien/",
           "volumen": null,
           "orden": 1,
-          "sensible": false,
+          "sensible": true,
           "error": false,
           "grupo": "Chile",
           "imagen": null
         },
         {
-          "fuente": "r/chile",
-          "tema": "Barberías lideran sospechas: Lanzan sitio web para denuncias anónimas sobre negocios turbios o que son de fachada",
-          "link": "https://www.reddit.com/r/chile/comments/1vhmfhh/barberías_lideran_sospechas_lanzan_sitio_web_para/",
+          "fuente": "r/RepublicadeChile",
+          "tema": "Basta de Aira",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1vipdlh/basta_de_aira/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -265,8 +265,8 @@
         },
         {
           "fuente": "r/chile",
-          "tema": "Aburrido de la IA en todos lados",
-          "link": "https://www.reddit.com/r/chile/comments/1vhi8kv/aburrido_de_la_ia_en_todos_lados/",
+          "tema": "Fiscalía investiga a Franco Parisi y otros militantes del PDG por presunto lavado de activos y fraude.",
+          "link": "https://www.reddit.com/r/chile/comments/1vijc99/fiscalía_investiga_a_franco_parisi_y_otros/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -275,9 +275,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/chile",
-          "tema": "Entrevista con Hackmetrix",
-          "link": "https://www.reddit.com/r/chile/comments/1vhbx75/entrevista_con_hackmetrix/",
+          "fuente": "r/RepublicadeChile",
+          "tema": "qué empresas chilenas son conocidas por comprar en China y ponerle \"su marca\"?",
+          "link": "https://www.reddit.com/r/RepublicadeChile/comments/1vii4ml/qué_empresas_chilenas_son_conocidas_por_comprar/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -287,11 +287,11 @@
         },
         {
           "fuente": "r/chile",
-          "tema": "Subsecretario de Educación defiende reforma al sistema de admisión escolar: “El sistema actual es casi inhumano”",
-          "link": "https://www.reddit.com/r/chile/comments/1vhyksb/subsecretario_de_educación_defiende_reforma_al/",
+          "tema": "Denuncian a presidente José Antonio Kast por entregar información falsa en cadena nacional",
+          "link": "https://www.reddit.com/r/chile/comments/1vi88z8/denuncian_a_presidente_josé_antonio_kast_por/",
           "volumen": null,
           "orden": 5,
-          "sensible": false,
+          "sensible": true,
           "error": false,
           "grupo": "Chile",
           "imagen": null
@@ -320,10 +320,21 @@
         },
         {
           "fuente": "r/marketing",
+          "tema": "Do you regret going into marketing?",
+          "link": "https://www.reddit.com/r/marketing/comments/1vi7buj/do_you_regret_going_into_marketing/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Marketing",
+          "imagen": null
+        },
+        {
+          "fuente": "r/marketing",
           "tema": "Has anyone downgraded job title during their career?",
           "link": "https://www.reddit.com/r/marketing/comments/1vheudd/has_anyone_downgraded_job_title_during_their/",
           "volumen": null,
-          "orden": 3,
+          "orden": 4,
           "sensible": false,
           "error": false,
           "grupo": "Marketing",
@@ -334,17 +345,6 @@
           "tema": "Unsure about my future in marketing after 10 years. Is it me?",
           "link": "https://www.reddit.com/r/marketing/comments/1vh359t/unsure_about_my_future_in_marketing_after_10/",
           "volumen": null,
-          "orden": 4,
-          "sensible": false,
-          "error": false,
-          "grupo": "Marketing",
-          "imagen": null
-        },
-        {
-          "fuente": "r/marketing",
-          "tema": "How are you managing your tasks and deadlines?",
-          "link": "https://www.reddit.com/r/marketing/comments/1vhiex7/how_are_you_managing_your_tasks_and_deadlines/",
-          "volumen": null,
           "orden": 5,
           "sensible": false,
           "error": false,
@@ -353,10 +353,43 @@
         },
         {
           "fuente": "r/OutOfTheLoop",
+          "tema": "Whats up with the Amanda Palmer hate?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1via57n/whats_up_with_the_amanda_palmer_hate/",
+          "volumen": null,
+          "orden": 1,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is the deal with flock cameras?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1vidfgt/what_is_the_deal_with_flock_cameras/",
+          "volumen": null,
+          "orden": 2,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
+          "tema": "What is the deal with HOTDGreens and HOTDBlacks?",
+          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1vihhan/what_is_the_deal_with_hotdgreens_and_hotdblacks/",
+          "volumen": null,
+          "orden": 3,
+          "sensible": false,
+          "error": false,
+          "grupo": "Out of the Loop",
+          "imagen": null
+        },
+        {
+          "fuente": "r/OutOfTheLoop",
           "tema": "What is the deal with Mitch McConnell returning home?",
           "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1vhkc3y/what_is_the_deal_with_mitch_mcconnell_returning/",
           "volumen": null,
-          "orden": 1,
+          "orden": 4,
           "sensible": false,
           "error": false,
           "grupo": "Out of the Loop",
@@ -367,39 +400,6 @@
           "tema": "What is the deal with people talking about expensive burritos?",
           "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1vhm521/what_is_the_deal_with_people_talking_about/",
           "volumen": null,
-          "orden": 2,
-          "sensible": false,
-          "error": false,
-          "grupo": "Out of the Loop",
-          "imagen": null
-        },
-        {
-          "fuente": "r/OutOfTheLoop",
-          "tema": "What is going on with Professor Jason Arday and his current 'scandal' that has lead to his resignation?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1vgxybq/what_is_going_on_with_professor_jason_arday_and/",
-          "volumen": null,
-          "orden": 3,
-          "sensible": false,
-          "error": false,
-          "grupo": "Out of the Loop",
-          "imagen": null
-        },
-        {
-          "fuente": "r/OutOfTheLoop",
-          "tema": "What is going on with people saying “boots”?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1vhg0om/what_is_going_on_with_people_saying_boots/",
-          "volumen": null,
-          "orden": 4,
-          "sensible": false,
-          "error": false,
-          "grupo": "Out of the Loop",
-          "imagen": null
-        },
-        {
-          "fuente": "r/OutOfTheLoop",
-          "tema": "What is the deal with people now saying Lindsay Clancy is innocent?",
-          "link": "https://www.reddit.com/r/OutOfTheLoop/comments/1vgtxms/what_is_the_deal_with_people_now_saying_lindsay/",
-          "volumen": null,
           "orden": 5,
           "sensible": false,
           "error": false,
@@ -407,9 +407,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/TikTokCringe",
-          "tema": "You may save me. but i didn't need it. ok?",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1vho00g/you_may_save_me_but_i_didnt_need_it_ok/",
+          "fuente": "r/memes",
+          "tema": "Modern Hollywood in one image.",
+          "link": "https://www.reddit.com/r/memes/comments/1viqi5o/modern_hollywood_in_one_image/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -419,8 +419,8 @@
         },
         {
           "fuente": "r/TikTokCringe",
-          "tema": "I never heard of dangerous games law until now",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1vhmz7g/i_never_heard_of_dangerous_games_law_until_now/",
+          "tema": "Delusional...",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1viempb/delusional/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -429,9 +429,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/TikTokCringe",
-          "tema": "New Yorker meets Russian operatives.",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1vhwvzf/new_yorker_meets_russian_operatives/",
+          "fuente": "r/memes",
+          "tema": "Discord had to step in💔",
+          "link": "https://www.reddit.com/r/memes/comments/1vipp26/discord_had_to_step_in/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -441,8 +441,8 @@
         },
         {
           "fuente": "r/memes",
-          "tema": "Auto 1080p is just for showcase",
-          "link": "https://www.reddit.com/r/memes/comments/1vhyadj/auto_1080p_is_just_for_showcase/",
+          "tema": "I have heard enough, make them pay taxes",
+          "link": "https://www.reddit.com/r/memes/comments/1vingjo/i_have_heard_enough_make_them_pay_taxes/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -452,8 +452,8 @@
         },
         {
           "fuente": "r/TikTokCringe",
-          "tema": "Liar Liar, Now Things are Dire",
-          "link": "https://www.reddit.com/r/TikTokCringe/comments/1vhsk06/liar_liar_now_things_are_dire/",
+          "tema": "And he gets away with it…",
+          "link": "https://www.reddit.com/r/TikTokCringe/comments/1viess5/and_he_gets_away_with_it/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -462,9 +462,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/popculturechat",
-          "tema": "Golden State Valkyries forward Gabby Williams: “There’s a lot of discourse around trans athletes and what they can compete in. I would welcome a trans athlete on my team or against my team. Anytime. I don’t think it’s a problem in the world, it’s just another way to kind of attack trans people.”",
-          "link": "https://www.reddit.com/r/popculturechat/comments/1vhmyx7/golden_state_valkyries_forward_gabby_williams/",
+          "fuente": "r/Millennials",
+          "tema": "My body aches even thinking about it",
+          "link": "https://www.reddit.com/r/Millennials/comments/1viid2s/my_body_aches_even_thinking_about_it/",
           "volumen": null,
           "orden": 1,
           "sensible": false,
@@ -473,9 +473,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/Millennials",
-          "tema": "Pretty accurate",
-          "link": "https://www.reddit.com/r/Millennials/comments/1vhn84f/pretty_accurate/",
+          "fuente": "r/popculturechat",
+          "tema": "Clip of QVC host Toni Brattin goes viral after her on-air slip up",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1vimqr7/clip_of_qvc_host_toni_brattin_goes_viral_after/",
           "volumen": null,
           "orden": 2,
           "sensible": false,
@@ -485,8 +485,8 @@
         },
         {
           "fuente": "r/GenZ",
-          "tema": "We're getting old lol",
-          "link": "https://www.reddit.com/r/GenZ/comments/1vhiizf/were_getting_old_lol/",
+          "tema": "Watching The Lego Movie hits harder now because of recent events.",
+          "link": "https://www.reddit.com/r/GenZ/comments/1vipq83/watching_the_lego_movie_hits_harder_now_because/",
           "volumen": null,
           "orden": 3,
           "sensible": false,
@@ -495,9 +495,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/GenZ",
-          "tema": "\"YEA THAT'S THE DIFFERENCE 💔\"",
-          "link": "https://www.reddit.com/r/GenZ/comments/1vhwog1/yea_thats_the_difference/",
+          "fuente": "r/popculturechat",
+          "tema": "Taylor Swift removes her song ‘August’ from Trump TikTok",
+          "link": "https://www.reddit.com/r/popculturechat/comments/1vil9pv/taylor_swift_removes_her_song_august_from_trump/",
           "volumen": null,
           "orden": 4,
           "sensible": false,
@@ -506,9 +506,9 @@
           "imagen": null
         },
         {
-          "fuente": "r/Millennials",
-          "tema": "I was obsessed with finger string tricks and completely forgot they existed until tonight",
-          "link": "https://www.reddit.com/r/Millennials/comments/1vhq0td/i_was_obsessed_with_finger_string_tricks_and/",
+          "fuente": "r/GenZ",
+          "tema": "25 million working young adults can't afford a home. Stop blaming Gen Z. Blame the economy",
+          "link": "https://www.reddit.com/r/GenZ/comments/1viml4g/25_million_working_young_adults_cant_afford_a/",
           "volumen": null,
           "orden": 5,
           "sensible": false,
@@ -522,29 +522,29 @@
   "noticias": {
     "fuente": "Noticias",
     "ok": true,
-    "detalle": "feeds caídos: Mercado Negro PE",
+    "detalle": "feeds caídos: Puro Merca, Mercado Negro PE, RoastBrief",
     "items": [
-      {
-        "fuente": "Think with Google",
-        "tema": "Your team doesn’t need an all-knowing leader. They need a transparent learner",
-        "link": "https://business.google.com/us/think/ai-excellence/your-team-doesnt-need-an-all-knowing-leader-they-need-a-transparent-learner/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
-        "volumen": null,
-        "orden": 1,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://storage.googleapis.com/twg-content/images/TwG_US_2857_-_Brian_Glaser_Byline__Leading_in__fwCW8CY.width-600.png"
-      },
       {
         "fuente": "Think with Google",
         "tema": "How Nescafé pairs global creator marketing with local flavor",
         "link": "https://business.google.com/us/think/search-and-video/nescafe-creator-advertising-global-framework/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
         "volumen": null,
-        "orden": 2,
+        "orden": 1,
         "sensible": false,
         "error": false,
         "grupo": null,
         "imagen": "https://storage.googleapis.com/twg-content/images/thumbnail_OAXed8C.width-600.jpg"
+      },
+      {
+        "fuente": "Think with Google",
+        "tema": "Your team doesn’t need an all-knowing leader. They need a transparent learner",
+        "link": "https://business.google.com/us/think/ai-excellence/your-team-doesnt-need-an-all-knowing-leader-they-need-a-transparent-learner/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "volumen": null,
+        "orden": 2,
+        "sensible": false,
+        "error": false,
+        "grupo": null,
+        "imagen": "https://storage.googleapis.com/twg-content/images/TwG_US_2857_-_Brian_Glaser_Byline__Leading_in__fwCW8CY.width-600.png"
       },
       {
         "fuente": "Think with Google",
@@ -559,14 +559,14 @@
       },
       {
         "fuente": "Think with Google",
-        "tema": "How YouTube creators grounded Javvy Coffee’s growth strategy",
-        "link": "https://business.google.com/us/think/search-and-video/javvy-coffee-youtube-creator-growth-strategy/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
+        "tema": "Head, heart & hands: How CMOs should prepare for the AI-reliant consumer",
+        "link": "https://business.google.com/us/think/future-of-marketing/consumer-behavior-ai-customer-experience/?utm_source=twg-rss-reader&utm_medium=rss&utm_campaign=rss-feed",
         "volumen": null,
         "orden": 4,
         "sensible": false,
         "error": false,
         "grupo": null,
-        "imagen": "https://storage.googleapis.com/twg-content/images/th_pYUypP3.width-600.jpg"
+        "imagen": "https://storage.googleapis.com/twg-content/images/Thumbnail_1600x900TwG_US_2767_-_How_YouTube_cr.width-600.jpg"
       },
       {
         "fuente": "La Criatura Creativa",
@@ -657,48 +657,15 @@
         "imagen": "https://jfdigital.es/wp-content/uploads/2026/06/aparecer-chatgpt.png"
       },
       {
-        "fuente": "Puro Merca",
-        "tema": "Así es cómo Chipotle busca conquistar el mercado mexicano con su menú.",
-        "link": "https://puromerca.com/chipotle-mexico-leticia/",
+        "fuente": "Noticias",
+        "tema": "⚠️ La fuente falló: Puro Merca: HTTPSConnectionPool(host='puromerca.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='puromerca.com', port=443) at 0x7ffa4330de20>, 'Connection to puromerca.com timed out. (connect timeout=15)'))",
+        "link": "",
         "volumen": null,
-        "orden": 1,
+        "orden": null,
         "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://puromerca.com/wp-content/uploads/2026/07/2-819x1024.png"
-      },
-      {
-        "fuente": "Puro Merca",
-        "tema": "Coca-Cola® quiere que vivas el Mundial y tiene un rally preparado para ti…",
-        "link": "https://puromerca.com/rally-mundialista-coca-cola-2026-guadalajara-monterrey/",
-        "volumen": null,
-        "orden": 2,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/YDRAY-RALLY_COCACOLA_ESTATICOS_BACK_DE_TV_-1920x1080-1-1024x576.png"
-      },
-      {
-        "fuente": "Puro Merca",
-        "tema": "¡Qué chorpresa! Así es cómo Vualá convirtió la nostalgia del Chavo del 8 en un premio nacional",
-        "link": "https://puromerca.com/vuala-chorpresa-chavo-del-8-iab-mixx-2026/",
-        "volumen": null,
-        "orden": 3,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3ad.png"
-      },
-      {
-        "fuente": "Puro Merca",
-        "tema": "Doritos® está llegando al Mundial 2026 sin hablar directamente del futbol.",
-        "link": "https://puromerca.com/doritos-mundial-2026-after-musica/",
-        "volumen": null,
-        "orden": 4,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://puromerca.com/wp-content/uploads/2026/05/PMF_Doritos-Afterparties_Posters_Talento_Natt-Calma-240x300.png"
+        "error": true,
+        "grupo": "Puro Merca",
+        "imagen": null
       },
       {
         "fuente": "Noticias",
@@ -712,47 +679,14 @@
         "imagen": null
       },
       {
-        "fuente": "RoastBrief",
-        "tema": "El 97% de las agencias de publicidad en México prioriza la IA, pero solo 19% ejerce un liderazgo formal",
-        "link": "https://roastbrief.com.mx/2026/08/el-97-de-las-agencias-de-publicidad-en-mexico-prioriza-la-ia-pero-solo-19-ejerce-un-liderazgo-formal/",
+        "fuente": "Noticias",
+        "tema": "⚠️ La fuente falló: RoastBrief: mismatched tag: line 93, column 2",
+        "link": "",
         "volumen": null,
-        "orden": 1,
+        "orden": null,
         "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": "https://roastbrief.com.mx/wp-content/uploads/2026/08/pag_17.png"
-      },
-      {
-        "fuente": "RoastBrief",
-        "tema": "CANACINE Puebla y el Congreso del Estado celebran 130 años del Cine Mexicano con un foro de diálogo y reflexión",
-        "link": "https://roastbrief.com.mx/2026/08/canacine-puebla-y-el-congreso-del-estado-celebran-130-anos-del-cine-mexicano-con-un-foro-de-dialogo-y-reflexion/",
-        "volumen": null,
-        "orden": 2,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": null
-      },
-      {
-        "fuente": "RoastBrief",
-        "tema": "Alpura PRO pedalea hacia el marketing con propósito",
-        "link": "https://roastbrief.com.mx/2026/08/alpura-pro-pedalea-hacia-el-marketing-con-proposito/",
-        "volumen": null,
-        "orden": 3,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
-        "imagen": null
-      },
-      {
-        "fuente": "RoastBrief",
-        "tema": "Disney y TikTok sellan una alianza global para integrar la IP del estudio en el ecosistema de video vertical",
-        "link": "https://roastbrief.com.mx/2026/08/disney-y-tiktok-sellan-una-alianza-global-para-integrar-la-ip-del-estudio-en-el-ecosistema-de-video-vertical/",
-        "volumen": null,
-        "orden": 4,
-        "sensible": false,
-        "error": false,
-        "grupo": null,
+        "error": true,
+        "grupo": "RoastBrief",
         "imagen": null
       }
     ]
@@ -763,50 +697,6 @@
     "detalle": "",
     "items": [
       {
-        "fuente": "2008",
-        "tema": "Georgia lanza una ofensiva militar contra la región separatista de Osetia del Sur, iniciando a la Segunda Guerra de Osetia del Sur.",
-        "link": "https://es.wikipedia.org/wiki/Georgia",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 07/08",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/langes-330px-Flag_of_Georgia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "fuente": "1957",
-        "tema": "Muere Oliver Hardy, actor cómico americano.",
-        "link": "https://es.wikipedia.org/wiki/Oliver_Hardy",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 07/08",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oliver_Hardy_-_1938.jpg/330px-Oliver_Hardy_-_1938.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Día Mundial de los Faros",
-        "link": "https://es.wikipedia.org/wiki/Faro",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 07/08",
-        "imagen": null
-      },
-      {
-        "fuente": "conmemoración",
-        "tema": "Organización Mundial de la Salud: Semana Mundial de la Lactancia Materna",
-        "link": "https://es.wikipedia.org/wiki/Semana_Mundial_de_la_Lactancia_Materna",
-        "volumen": null,
-        "orden": null,
-        "sensible": false,
-        "error": false,
-        "grupo": "Hoy · 07/08",
-        "imagen": null
-      },
-      {
         "fuente": "1981",
         "tema": "Nace Roger Federer, tenista suizo, considerado uno de los mejores de la historia de este deporte.",
         "link": "https://es.wikipedia.org/wiki/Roger_Federer",
@@ -814,7 +704,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "sábado 08/08",
+        "grupo": "Hoy · 08/08",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Federer_WM16_%2837%29_%2828136155830%29.jpg/330px-Federer_WM16_%2837%29_%2828136155830%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
@@ -825,7 +715,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "sábado 08/08",
+        "grupo": "Hoy · 08/08",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/330px-Richard_Nixon_presidential_portrait_%281%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
@@ -836,7 +726,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "sábado 08/08",
+        "grupo": "Hoy · 08/08",
         "imagen": null
       },
       {
@@ -847,7 +737,7 @@
         "orden": null,
         "sensible": false,
         "error": false,
-        "grupo": "sábado 08/08",
+        "grupo": "Hoy · 08/08",
         "imagen": null
       },
       {
@@ -983,13 +873,46 @@
         "imagen": null
       },
       {
-        "fuente": "Efemérides",
-        "tema": "⚠️ La fuente falló: miércoles 12/08: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/08/12",
-        "link": "",
+        "fuente": "2000",
+        "tema": "Se hunde el submarino ruso Kursk en el mar de Barents, tras una violenta explosión, muriendo sus 118 tripulantes.",
+        "link": "https://es.wikipedia.org/wiki/Rusia",
         "volumen": null,
         "orden": null,
         "sensible": false,
-        "error": true,
+        "error": false,
+        "grupo": "miércoles 12/08",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langes-330px-Flag_of_Russia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "fuente": "1866",
+        "tema": "Nace Jacinto Benavente, dramaturgo español, premio nobel de literatura en 1922.",
+        "link": "https://es.wikipedia.org/wiki/Jacinto_Benavente",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "miércoles 12/08",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jacinto_Benavente_y_Martinez.jpg/330px-Jacinto_Benavente_y_Martinez.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Internacional de la Juventud",
+        "link": "https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_la_Juventud",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
+        "grupo": "miércoles 12/08",
+        "imagen": null
+      },
+      {
+        "fuente": "conmemoración",
+        "tema": "Día Mundial del Disco de Vinilo",
+        "link": "https://es.wikipedia.org/wiki/Disco_de_vinilo",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": false,
         "grupo": "miércoles 12/08",
         "imagen": null
       },
@@ -1002,6 +925,17 @@
         "sensible": false,
         "error": true,
         "grupo": "jueves 13/08",
+        "imagen": null
+      },
+      {
+        "fuente": "Efemérides",
+        "tema": "⚠️ La fuente falló: viernes 14/08: 429 Client Error: Too Many Requests for url: https://es.wikipedia.org/api/rest_v1/feed/onthisday/selected/08/14",
+        "link": "",
+        "volumen": null,
+        "orden": null,
+        "sensible": false,
+        "error": true,
+        "grupo": "viernes 14/08",
         "imagen": null
       }
     ]
