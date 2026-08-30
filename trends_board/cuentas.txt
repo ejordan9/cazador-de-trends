@@ -13,20 +13,12 @@
 //  Para crear una categoría nueva: escribe una línea con #  Nombre de categoría
 // ===========================================================================
 
-# España / Global
-Yainire | https://www.linkedin.com/in/yainire/
-
 # Marketing (general)
-Alex Aldás | https://www.linkedin.com/in/alex-aldas/
 This Week in Marketing (newsletter) | https://www.linkedin.com/newsletters/this-week-in-marketing-7029849494275919873/
-
-# Trends videojuegos
-Emilio Hurtado Ruiz | https://www.linkedin.com/in/emiliohurtadoruiz/
 
 # Instagram
 Meganoticias CL | https://www.instagram.com/meganoticiascl/
 Mercado Negro PE | https://www.instagram.com/mercadonegrope/
 RoastBrief | https://www.instagram.com/roastbrief/
-Sabri Kolod | https://www.instagram.com/sabrikolod/
 Goldfish Group | https://www.instagram.com/goldfish.group/
 Revista PyM | https://www.instagram.com/revistapym/

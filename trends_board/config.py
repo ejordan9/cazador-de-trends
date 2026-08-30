@@ -56,22 +56,14 @@ EFEMERIDES_CONMEMORA = 2  # días conmemorativos ("Día de…") por día
 # de marcadores en el tablero. Para sumar/quitar: edita este dict.
 # Formato: {categoría: [(nombre, url), ...]}
 CUENTAS = {
-    "España / Global": [
-        ("Yainire", "https://www.linkedin.com/in/yainire/"),
-    ],
     "Marketing (general)": [
-        ("Alex Aldás", "https://www.linkedin.com/in/alex-aldas/"),
         ("This Week in Marketing (newsletter)",
          "https://www.linkedin.com/newsletters/this-week-in-marketing-7029849494275919873/"),
-    ],
-    "Trends videojuegos": [
-        ("Emilio Hurtado Ruiz", "https://www.linkedin.com/in/emiliohurtadoruiz/"),
     ],
     "Instagram": [
         ("Meganoticias CL", "https://www.instagram.com/meganoticiascl/"),
         ("Mercado Negro PE", "https://www.instagram.com/mercadonegrope/"),
         ("RoastBrief", "https://www.instagram.com/roastbrief/"),
-        ("Sabri Kolod", "https://www.instagram.com/sabrikolod/"),
         ("Goldfish Group", "https://www.instagram.com/goldfish.group/"),
         ("Revista PyM", "https://www.instagram.com/revistapym/"),
     ],
@@ -124,17 +116,9 @@ def cargar_cuentas() -> dict:
 # NO clasifican ni descartan nada: solo marcan visualmente el item (sensible=True)
 # para que el analista lo revise con cuidado. Respeta "no automatizar criterio".
 # Coincidencia case-insensitive por substring sobre el texto del tema.
-KEYWORDS_SENSIBLES = [
-    "boric",
-    "kast",
-    "cae",
-    "secreto bancario",
-    "juicio",
-    "ministro",
-    "carabineros",
-    "femicidio",
-    "narco",
-]
+# Lista vacía por defecto: el mecanismo queda disponible pero no marca nada.
+# Cada quien define sus propias keywords según el contexto que esté monitoreando.
+KEYWORDS_SENSIBLES: list[str] = []
 
 # --- Navegador ---
 # Binario del navegador para abrir el tablero. Si está vacío o no se encuentra,
